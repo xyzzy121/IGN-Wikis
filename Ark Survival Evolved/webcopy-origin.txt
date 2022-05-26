@@ -1,0 +1,1612 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2021/01/08/kid-icarus-wii-1610142539420.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2021\01\08\kid-icarus-wii-1610142539420.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/01/12/daredevil-1280jpg-782297-1280w-1610481424384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2021\01\12\daredevil-1280jpg-782297-1280w-1610481424384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/15/ark-survival-evolved-button-fin-1639607697385.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2021\12\15\ark-survival-evolved-button-fin-1639607697385-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/15/ark-survival-evolved-button-fin-1639607697385.jpg?width=64
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2021\12\15\ark-survival-evolved-button-fin-1639607697385.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/15/ark-survival-evolved-button-fin-1639607697385.jpg?width=64&dpr=2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2021\12\15\ark-survival-evolved-button-fin-1639607697385-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/17/gta-online-button-2021-1639777018074.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2021\12\17\gta-online-button-2021-1639777018074.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/17/gta-online-button-2021-1639777018074.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2021\12\17\gta-online-button-2021-1639777018074-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/02/vampire-the-masquerade-swansong-1651524537376.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2022\05\02\vampire-the-masquerade-swansong-1651524537376.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/02/vampire-the-masquerade-swansong-1651524537376.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2022\05\02\vampire-the-masquerade-swansong-1651524537376-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/18/multiversus-blogroll-1652915809568.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2022\05\18\multiversus-blogroll-1652915809568.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/18/vampirethemasquerade-swansong-review-blogroll-1652832286675.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2022\05\18\vampirethemasquerade-swansong-review-blogroll-1652832286675.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/19/evildead-thegame-blogroll-2-1652982301907.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2022\05\19\evildead-thegame-blogroll-2-1652982301907.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/19/gettyimages-565477165-1652994430207.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2022\05\19\gettyimages-565477165-1652994430207.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2017/04/26/the-witness---button-f-1493235698405.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2017\04\26\the-witness---button-f-1493235698405.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2017/04/26/the-witness---button-f-1493235698405.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2017\04\26\the-witness---button-f-1493235698405-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/12/13/gris---button-fin-1544668050321.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2018\12\13\gris---button-fin-1544668050321.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/29/metaverse-blogrollthumbnail-1651244627800.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/13/cinefixmcucosmicenoughblogroll-1652485024776.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\5\13\cinefixmcucosmicenoughblogroll-1652485024776.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/16/36190303sniperelite5blogroll-03-1652747666842.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\5\16\36190303sniperelite5blogroll-03-1652747666842.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/17/shehulkofficialtrailerignblogroll-1652825140341.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\5\17\shehulkofficialtrailerignblogroll-1652825140341.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/3/ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\5\3\ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/4/re4v2inventoryblog-1651681534410.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg
+Content Type: image/jpeg
+
+Uri: https://assets2.ignimgs.com/2014/06/10/witcher319jpg-e0ea3e.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\2014\06\10\witcher319jpg-e0ea3e.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://dsmedia.ign.com/ds/image/object/001/001323/needforspeed_run_360_final10.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\ds\image\object\001\001323\needforspeed_run_360_final10.jpg
+Content Type: image/jpeg
+
+Uri: https://dsmedia.ign.com/ds/image/object/001/001323/needforspeed_run_360_final10.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\ds\image\object\001\001323\needforspeed_run_360_final10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\1250-f0984fbfea24438c25b2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-3116974712e34695652d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\3325-3116974712e34695652d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\3335-f37f50935d90c36de450.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\4735-fecddd9e4f12282111ed.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\571-147baf2d4176498805a1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\5914-92029dbf8de4df9727cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\6306-9add02503bb69c398284.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\7263-3326c3898eef7a8228d5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7356-d3d0a5d0c668804b718d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\7356-d3d0a5d0c668804b718d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\8740-ed818a038011c2bf8df5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-26bb82cec46c98c7c416.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\9456-26bb82cec46c98c7c416.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\framework-57ad11da4426b1404226.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\main-b87df09e7fc063b37f88.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-3a5182175e427b54706d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\pages\wikis\listpages-3a5182175e427b54706d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-3cf77078d331a37d0da1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\pages\wikis\show-3cf77078d331a37d0da1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-46603cdd1397616efa55.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\pages\wikis\topcontributors-46603cdd1397616efa55.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-ff3d965b375ed3fff89d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\pages\_app-ff3d965b375ed3fff89d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-3d921bab65429e4b587f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\chunks\webpack-3d921bab65429e4b587f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/_LfEvX4WLR90G96t0mfqD/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\_LfEvX4WLR90G96t0mfqD\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/_LfEvX4WLR90G96t0mfqD/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\_next\static\_LfEvX4WLR90G96t0mfqD\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/0/00/Element.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\0\00\Element.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/0/00/Gnashed.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\0\00\Gnashed.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/0/01/TastyCake.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\0\01\TastyCake.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/0/01/ThatchDoor_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\0\01\ThatchDoor_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/0/06/Speed_Icon.jpj.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\0\06\Speed_Icon.jpj.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/0/08/Food_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\0\08\Food_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/0/08/TreeSap_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\0\08\TreeSap_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/1/11/20170415130525_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\1\11\20170415130525_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/1/19/Condition_Befriended_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\1\19\Condition_Befriended_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/1/19/Leeched.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\1\19\Leeched.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/1/1a/Water_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\1\1a\Water_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/1/1c/OrganicPolymer_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\1\1c\OrganicPolymer_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/2/20/TEKhalfwall_right_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\2\20\TEKhalfwall_right_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/2/23/Condition_Injured_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\2\23\Condition_Injured_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/2/27/Fortitude_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\2\27\Fortitude_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/2/28/Condition_Enflamed_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\2\28\Condition_Enflamed_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/2/2d/RareFlower_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\2\2d\RareFlower_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/2/2e/TEKDoor.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\2\2e\TEKDoor.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/2/2f/Oil_Tusoteuthis_.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\2\2f\Oil_Tusoteuthis_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/3/33/TEKFenceFoundation_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\3\33\TEKFenceFoundation_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/3/34/Condition_Winded_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\3\34\Condition_Winded_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/3/34/TEKDoorway_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\3\34\TEKDoorway_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/3/36/BeerGlass_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\3\36\BeerGlass_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/3/37/TEKReplicator_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\3\37\TEKReplicator_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/4/44/CementPaste_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\4\44\CementPaste_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/4/45/Antidote_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\4\45\Antidote_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/4/47/Chitin_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\4\47\Chitin_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/4/48/ApexDrop_Megalodon_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\4\48\ApexDrop_Megalodon_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/4/49/Fertilizer_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\4\49\Fertilizer_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/4/4c/Iced_Water_Jar.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\4\4c\Iced_Water_Jar.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/4/4f/Condition_TempPoisonFood_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\4\4f\Condition_TempPoisonFood_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/4/4f/Health_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\4\4f\Health_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/51/LeechBlood.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\51\LeechBlood.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/51/O2_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\51\O2_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/51/WyvernClawFire_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\51\WyvernClawFire_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/52/WyvernClawPoison_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\52\WyvernClawPoison_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/53/Hide_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\53\Hide_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/55/TEKCelingDoor_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\55\TEKCelingDoor_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/58/TEKWallHole_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\58\TEKWallHole_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/5a/Clay_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\5a\Clay_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/5a/PreservingSalt_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\5a\PreservingSalt_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/5f/Angler_LightSource_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\5f\Angler_LightSource_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/5/5f/CraftSpeed_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\5\5f\CraftSpeed_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/6/64/MetalOre_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\6\64\MetalOre_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/6/65/DeathWormSpike_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\6\65\DeathWormSpike_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/6/67/TEKBeam_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\6\67\TEKBeam_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/6/69/TEKhalfwall_left_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\6\69\TEKhalfwall_left_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/6/6c/Mutton_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\6\6c\Mutton_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/6/6e/Gunpowder_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\6\6e\Gunpowder_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/7/70/Obsidian_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\7\70\Obsidian_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/7/74/TEKRailings_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\7\74\TEKRailings_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/7/76/Condition_Encumbered_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\7\76\Condition_Encumbered_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/7/7b/BlackPearl.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\7\7b\BlackPearl.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/7/7b/Weight_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\7\7b\Weight_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/7/7c/Enflamed.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\7\7c\Enflamed.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/7/7c/Gasoline_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\7\7c\Gasoline_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/7/7c/Propellant_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\7\7c\Propellant_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/8/80/Absorbent_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\8\80\Absorbent_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/8/88/Character_stats.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\8\88\Character_stats.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/8/8a/TEKslantedRoof_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\8\8a\TEKslantedRoof_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/8/8d/TEKPortal_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\8\8d\TEKPortal_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/9/92/TEKSpiralStairs_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\9\92\TEKSpiralStairs_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/9/94/Condition_Suffocating_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\9\94\Condition_Suffocating_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/9/96/Flint_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\9\96\Flint_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/9/96/Melee_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\9\96\Melee_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/9/9a/Stamina_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\9\9a\Stamina_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/9/9a/TEKWindow_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\9\9a\TEKWindow_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/9/9b/Condition_TempFood_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\9\9b\Condition_TempFood_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/a0/Kibble_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\a0\Kibble_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/a1/Condition_TempBlind_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\a1\Condition_TempBlind_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/a3/Pelt_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\a3\Pelt_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/a4/Silk_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\a4\Silk_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/a7/Electronic_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\a7\Electronic_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/a9/Charcoal_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\a9\Charcoal_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/aa/Bio_Toxin.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\aa\Bio_Toxin.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/ab/Condition_Crafting_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\ab\Condition_Crafting_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/a/ab/Polymer_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\a\ab\Polymer_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/b0/Keratin_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\b0\Keratin_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/b0/OilFuel_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\b0\OilFuel_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/b1/ApexDrop_Argentavis_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\b1\ApexDrop_Argentavis_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/b3/Condition_MothPoison_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\b3\Condition_MothPoison_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/b7/Condition_GainingExp_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\b7\Condition_GainingExp_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/b8/Condition_Cold_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\b8\Condition_Cold_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/b8/Element_Shard.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\b8\Element_Shard.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/ba/Condition_Dehydrated_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\ba\Condition_Dehydrated_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/bb/TEKRamp.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\bb\TEKRamp.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/be/SpitterSeed_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\be\SpitterSeed_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/b/be/TEKPillar_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\b\be\TEKPillar_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/c/c0/Condition_TempHealth_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\c\c0\Condition_TempHealth_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/c/c3/Torpid_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\c\c3\Torpid_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/c/c6/456367463_preview_HIGHRESMAP_Smallest.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\c\c6\456367463_preview_HIGHRESMAP_Smallest.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/c/c8/Condition_Hot_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\c\c8\Condition_Hot_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/c/cb/Fiber_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\c\cb\Fiber_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/c/cc/Ammonite_Bile.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\c\cc\Ammonite_Bile.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/c/cd/TEKWall_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\c\cd\TEKWall_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/d/d0/TEKCeilingHole_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\d\d0\TEKCeilingHole_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/d/d2/Condition_TempSlow_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\d\d2\Condition_TempSlow_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/d/d6/Arksplash.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\d\d6\Arksplash.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/d/db/PlantSpeciesYTrap_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\d\db\PlantSpeciesYTrap_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/d/dd/TEKLadder_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\d\dd\TEKLadder_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/e/e1/TEKFoundation_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\e\e1\TEKFoundation_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/e/e2/Sulfur_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\e\e2\Sulfur_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/e/e6/20170414192030_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\e\e6\20170414192030_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/e/e6/Character_Creation.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\e\e6\Character_Creation.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/e/e7/MetalIngot_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\e\e7\MetalIngot_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/e/eb/TEKShieldGenerator_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\e\eb\TEKShieldGenerator_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/f2/Crystal_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\f2\Crystal_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/f3/Hair_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\f3\Hair_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/f5/PlantSpeciesYSeed_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\f5\PlantSpeciesYSeed_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/f6/WyvernClawElectric_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\f6\WyvernClawElectric_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/f7/ConditionFixate_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\f7\ConditionFixate_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/f7/TEKCeiling_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\f7\TEKCeiling_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/f9/Condition_HeatStroke_Icon_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\f9\Condition_HeatStroke_Icon_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/fd/Ragnarok_DLC.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\fd\Ragnarok_DLC.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/fe/Condition_Disease_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\fe\Condition_Disease_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/fe/Condition_Hypothermic_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\fe\Condition_Hypothermic_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/ark-survival-evolved/f/ff/Condition_Starving_Icon.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\mediawiki\apis.ign.com\ark-survival-evolved\f\ff\Condition_Starving_Icon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/01/96262485-1489725210.png?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\social\avatars\users2\01\96262485-1489725210.png
+Content Type: image/png
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Absorbent_Substrate
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Absorbent_Substrate.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Achatina_Paste
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Achatina_Paste.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Achievements_and_Trophies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Achievements_and_Trophies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Adobe_Structures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Adobe_Structures.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Air
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Air.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Ammonite_Bile
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Ammonite_Bile.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Amphibian
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Amphibian.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Angler_Gel
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Angler_Gel.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Argentavis_Talon
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Argentavis_Talon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Armor_(Admin_Commands)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Armor_(Admin_Commands).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Ascention
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Ascention.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Attributes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Attributes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Beer_Liquid
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Beer_Liquid.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Beta
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Beta.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Bio_Toxin
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Bio_Toxin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Black_Pearl
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Black_Pearl.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Bosses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Bosses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Building
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Building.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Buildings/Structures_(Admin_Commands)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Buildings\Structures_(Admin_Commands).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Building_A_Farm
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Building_A_Farm.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Caves
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Caves.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Cementing_Paste
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Cementing_Paste.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Character
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Character.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Character_Attributes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Character_Attributes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Charcoal
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Charcoal.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Chitin
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Chitin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Chitin_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Chitin_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Clay_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Clay_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Cloth_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Cloth_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Collectibles
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Collectibles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Commands_(Admin_Commands)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Commands_(Admin_Commands).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Community_Crunch_%26_Ark_Digest
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Community_Crunch_&_Ark_Digest.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Community_Crunch_&_Ark_Digest
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Community_Crunch_&_Ark_Digest-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Conditions
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Conditions.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Craftable_Materials
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Craftable_Materials.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Crystal
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Crystal.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Custom_Maps
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Custom_Maps.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Deathworm_Horn_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Deathworm_Horn_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Deep_Sea_Loot_Crates
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Deep_Sea_Loot_Crates.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Defenses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Defenses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Desert_Cloth_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Desert_Cloth_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Difference_between_PvP_and_PvE
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Difference_between_PvP_and_PvE.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Dinos/Creatures_(Admin_Commands)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Dinos\Creatures_(Admin_Commands).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Dinosaurs
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Dinosaurs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Dinosaurs_and_Other_Creatures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Dinosaurs_and_Other_Creatures.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Dinosaur_Gates
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Dinosaur_Gates.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Electricity:_The_Prep
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Electricity_The_Prep.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Electronics
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Electronics.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Element
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Element.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Element_Shards
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Element_Shards.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Engrams,_Items,_Crafting,_Building
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Engrams,_Items,_Crafting,_Building.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Engrams_and_Engram_points
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Engrams_and_Engram_points.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Fertilizer
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Fertilizer.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Fiber
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Fiber.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Antidote_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileAntidote_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:BlackPearl.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileBlackPearl.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:ConditionFixate_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileConditionFixate_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Befriended_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Befriended_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Cold_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Cold_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Crafting_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Crafting_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Dehydrated_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Dehydrated_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Disease_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Disease_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Encumbered_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Encumbered_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Enflamed_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Enflamed_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_GainingExp_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_GainingExp_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_HeatStroke_Icon_1.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_HeatStroke_Icon_1.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Hot_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Hot_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Hypothermic_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Hypothermic_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Injured_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Injured_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_MothPoison_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_MothPoison_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Starving_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Starving_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Suffocating_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Suffocating_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_TempBlind_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_TempBlind_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_TempFood_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_TempFood_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_TempHealth_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_TempHealth_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_TempPoisonFood_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_TempPoisonFood_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_TempSlow_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_TempSlow_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Condition_Winded_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCondition_Winded_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:CraftSpeed_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileCraftSpeed_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Enflamed.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileEnflamed.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Food_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileFood_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Fortitude_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileFortitude_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Gnashed.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileGnashed.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Health_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileHealth_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Iced_Water_Jar.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileIced_Water_Jar.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Leeched.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileLeeched.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Melee_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileMelee_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:O2_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileO2_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Ragnarok_DLC.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileRagnarok_DLC.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Speed_Icon.jpj.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileSpeed_Icon.jpj.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Stamina_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileStamina_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKBeam_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKBeam_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKCeilingHole_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKCeilingHole_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKCeiling_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKCeiling_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKCelingDoor_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKCelingDoor_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKDoor.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKDoor.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKDoorway_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKDoorway_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKFenceFoundation_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKFenceFoundation_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKFoundation_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKFoundation_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKhalfwall_left_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKhalfwall_left_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKhalfwall_right_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKhalfwall_right_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKLadder_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKLadder_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKPillar_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKPillar_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKPortal_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKPortal_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKRailings_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKRailings_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKRamp.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKRamp.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKReplicator_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKReplicator_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKShieldGenerator_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKShieldGenerator_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKslantedRoof_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKslantedRoof_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKSpiralStairs_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKSpiralStairs_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKWallHole_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKWallHole_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKWall_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKWall_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:TEKWindow_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTEKWindow_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:ThatchDoor_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileThatchDoor_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Torpid_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileTorpid_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Water_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileWater_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:Weight_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileWeight_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:WyvernClawElectric_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileWyvernClawElectric_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/File:WyvernClawPoison_Icon.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\FileWyvernClawPoison_Icon.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Fire_Talon_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Fire_Talon_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Fishing
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Fishing.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Flak_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Flak_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Flint
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Flint.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Flyers
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Flyers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Fur_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Fur_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Gasoline
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Gasoline.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Gathering_Basics
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Gathering_Basics.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Gathering_Supplies_and_Taming
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Gathering_Supplies_and_Taming.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Get_Playing:_Servers_and_Solo
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Get_Playing_Servers_and_Solo.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Ghillie_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Ghillie_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Gunpowder
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Gunpowder.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Hide
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Hide.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Hide_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Hide_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Cure_Swamp_Fever
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Cure_Swamp_Fever.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_download_ARK:_Survival_Evolved
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_download_ARK_Survival_Evolved-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_download_ARK:_Survival_Evolved
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_download_ARK_Survival_Evolved.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Get_Black_Pearls
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Get_Black_Pearls.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_get_Leech_Blood
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_get_Leech_Blood.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Get_Sap
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Get_Sap.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Get_Silk
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Get_Silk.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Get_Sulfur
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Get_Sulfur.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_hatch_an_egg_(Incubation)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_hatch_an_egg_(Incubation).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Imprint
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Imprint.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Install_ARK:_Survival_Evolved
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Install_ARK_Survival_Evolved.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Make_Dye
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Make_Dye.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Make_Sweet_Veggie_Cake
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Make_Sweet_Veggie_Cake.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_Remove_Leeches
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_Remove_Leeches.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/How_to_transfer_dinos
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\How_to_transfer_dinos.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Human_Hair
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Human_Hair.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Important_Locations
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Important_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Initial_Base_Building
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Initial_Base_Building.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Keratin
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Keratin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Kibble
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Kibble.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Kibble_Recipes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Kibble_Recipes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Land
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Land.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Land_dinos
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Land_dinos.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Leech_Blood
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Leech_Blood.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Lightning_Talon_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Lightning_Talon_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Megladon_Tooth
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Megladon_Tooth.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Metal_Ingot
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Metal_Ingot.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Metal_Ore
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Metal_Ore.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Metal_Structures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Metal_Structures.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Mini_Bosses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Mini_Bosses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Obelisks
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Obelisks.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Obsidian
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Obsidian.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Oil
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Oil.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Oil_(Tusoteuthis)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Oil_(Tusoteuthis).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Oil_Vein_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Oil_Vein_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/On_Screen_Basics
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\On_Screen_Basics.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Organic_Polymer
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Organic_Polymer.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Other_Creatures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Other_Creatures.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Passive_taming
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Passive_taming.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Pelt
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Pelt.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Plant Species X
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Plant Species X.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Plant_Species_X
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Plant_Species_X.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Plant_Species_Y_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Plant_Species_Y_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Poison_Talon_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Poison_Talon_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Polymer
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Polymer.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Preserving_Salt_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Preserving_Salt_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Propellant_(Scorched_Earth)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Propellant_(Scorched_Earth).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Ragnarok
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Ragnarok.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Random_Quick_Tips
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Random_Quick_Tips.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Rare_Flower
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Rare_Flower.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Raw_Mutton
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Raw_Mutton.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Resources
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Resources.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Riot_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Riot_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Rumors_and_Leaks
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Rumors_and_Leaks.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Saddles
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Saddles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Scorched_Earth_Desert_Loot_Crates
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Scorched_Earth_Desert_Loot_Crates.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/SCUBA_Gear
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\SCUBA_Gear.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Sea
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Sea.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Stone-Structures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Stone-Structures.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Supply_Crates
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Supply_Crates.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Taming
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Taming.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Taming_with_mounts
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Taming_with_mounts.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Taming_with_turrets
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Taming_with_turrets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Tek_Armor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Tek_Armor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Tek_Structures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Tek_Structures.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Thatch_Structures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Thatch_Structures.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/The_Layout
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\The_Layout.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Tools
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Tools.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Tools_(Admin_Commands)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Tools_(Admin_Commands).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Top_5_dinos_for_new_players
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Top_5_dinos_for_new_players.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Water_dinos
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Water_dinos.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Weapons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Weapons_and_Ammo_(Admin_Commands
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Weapons_and_Ammo_(Admin_Commands.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/ark-survival-evolved/Wood_Structures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Ark Survival Evolved\wikis\ark-survival-evolved\Wood_Structures.html
+Content Type: text/html
+
