@@ -1,0 +1,980 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2021/12/08/spideyremaster-1638923500318.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2021\12\08\spideyremaster-1638923500318.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/08/spideyremaster-1638923500318.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2021\12\08\spideyremaster-1638923500318-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/20/stardewvalley-1640044262769.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2021\12\20\stardewvalley-1640044262769.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/20/stardewvalley-1640044262769.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2021\12\20\stardewvalley-1640044262769-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/01/05/elderscrollsonline-1641413357689.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\01\05\elderscrollsonline-1641413357689.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\02\25\elden-ring-1645785760542.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/beyond-psplus-blogroll-1648677243331.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\03\30\beyond-psplus-blogroll-1648677243331.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/tb-unit-1681-1648658092915.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\03\30\tb-unit-1681-1648658092915.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/weirdwest-blogroll-01-1648676759327.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\03\30\weirdwest-blogroll-01-1648676759327.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/03/legostarwars-blogroll2-1649028661875.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\04\03\legostarwars-blogroll2-1649028661875.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/03/sonic2-blogroll-1648947445256.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\04\03\sonic2-blogroll-1648947445256.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/05/houseofthedeadremake-review-blogroll-1649185073762.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\04\05\houseofthedeadremake-review-blogroll-1649185073762.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/05/tokyo-vice-key-art-2-1649180090089.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\04\05\tokyo-vice-key-art-2-1649180090089.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/06/better-call-saul-blogroll-1649281066058.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\04\06\better-call-saul-blogroll-1649281066058.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/06/blogroll-1649282446476.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\04\06\blogroll-1649282446476.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/07/screenshot-14-1639107851341-1649305485365.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\04\07\screenshot-14-1639107851341-1649305485365.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/08/playlist-thumbnail-1649379750708.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2022\04\08\playlist-thumbnail-1649379750708.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/avatars/5029636f4c167effb5f9d638/jr-lh-1647281778280.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\avatars\5029636f4c167effb5f9d638\jr-lh-1647281778280.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/04/24/summertime-saga-button-1524591020788.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2018\04\24\summertime-saga-button-1524591020788.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/08/26/mgs-5-ground-zeroes---button-finf0421868-5dd8-437f-a784-d1a030c1dc5d-1566850614464.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2019\08\26\mgs-5-ground-zeroes---button-finf0421868-5dd8-437f-a784-d1a030c1dc5d-1566850614464.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2020/03/31/ign-persona5-royal-review-blogroll-1585687770590_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\2020\03\31\ign-persona5-royal-review-blogroll-1585687770590_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2018/10/24/gameofthronesthumb-1540400606246.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\thumbs\userUploaded\2018\10\24\gameofthronesthumb-1540400606246.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/11/9/eldenringfirstminutesyt-1-1636488749604.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\thumbs\userUploaded\2021\11\9\eldenringfirstminutesyt-1-1636488749604.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/12/9/eldenring-br-1639108399440.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\thumbs\userUploaded\2021\12\9\eldenring-br-1639108399440.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\adchoices\adchoices.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/0RLF4uWvXV98dPV8t5kFu/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\0RLF4uWvXV98dPV8t5kFu\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/0RLF4uWvXV98dPV8t5kFu/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\0RLF4uWvXV98dPV8t5kFu\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.5ea7ba20ca1d3b62507c.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.5ea7ba20ca1d3b62507c.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/0f48d101345468e96c1d4740bba8a3b102d3023e.d0d14ddcf0642f995ef6.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\0f48d101345468e96c1d4740bba8a3b102d3023e.d0d14ddcf0642f995ef6.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.931562542c9db6207646.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.931562542c9db6207646.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/191b5b66cffd575272ee78199c4b8633555febbd.77dd1a616579494c2aef.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\191b5b66cffd575272ee78199c4b8633555febbd.77dd1a616579494c2aef.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.9662c2110a9233559581.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.9662c2110a9233559581.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.06d32fd5cf996484a527.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.06d32fd5cf996484a527.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.f767b85f48420e9847bf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.f767b85f48420e9847bf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.937de50b78206525ce33.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.937de50b78206525ce33.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.9d9a3db0a6d6e16c4f72.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.9d9a3db0a6d6e16c4f72.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.dc2b48065d02ff5412a2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.dc2b48065d02ff5412a2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/771d95d40614ae00dcdb57521e3cd516ce3f8efd.63666b38bc7a5d42c980.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\771d95d40614ae00dcdb57521e3cd516ce3f8efd.63666b38bc7a5d42c980.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/82329f15c14cdacfe195b49b056c93a43576dc7d.7f7e56ea59dc30dd7f62.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\82329f15c14cdacfe195b49b056c93a43576dc7d.7f7e56ea59dc30dd7f62.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.306cdcaa0c0e1ff3d59b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.306cdcaa0c0e1ff3d59b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.ecb97c2dd2dd61f0701b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.ecb97c2dd2dd61f0701b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/92ca89d6b546287f65b93ff9dfa3c2e490757e49.b0835cbf9c80cdd54c0c.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\92ca89d6b546287f65b93ff9dfa3c2e490757e49.b0835cbf9c80cdd54c0c.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9e40cabb2622fd49c7fd077d5b26e9b3c912880f.53904fb5b2d9ecd376c2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\9e40cabb2622fd49c7fd077d5b26e9b3c912880f.53904fb5b2d9ecd376c2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b763887d672575cce9cac09474ee43bdfa6cd510.0b91187fa9d1bb77e344.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\b763887d672575cce9cac09474ee43bdfa6cd510.0b91187fa9d1bb77e344.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/f3e929a2d88efb432f8092ec5cb6dd83c150842a.8f5fbe4a685197ea84fd.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\f3e929a2d88efb432f8092ec5cb6dd83c150842a.8f5fbe4a685197ea84fd.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-312764896630019146ce.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\main-312764896630019146ce.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-42a47953f4fc84cb8c7a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\pages\wikis\listpages-42a47953f4fc84cb8c7a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-aba00af85b0577e32ece.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\pages\wikis\recentchanges-aba00af85b0577e32ece.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-f71eb61a65db01c4082e.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\pages\wikis\show-f71eb61a65db01c4082e.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-3876b3d3f3405983876f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\pages\wikis\topcontributors-3876b3d3f3405983876f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-4f4ae798d7695ac6855a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\pages\_app-4f4ae798d7695ac6855a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-1c4d60025f0b9427061a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\_next\static\chunks\webpack-1c4d60025f0b9427061a.js
+Content Type: application/javascript
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/0/00/MGSGZ-SpeedRun_18.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\0\00\MGSGZ-SpeedRun_18.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/0/03/MGSGZ-SpeedRun_20.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\0\03\MGSGZ-SpeedRun_20.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/0/0c/MGSV_DV.7.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\0\0c\MGSV_DV.7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/0/0e/XOF_05.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\0\0e\XOF_05.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/1/11/MGSV_DV.22.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\1\11\MGSV_DV.22.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/1/14/MGSGZ-SpeedRun_14.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\1\14\MGSGZ-SpeedRun_14.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/1/14/MGSGZ-SpeedRun_27.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\1\14\MGSGZ-SpeedRun_27.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/1/15/MGSGZ-SpeedRun_13.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\1\15\MGSGZ-SpeedRun_13.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/1/15/MGSV.JV.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\1\15\MGSV.JV.3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/1/18/MGSGZ-SpeedRun_07.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\1\18\MGSGZ-SpeedRun_07.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/1/1a/XOF_08.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\1\1a\XOF_08.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/1/1d/MGSV_DV.27.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\1\1d\MGSV_DV.27.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/2/25/10001337_620596928026584_1552972015_n.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\2\25\10001337_620596928026584_1552972015_n.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/2/2c/MGSV_DV.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\2\2c\MGSV_DV.1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/2/2d/MGSquiz.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\2\2d\MGSquiz.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/2/2e/GreyFoxSkin01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\2\2e\GreyFoxSkin01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/35/KojimaCameo_01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\35\KojimaCameo_01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/36/MGSGZ-SpeedRun_24.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\36\MGSGZ-SpeedRun_24.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/37/KojimaCameo_02.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\37\KojimaCameo_02.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/3b/1959219_620596994693244_1268128786_n.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\3b\1959219_620596994693244_1268128786_n.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/3b/MGSGZ-SpeedRun_16.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\3b\MGSGZ-SpeedRun_16.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/3b/MGSV_DV.17.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\3b\MGSV_DV.17.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/3b/XOF_01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\3b\XOF_01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/3e/MGSGZ-SpeedRun_22.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\3e\MGSGZ-SpeedRun_22.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/3/3f/MGSGZ-SpeedRun_28.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\3\3f\MGSGZ-SpeedRun_28.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/4/45/XOF_04.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\4\45\XOF_04.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/4/49/MGSGZ-SpeedRun_04.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\4\49\MGSGZ-SpeedRun_04.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/4/4d/Famitsu-pic.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\4\4d\Famitsu-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/4/4d/Snake03.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\4\4d\Snake03.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/50/MGSGZ-SpeedRun_37.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\50\MGSGZ-SpeedRun_37.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/51/MGSGZ-SpeedRun_29.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\51\MGSGZ-SpeedRun_29.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/52/MGSGZ-SpeedRun_26.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\52\MGSGZ-SpeedRun_26.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/53/MGSGZ-SpeedRun_03.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\53\MGSGZ-SpeedRun_03.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/53/MGSV_DV.10.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\53\MGSV_DV.10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/56/XOF_02.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\56\XOF_02.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/57/Walkman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\57\Walkman-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/57/Walkman.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\57\Walkman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/5b/1488651_620597214693222_845776327_n.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\5b\1488651_620597214693222_845776327_n.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/5/5c/Ptt.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\5\5c\Ptt.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/6/60/MGSGZ-SpeedRun_02.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\6\60\MGSGZ-SpeedRun_02.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/6/63/MGSV_DV.24.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\6\63\MGSV_DV.24.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/6/64/MGSV_DV.26.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\6\64\MGSV_DV.26.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/6/66/MGSGZ-SpeedRun_25.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\6\66\MGSGZ-SpeedRun_25.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/6/67/MGSGZ-SpeedRun_15.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\6\67\MGSGZ-SpeedRun_15.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/6/68/MGSGZ-SpeedRun_30.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\6\68\MGSGZ-SpeedRun_30.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/6/6b/OldSnakeMenu.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\6\6b\OldSnakeMenu.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/6/6e/MGSV_DV.9.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\6\6e\MGSV_DV.9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/7/71/MGSV.JV.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\7\71\MGSV.JV.2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/7/73/XOF_07.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\7\73\XOF_07.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/7/76/MGSGZ-SpeedRun_35.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\7\76\MGSGZ-SpeedRun_35.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/7/7d/MGSV_DV.11.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\7\7d\MGSV_DV.11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/7/7f/1618431_620597074693236_1222060517_n.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\7\7f\1618431_620597074693236_1222060517_n.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/7/7f/MGSV_DV.23.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\7\7f\MGSV_DV.23.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/8/83/MGSV_DV.18.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\8\83\MGSV_DV.18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/8/85/MGSGZ-SpeedRun_23.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\8\85\MGSGZ-SpeedRun_23.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/8/86/MGSGZ-SpeedRun_19.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\8\86\MGSGZ-SpeedRun_19.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/8/88/3Snakes.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\8\88\3Snakes.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/8/8a/MGS_XoF_thumb.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\8\8a\MGS_XoF_thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/9/98/MGSV_DV.13.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\9\98\MGSV_DV.13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/9/99/MGSGZ-SpeedRun_33.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\9\99\MGSGZ-SpeedRun_33.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/9/9c/MGSV_DV.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\9\9c\MGSV_DV.3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/9/9d/MGSV_DV.5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\9\9d\MGSV_DV.5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/a/a8/MGSGZ-SpeedRun_01.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\a\a8\MGSGZ-SpeedRun_01.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/a/ac/MGSV.JV.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\a\ac\MGSV.JV.4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/a/ac/MGSV_DV.16.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\a\ac\MGSV_DV.16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/b/b3/MGSGZ-SpeedRun_32.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\b\b3\MGSGZ-SpeedRun_32.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/b/b3/MGSV_DV.6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\b\b3\MGSV_DV.6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/b/b5/Snake01.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\b\b5\Snake01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/b/b9/MGSGZ-SpeedRun_31.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\b\b9\MGSGZ-SpeedRun_31.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/b/bb/MGSGZ-SpeedRun_17.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\b\bb\MGSGZ-SpeedRun_17.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/b/bb/MGSV_DV.29.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\b\bb\MGSV_DV.29.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/b/bb/XOF_09.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\b\bb\XOF_09.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/b/bf/MGSGZ-SpeedRun_21.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\b\bf\MGSGZ-SpeedRun_21.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c0/MGSV_DV.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c0\MGSV_DV.4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c1/MGSGZ-SpeedRun_06.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c1\MGSGZ-SpeedRun_06.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c1/MGSV_DV.30.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c1\MGSV_DV.30.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c2/Hideo-kojima.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c2\Hideo-kojima.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c2/MGSGZ-SpeedRun_11.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c2\MGSGZ-SpeedRun_11.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c2/MGSV_DV.25.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c2\MGSV_DV.25.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c5/MGmusic.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c5\MGmusic.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c6/Image_299350_thumb_wide620.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c6\Image_299350_thumb_wide620.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c6/MGSGZ-SpeedRun_36.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c6\MGSGZ-SpeedRun_36.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c7/10014567_620597134693230_1668575911_n.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c7\10014567_620597134693230_1668575911_n.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c7/Mgs_groundzeroes.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c7\Mgs_groundzeroes.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/c8/MGSV.JV.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\c8\MGSV.JV.1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/ca/MGSGZ-SpeedRun_10.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\ca\MGSGZ-SpeedRun_10.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/ca/MGSV_DV.28.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\ca\MGSV_DV.28.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/c/cd/XOF_03.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\c\cd\XOF_03.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/d/d3/MGSGZ-SpeedRun_34.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\d\d3\MGSGZ-SpeedRun_34.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/d/d4/Mgs5gz_logo_temp.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\d\d4\Mgs5gz_logo_temp.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/d/d8/Hideo.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\d\d8\Hideo.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/d/db/MGSGZ-SpeedRun_12.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\d\db\MGSGZ-SpeedRun_12.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/e/e1/MGSV_DV.12.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\e\e1\MGSV_DV.12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/e/e6/MGSGZ-SpeedRun_09.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\e\e6\MGSGZ-SpeedRun_09.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/e/e7/MGSV_DV.15.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\e\e7\MGSV_DV.15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/e/e8/MGSV_DV.14.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\e\e8\MGSV_DV.14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/e/e8/MGSV_DV.8.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\e\e8\MGSV_DV.8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/e/ef/MGSV_DV.20.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\e\ef\MGSV_DV.20.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/f/f0/MGSV_DV.19.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\f\f0\MGSV_DV.19.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/f/f1/XOF_06.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\f\f1\XOF_06.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/f/f6/DejaVuCOMP_01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\f\f6\DejaVuCOMP_01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/f/f8/MGSV_DV.31.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\f\f8\MGSV_DV.31.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/f/f9/APC-RPG.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\f\f9\APC-RPG.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/f/f9/MGSV_DV.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\f\f9\MGSV_DV.2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/f/fa/MGSGZ-SpeedRun_05.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\f\fa\MGSGZ-SpeedRun_05.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-ground-zeroes/f/fd/MGSV_DV.21.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\mediawiki\apis.ign.com\metal-gear-solid-ground-zeroes\f\fd\MGSV_DV.21.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users/182849321-1295996823.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\social\avatars\users\182849321-1295996823.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/55/953907-1403551755.png?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\social\avatars\users2\55\953907-1403551755.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/81/6315797-1396565318.png?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\social\avatars\users2\81\6315797-1396565318.png
+Content Type: image/png
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\js\chartbeat_mab.js
+Content Type: application/x-javascript
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/"Taboo_Themes"
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Taboo_Themes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Accomplished
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Accomplished.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Achievements_and_Trophies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Achievements_and_Trophies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Big_Boss
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Big_Boss.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Cassette_Tapes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Cassette_Tapes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Classified_Intel_Acquisition
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Classified_Intel_Acquisition.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/deadendpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\deadendpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Deja_Vu
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Deja_Vu.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Depth
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Depth.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Destroy_the_Anti-Air_Emplacements
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Destroy_the_Anti-Air_Emplacements.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Downfall
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Downfall.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Easter_Eggs_and_Secrets
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Easter_Eggs_and_Secrets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Eliminate_the_Renegade_Threat
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Eliminate_the_Renegade_Threat.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Extraction
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Extraction.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Extra_Ops
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Extra_Ops.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/File:Image_299350_thumb_wide620.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\FileImage_299350_thumb_wide620.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/File:Mgs5gz_logo_temp.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\FileMgs5gz_logo_temp.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/File:Mgs_groundzeroes.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\FileMgs_groundzeroes.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/File:Walkman.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\FileWalkman.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Genesis
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Genesis.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Ground Zeroes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Ground Zeroes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Ground_Zeroes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Ground_Zeroes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Hero
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Hero.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Hidden
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Hidden.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Infiltration
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Infiltration.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Information
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Information.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Intel_Operative_Rescue
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Intel_Operative_Rescue.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Jamais_Vu
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Jamais_Vu.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Kazuhira_"Kaz"_Miller
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Kazuhira_Kaz_Miller.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/longpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\longpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Metal_Gear_Solid_Quiz_Answers
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Metal_Gear_Solid_Quiz_Answers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Mission_Trials
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Mission_Trials.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/orphanedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\orphanedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Pacifist
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Pacifist.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/PC_Requirements
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\PC_Requirements.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/PlayStation_and_Xbox_Exclusives
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\PlayStation_and_Xbox_Exclusives.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/PS3_Cheats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\PS3_Cheats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/PS4_Cheats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\PS4_Cheats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/recentchanges
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\recentchanges.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Rescue
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Rescue.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Reunion
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Reunion.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/shortpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\shortpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Side_Ops
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Side_Ops.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Skilled
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Skilled.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Skull_Face
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Skull_Face.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Speed_Run:_Ground_Zeroes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Speed_Run_Ground_Zeroes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/The_Phantom_Pain
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\The_Phantom_Pain.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Unlocked
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Unlocked.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/wantedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\wantedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/X.O.F._Patches
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\X.O.F._Patches.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Xbox_360_Cheats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Xbox_360_Cheats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-5-ground-zeroes/Xbox_One_Cheats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\wikis\metal-gear-solid-5-ground-zeroes\Xbox_One_Cheats.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\MGSV_Ground Zeroes\js\zddmp\1.1\zddmp.min.js
+Content Type: application/javascript
+
