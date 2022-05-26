@@ -1,0 +1,588 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2021/01/12/daredevil-1280jpg-782297-1280w-1610481424384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\2021\01\12\daredevil-1280jpg-782297-1280w-1610481424384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/18/multiversus-blogroll-1652915809568.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\2022\05\18\multiversus-blogroll-1652915809568.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/18/vampirethemasquerade-swansong-review-blogroll-1652832286675.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\2022\05\18\vampirethemasquerade-swansong-review-blogroll-1652832286675.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/19/evildead-thegame-blogroll-2-1652982301907.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\2022\05\19\evildead-thegame-blogroll-2-1652982301907.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/19/gettyimages-565477165-1652994430207.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\2022\05\19\gettyimages-565477165-1652994430207.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/29/metaverse-blogrollthumbnail-1651244627800.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/13/cinefixmcucosmicenoughblogroll-1652485024776.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\5\13\cinefixmcucosmicenoughblogroll-1652485024776.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/16/36190303sniperelite5blogroll-03-1652747666842.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\5\16\36190303sniperelite5blogroll-03-1652747666842.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/17/shehulkofficialtrailerignblogroll-1652825140341.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\5\17\shehulkofficialtrailerignblogroll-1652825140341.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/3/ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\5\3\ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/4/re4v2inventoryblog-1651681534410.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg
+Content Type: image/jpeg
+
+Uri: https://assets2.ignimgs.com/2014/06/10/witcher319jpg-e0ea3e.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\2014\06\10\witcher319jpg-e0ea3e.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\1250-f0984fbfea24438c25b2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-3116974712e34695652d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\3325-3116974712e34695652d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\3335-f37f50935d90c36de450.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\4735-fecddd9e4f12282111ed.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\571-147baf2d4176498805a1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\5914-92029dbf8de4df9727cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\6306-9add02503bb69c398284.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\7263-3326c3898eef7a8228d5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\8740-ed818a038011c2bf8df5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-26bb82cec46c98c7c416.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\9456-26bb82cec46c98c7c416.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\framework-57ad11da4426b1404226.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\main-b87df09e7fc063b37f88.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-3a5182175e427b54706d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\pages\wikis\listpages-3a5182175e427b54706d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-3cf77078d331a37d0da1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\pages\wikis\show-3cf77078d331a37d0da1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-ff3d965b375ed3fff89d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\pages\_app-ff3d965b375ed3fff89d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-3d921bab65429e4b587f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\chunks\webpack-3d921bab65429e4b587f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/_LfEvX4WLR90G96t0mfqD/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\_LfEvX4WLR90G96t0mfqD\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/_LfEvX4WLR90G96t0mfqD/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\_next\static\_LfEvX4WLR90G96t0mfqD\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/0/0e/20160803171105_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\0\0e\20160803171105_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/2/29/Vfyb99N.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\2\29\Vfyb99N.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/3/33/We_Happy_Few_logo.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\3\33\We_Happy_Few_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/3/3c/20160803170211_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\3\3c\20160803170211_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/4/40/20160803170313_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\4\40\20160803170313_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/4/42/20160803170059_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\4\42\20160803170059_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/4/44/20160803170403_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\4\44\20160803170403_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/4/45/20160803165931_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\4\45\20160803165931_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/7/78/20160803170140_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\7\78\20160803170140_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/7/7b/20160803170107_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\7\7b\20160803170107_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/9/95/20160728152657_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\9\95\20160728152657_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/a/ae/Screen_Shot_2016-07-27_at_3.31.26_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\a\ae\Screen_Shot_2016-07-27_at_3.31.26_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/a/af/20160728152143_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\a\af\20160728152143_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/we-happy-few/c/c5/20160803170337_1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\mediawiki\apis.ign.com\we-happy-few\c\c5\20160803170337_1.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://www.ign.com/wikis/we-happy-few/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Achievements
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Achievements.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Achievements_and_Trophies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Achievements_and_Trophies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/All_Collectible_Masks
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\All_Collectible_Masks.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Alpha
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Alpha.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Apple_Holm_Bridge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Apple_Holm_Bridge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Bees
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Bees.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Bees?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Bees-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Blood_in_the_Streets
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Blood_in_the_Streets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Books
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Books.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Bridge_Crossing
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Bridge_Crossing.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Bridge_Crossing?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Bridge_Crossing-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Bring_Out_Your_Dead
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Bring_Out_Your_Dead.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Bring_Out_Your_Dead?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Bring_Out_Your_Dead-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Campfire
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Campfire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Characters
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Characters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Cheats_and_Secrets
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Cheats_and_Secrets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Collectibles
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Collectibles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Consumables
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Consumables.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Crafting
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Crafting.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Crazy_Legs
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Crazy_Legs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Crazy_Legs?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Crazy_Legs-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Cult_of_Jack
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Cult_of_Jack.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Cult_of_Jack?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Cult_of_Jack-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Downer_Investigation
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Downer_Investigation.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Easter_Eggs
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Easter_Eggs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Equipment
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Equipment.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Escape
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Escape.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Escape?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Escape-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Faraday's_Event
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Faraday's_Event.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Faraday's_Houseboy
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Faraday's_Houseboy.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Faraday's_Houseboy?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Faraday's_Houseboy-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Faraday's_Workshop
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Faraday's_Workshop.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Faraday's_Event
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Faraday's_Event-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Faraday's_Houseboy
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Faraday's_Houseboy-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Faraday's_Workshop
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Faraday's_Workshop-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/First_Marriage
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\First_Marriage.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/First_Marriage?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\First_Marriage-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Hallucinogenic_Salad
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Hallucinogenic_Salad.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Hallucinogenic_Salad?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Hallucinogenic_Salad-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/House_of_Curious_Behaviors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\House_of_Curious_Behaviors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/If_You_Give_a_Pig_a_Pancake
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\If_You_Give_a_Pig_a_Pancake.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/If_You_Give_a_Pig_a_Pancake?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\If_You_Give_a_Pig_a_Pancake-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Items
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Items.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Johnny_Bolton,_Special_Agent
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Johnny_Bolton,_Special_Agent.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Johnny_Bolton,_Special_Agent?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Johnny_Bolton,_Special_Agent-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Joy
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Joy.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Lillies_of_the_Field
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Lillies_of_the_Field.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Looks_Like_Rain
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Looks_Like_Rain.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Lovebirds
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Lovebirds.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Lud's_Bridge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Lud's_Bridge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Lud's_Bridge?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Lud's_Bridge-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Lud's_Bridge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Lud's_Bridge-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Main_Encounters
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Main_Encounters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Mysterious_Chest
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Mysterious_Chest.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Mysterious_Chest?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Mysterious_Chest-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Mystery_House
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Mystery_House.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Poisoned_Wastrel
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Poisoned_Wastrel.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Poisoned_Wastrel?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Poisoned_Wastrel-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Popped_Popper
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Popped_Popper.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Prologue
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Prologue.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Prologue?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Prologue-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Secondary_Encounters
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Secondary_Encounters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Shibboleth
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Shibboleth.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/St._Georges_Holm_Bridge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\St._Georges_Holm_Bridge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/St._Georges_Holm_Bridge?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\St._Georges_Holm_Bridge-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Story_Encounters
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Story_Encounters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Survival
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Survival.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/The_Toll
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\The_Toll.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/The_Toll?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\The_Toll-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/The_Vandals_Took_the_Handle
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\The_Vandals_Took_the_Handle.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/The_Vandals_Took_the_Handle?objectid=20031778
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\The_Vandals_Took_the_Handle-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Things_To_Do_First
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Things_To_Do_First.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Tips_and_Tricks
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Tips_and_Tricks.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/we-happy-few/Wild_Picnic
+File Name: C:\Users\ls356\Desktop\IGN Wikis\We Happy Few\wikis\we-happy-few\Wild_Picnic.html
+Content Type: text/html
+
