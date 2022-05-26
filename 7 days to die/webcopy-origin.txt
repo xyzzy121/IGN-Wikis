@@ -1,0 +1,256 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2022/05/12/ow2-tanks-blog-1652359309961.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\2022\05\12\ow2-tanks-blog-1652359309961.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/13/citizensleeper-1652486158240.gif?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\2022\05\13\citizensleeper-1652486158240.gif
+Content Type: image/gif
+
+Uri: https://assets1.ignimgs.com/2018/02/23/7-days-to-die---button-f-1519426182787.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\2018\02\23\7-days-to-die---button-f-1519426182787-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/02/23/7-days-to-die---button-f-1519426182787.jpg?width=64
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\2018\02\23\7-days-to-die---button-f-1519426182787.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/02/23/7-days-to-die---button-f-1519426182787.jpg?width=64&dpr=2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\2018\02\23\7-days-to-die---button-f-1519426182787-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2022/05/14/amazinglyweird-1652565561226.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\2022\05\14\amazinglyweird-1652565561226.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/3/nvc-reggieinterviewblogroll-1651595381686.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\thumbs\userUploaded\2022\5\3\nvc-reggieinterviewblogroll-1651595381686.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/4/re4v2inventoryblog-1651681534410.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/0_X-2-7Qsu8WL1WBsF4fE/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\0_X-2-7Qsu8WL1WBsF4fE\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/0_X-2-7Qsu8WL1WBsF4fE/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\0_X-2-7Qsu8WL1WBsF4fE\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\1250-f0984fbfea24438c25b2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-a36aa5848aae86d984d4.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\3325-a36aa5848aae86d984d4.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\3335-f37f50935d90c36de450.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\4735-fecddd9e4f12282111ed.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\571-147baf2d4176498805a1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\5914-92029dbf8de4df9727cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-2f1cac841068ac33804c.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\6306-2f1cac841068ac33804c.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\7263-3326c3898eef7a8228d5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7356-d3d0a5d0c668804b718d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\7356-d3d0a5d0c668804b718d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\8740-ed818a038011c2bf8df5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-7994433da45c8d734529.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\9456-7994433da45c8d734529.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\framework-57ad11da4426b1404226.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\main-b87df09e7fc063b37f88.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-3a5182175e427b54706d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\pages\wikis\listpages-3a5182175e427b54706d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-3cf77078d331a37d0da1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\pages\wikis\show-3cf77078d331a37d0da1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-46603cdd1397616efa55.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\pages\wikis\topcontributors-46603cdd1397616efa55.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-0cb45a86acfef27f5186.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\pages\_app-0cb45a86acfef27f5186.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-420b190b0b86a371f7b8.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\_next\static\chunks\webpack-420b190b0b86a371f7b8.js
+Content Type: application/javascript
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\src\core\img\social\avatars\ign.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/7-days-to-die/2/2b/7_Days_to_Die_Logo.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\mediawiki\apis.ign.com\7-days-to-die\2\2b\7_Days_to_Die_Logo.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/7-days-to-die/8/82/Navezgane_A15_Fullmap_Names_Roads_by_.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\mediawiki\apis.ign.com\7-days-to-die\8\82\Navezgane_A15_Fullmap_Names_Roads_by_.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/88/4378735-1544509188.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\social\avatars\users2\88\4378735-1544509188.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\js\chartbeat_mab.js
+Content Type: application/x-javascript
+
+Uri: https://www.ign.com/wikis/7-days-to-die/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\wikis\7-days-to-die\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/7-days-to-die/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\wikis\7-days-to-die\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/7-days-to-die/File:Navezgane_A15_Fullmap_Names_Roads_by_.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\wikis\7-days-to-die\FileNavezgane_A15_Fullmap_Names_Roads_by_.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/7-days-to-die/Navezgane_Map_A15
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\wikis\7-days-to-die\Navezgane_Map_A15.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/7-days-to-die/Navezgane_Map_A15.2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\wikis\7-days-to-die\Navezgane_Map_A15.2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/7-days-to-die/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\wikis\7-days-to-die\topcontributors.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\7 days to die\js\zddmp\1.1\zddmp.min.js
+Content Type: application/javascript
+
