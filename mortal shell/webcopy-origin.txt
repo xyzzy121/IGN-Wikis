@@ -1,0 +1,1520 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2022\02\25\elden-ring-1645785760542.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/tb-unit-1681-1648658092915.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2022\03\30\tb-unit-1681-1648658092915.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/weirdwest-blogroll-01-1648676759327.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2022\03\30\weirdwest-blogroll-01-1648676759327.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/04/elden-ring-starscourge-radahn-1649071461433.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2022\04\04\elden-ring-starscourge-radahn-1649071461433.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/07/gamepass-blogroll-01-1649350738078.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2022\04\07\gamepass-blogroll-01-1649350738078.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/13/northman-blogroll-1649879151278.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2022\04\13\northman-blogroll-1649879151278.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/15/letmesolorher-blogroll-1650048446126.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2022\04\15\letmesolorher-blogroll-1650048446126.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/03/21/psnow-1553191130715_160w.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2019\03\21\psnow-1553191130715_160w.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/2020/03/31/ign-persona5-royal-review-blogroll-1585687770590_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2020\03\31\ign-persona5-royal-review-blogroll-1585687770590_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2020/04/01/mortal-shell---button-02-1585770061496.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2020\04\01\mortal-shell---button-02-1585770061496.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2022/04/22/hirok3-1650669128946.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2022\04\22\hirok3-1650669128946.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/11/9/eldenringfirstminutesyt-1-1636488749604.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2021\11\9\eldenringfirstminutesyt-1-1636488749604.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/12/9/eldenring-br-1639108399440.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2021\12\9\eldenring-br-1639108399440.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+Content Type: image/jpeg
+
+Uri: https://assets2.ignimgs.com/2013/08/22/johnny-depp-pirates-1280jpg-882a8c.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2013\08\22\johnny-depp-pirates-1280jpg-882a8c.jpg
+Content Type: image/jpeg
+
+Uri: https://assets2.ignimgs.com/2014/05/15/farcry4keyart1jpg-a2a692.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2014\05\15\farcry4keyart1jpg-a2a692.jpg
+Content Type: image/jpeg
+
+Uri: https://assets2.ignimgs.com/2014/05/15/farcry4keyart1jpg-a2a692.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\2014\05\15\farcry4keyart1jpg-a2a692-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\adchoices\adchoices.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.1e1af0c5fdd3ada8e0f7.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.1e1af0c5fdd3ada8e0f7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/0f48d101345468e96c1d4740bba8a3b102d3023e.e4868775a9b982ea19d1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\0f48d101345468e96c1d4740bba8a3b102d3023e.e4868775a9b982ea19d1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.fe982e96d75b3b0aadbe.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.fe982e96d75b3b0aadbe.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.c49d513ae69cba6609fb.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\148903b84d877aaec44fe9c14f4809e1a14cbc79.c49d513ae69cba6609fb.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/191b5b66cffd575272ee78199c4b8633555febbd.dbfa8a5bc79e3dc2f364.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\191b5b66cffd575272ee78199c4b8633555febbd.dbfa8a5bc79e3dc2f364.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.27dba5b965fbbd800e2a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.27dba5b965fbbd800e2a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.e68ecaeaeec77c4bf1fd.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.e68ecaeaeec77c4bf1fd.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.ee740949655314f7e6cf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.ee740949655314f7e6cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.76d2dfb2c5fc09ba6b2d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.76d2dfb2c5fc09ba6b2d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.f9fce1391b97d7d2cb09.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.f9fce1391b97d7d2cb09.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.a3757270595fee30ec53.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.a3757270595fee30ec53.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/771d95d40614ae00dcdb57521e3cd516ce3f8efd.52c89187e26479c166de.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\771d95d40614ae00dcdb57521e3cd516ce3f8efd.52c89187e26479c166de.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/82329f15c14cdacfe195b49b056c93a43576dc7d.cdbf550471536a67a46b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\82329f15c14cdacfe195b49b056c93a43576dc7d.cdbf550471536a67a46b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.02089a71ecae9e51440f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.02089a71ecae9e51440f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.f9e76b2239e5017df017.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.f9e76b2239e5017df017.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/92ca89d6b546287f65b93ff9dfa3c2e490757e49.e035316d86f0e69a6ace.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\92ca89d6b546287f65b93ff9dfa3c2e490757e49.e035316d86f0e69a6ace.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9e40cabb2622fd49c7fd077d5b26e9b3c912880f.98051a93dbc94517dd30.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\9e40cabb2622fd49c7fd077d5b26e9b3c912880f.98051a93dbc94517dd30.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b763887d672575cce9cac09474ee43bdfa6cd510.8e5a7fd6afab8dc8d9ef.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\b763887d672575cce9cac09474ee43bdfa6cd510.8e5a7fd6afab8dc8d9ef.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/f3e929a2d88efb432f8092ec5cb6dd83c150842a.68024de5bb22674942bf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\f3e929a2d88efb432f8092ec5cb6dd83c150842a.68024de5bb22674942bf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-85cfde9ad16078280c35.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\main-85cfde9ad16078280c35.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-e7d22c23fdf5e51f0514.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\pages\wikis\listpages-e7d22c23fdf5e51f0514.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-e2ae811d13a71557599b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\pages\wikis\recentchanges-e2ae811d13a71557599b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-03cc22ffa44e8c837621.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\pages\wikis\show-03cc22ffa44e8c837621.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-9064dc64744660ff0ee7.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\pages\wikis\topcontributors-9064dc64744660ff0ee7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-a1d09e0b3e2f96db0488.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\pages\_app-a1d09e0b3e2f96db0488.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-f8592c38a43adfbb9179.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\chunks\webpack-f8592c38a43adfbb9179.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/kNT_QfLOVj5peX4Ozhu-6/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\kNT_QfLOVj5peX4Ozhu-6\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/kNT_QfLOVj5peX4Ozhu-6/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\_next\static\kNT_QfLOVj5peX4Ozhu-6\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male3.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\src\core\img\social\avatars\male3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/00/HammerLoc.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\00\HammerLoc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/00/Hope.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\00\Hope.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/01/VlasMerch1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\01\VlasMerch1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/02/SupMoonshine.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\02\SupMoonshine.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/03/BagOf.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\03\BagOf.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/03/FMartyr1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\03\FMartyr1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/04/BretherCorvid.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\04\BretherCorvid.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/04/Imrod4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\04\Imrod4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/05/QuenchFirst1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\05\QuenchFirst1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/06/Unchain7.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\06\Unchain7.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/0a/Crypt11.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\0a\Crypt11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/0a/EHarros.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\0a\EHarros.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/0a/Imrod3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\0a\Imrod3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/0c/LcGlimpseHope2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\0c\LcGlimpseHope2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/0/0f/Martyr1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\0\0f\Martyr1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/10/Seat4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\10\Seat4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/11/Seat5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\11\Seat5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/12/Crypt5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\12\Crypt5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/13/Seat25.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\13\Seat25.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/14/Crypt14.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\14\Crypt14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/14/EredrimVenerable.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\14\EredrimVenerable.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/14/Shrine17.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\14\Shrine17.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/16/Crucix2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\16\Crucix2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/18/Shrine11.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\18\Shrine11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/18/VlasMerch2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\18\VlasMerch2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/19/Weltcap.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\19\Weltcap.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/1a/QuenchMartyr1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\1a\QuenchMartyr1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/1c/Seat17.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\1c\Seat17.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/1d/Unchain1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\1d\Unchain1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/1f/Ascend1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\1f\Ascend1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/1f/Gorf.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\1f\Gorf.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/1/1f/InfuseFlame.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\1\1f\InfuseFlame.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/21/Seat6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\21\Seat6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/22/MartyrShawl.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\22\MartyrShawl.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/22/NewGamePlus.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\22\NewGamePlus.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/23/LcSestersBind.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\23\LcSestersBind.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/23/SesterBind.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\23\SesterBind.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/24/GF1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\24\GF1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/24/PostCrucix1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\24\PostCrucix1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/27/SArdor.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\27\SArdor.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/29/LcTwoItem.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\29\LcTwoItem.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/2b/FMartyr3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\2b\FMartyr3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/2b/MartyrLoc.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\2b\MartyrLoc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/2/2d/Shrine13.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\2\2d\Shrine13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/31/Hadern4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\31\Hadern4.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/32/Crypt4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\32\Crypt4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/33/TaintedNektar.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\33\TaintedNektar.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/35/Lute.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\35\Lute.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/35/MaceLoc.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\35\MaceLoc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/35/SEuphoria.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\35\SEuphoria.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/35/SpectralT.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\35\SpectralT.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/39/CampRETRY.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\39\CampRETRY.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/3c/Smolder2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\3c\Smolder2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/3d/Seat3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\3d\Seat3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/3e/Boiled.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\3e\Boiled.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/3e/EternalDiapason.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\3e\EternalDiapason.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/3e/QuenchSeat1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\3e\QuenchSeat1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/3f/Grishna1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\3f\Grishna1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/3f/SDespair.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\3f\SDespair.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/3/3f/Seat22.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\3\3f\Seat22.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/41/FMartyr4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\41\FMartyr4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/43/Crypt7.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\43\Crypt7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/44/MortalT.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\44\MortalT.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/44/Wisdom.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\44\Wisdom.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/45/QuenchShrine1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\45\QuenchShrine1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/45/WF3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\45\WF3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/46/Seat20.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\46\Seat20.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/47/LcGlimpseHope1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\47\LcGlimpseHope1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/47/Shrine14.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\47\Shrine14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/49/Remnant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\49\Remnant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/4b/EGrishna3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\4b\EGrishna3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/4c/GenessaMerch.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\4c\GenessaMerch.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/4/4d/Fallgrim6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\4\4d\Fallgrim6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/50/GoldenB.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\50\GoldenB.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/53/Crypt15.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\53\Crypt15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/53/GoHope1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\53\GoHope1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/55/Crypt9.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\55\Crypt9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/57/GF2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\57\GF2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/57/Seat15.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\57\Seat15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/57/Shrine15.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\57\Shrine15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/58/Quench.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\58\Quench.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/58/Seat23.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\58\Seat23.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/5a/Extracted.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\5a\Extracted.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/5d/Shrine3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\5d\Shrine3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/5d/WF2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\5d\WF2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/5f/Disdain.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\5f\Disdain.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/5/5f/LcDiscipleRag.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\5\5f\LcDiscipleRag.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/60/ImperviousLute.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\60\ImperviousLute.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/60/Smolder1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\60\Smolder1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/61/Dungeonhaven-Win64-Shipping_2020-08-14_22-20-15-46.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\61\Dungeonhaven-Win64-Shipping_2020-08-14_22-20-15-46.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/62/GoHope2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\62\GoHope2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/65/QuenchSeat3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\65\QuenchSeat3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/66/Crypt1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\66\Crypt1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/66/GF6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\66\GF6.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/68/Seat9.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\68\Seat9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/69/Reverie.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\69\Reverie.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/6a/BagHead2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\6a\BagHead2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/6a/OrnateMask.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\6a\OrnateMask.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/6b/Shrine21.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\6b\Shrine21.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/6e/Seat19.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\6e\Seat19.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/6f/EredrimLoc.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\6f\EredrimLoc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/6/6f/HallowedSword.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\6\6f\HallowedSword.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/70/Unchain6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\70\Unchain6.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/72/LcBagofTar.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\72\LcBagofTar.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/72/Unguent.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\72\Unguent.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/73/WF6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\73\WF6.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/74/Imrod1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\74\Imrod1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/74/Seat11.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\74\Seat11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/75/EredrimAbility.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\75\EredrimAbility.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/76/Crypt3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\76\Crypt3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/78/Crypt6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\78\Crypt6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/78/Imrod5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\78\Imrod5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/79/Hammer1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\79\Hammer1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/7a/Crypt18.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\7a\Crypt18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/7c/QuenchSeat2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\7c\QuenchSeat2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/7d/Crypt2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\7d\Crypt2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/7d/Grishna2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\7d\Grishna2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/7d/SA1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\7d\SA1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/7f/Shrine19.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\7f\Shrine19.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/7/7f/Unchain3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\7\7f\Unchain3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/80/GF3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\80\GF3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/81/InfuseCrystal.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\81\InfuseCrystal.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/83/Seat14.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\83\Seat14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/85/Tarspore.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\85\Tarspore.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/86/TielAcolyte.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\86\TielAcolyte.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/87/LcMartyrShawl.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\87\LcMartyrShawl.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/89/Seat13.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\89\Seat13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/8a/Ballistazooka.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\8a\Ballistazooka.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/8b/Truth.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\8b\Truth.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/8e/Untarnished.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\8e\Untarnished.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/8/8f/OrnateT.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\8\8f\OrnateT.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/90/Fallgrim2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\90\Fallgrim2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/92/Crypt10.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\92\Crypt10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/92/Fallgrim3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\92\Fallgrim3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/94/Shrine6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\94\Shrine6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/95/BagHead1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\95\BagHead1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/95/Nascent.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\95\Nascent.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/98/HammerChisel.jpeg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\98\HammerChisel.jpeg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/98/Shrine12.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\98\Shrine12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/99/SolomonLoc.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\99\SolomonLoc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/99/TarnSeal.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\99\TarnSeal.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/9a/TatteredVest.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\9a\TatteredVest.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/9b/TielLoc.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\9b\TielLoc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/9d/Seat18.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\9d\Seat18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/9/9f/Seat2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\9\9f\Seat2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/a2/Crucix4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\a2\Crucix4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/a4/Crypt13.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\a4\Crypt13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/a4/MangoItem.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\a4\MangoItem.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/a4/Seat24.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\a4\Seat24.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/a5/Fallgrim7.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\a5\Fallgrim7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/a6/LcGlimpseAffect.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\a6\LcGlimpseAffect.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/a6/Unchain2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\a6\Unchain2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/a7/LcMoltenSpike.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\a7\LcMoltenSpike.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/aa/Dungeonhaven-Win64-Shipping_2020-08-14_15-50-39-29.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\aa\Dungeonhaven-Win64-Shipping_2020-08-14_15-50-39-29.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/aa/EGrishna1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\aa\EGrishna1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/aa/Shrine8.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\aa\Shrine8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/ac/Hallowed1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\ac\Hallowed1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/ae/MortalCredits.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\ae\MortalCredits.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/a/af/TielAbility.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\a\af\TielAbility.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b0/Hallowed2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b0\Hallowed2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b1/CorruptedMerch1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b1\CorruptedMerch1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b1/TarnishedSeal.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b1\TarnishedSeal.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b2/HarrosVassal.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b2\HarrosVassal.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b2/LargeBolt.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b2\LargeBolt.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b3/Crypt12.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b3\Crypt12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b3/GlimpseTruth.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b3\GlimpseTruth.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b3/Seat21.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b3\Seat21.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b6/Hammer2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b6\Hammer2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b7/EGrishna2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b7\EGrishna2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/b9/Walkthrough1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\b9\Walkthrough1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/b/bf/Affection.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\b\bf\Affection.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c1/Fallgrim1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c1\Fallgrim1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c2/Courage.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c2\Courage.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c2/Shrine4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c2\Shrine4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c3/LcQuenchingAcid.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c3\LcQuenchingAcid.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c3/Unchain4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c3\Unchain4.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c4/Crypt16.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c4\Crypt16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c4/LcScriptureofRepent.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c4\LcScriptureofRepent.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c7/Grishna3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c7\Grishna3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c7/InMoonshine.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c7\InMoonshine.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c7/SolomonScholar.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c7\SolomonScholar.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/c9/InfuseHeal.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\c9\InfuseHeal.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/cb/SA4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\cb\SA4.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/cb/Seat10.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\cb\Seat10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/cc/Seat16.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\cc\Seat16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/cc/Unchain8.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\cc\Unchain8.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/cd/SmolderingMace.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\cd\SmolderingMace.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/ce/Baguette.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\ce\Baguette.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/ce/Martyr2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\ce\Martyr2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/c/cf/DisRag.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\c\cf\DisRag.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/d0/HarrosLoc.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\d0\HarrosLoc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/d4/MartyrsBlade.jpeg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\d4\MartyrsBlade.jpeg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/d5/InfuseKnot.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\d5\InfuseKnot.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/d7/SolomonAbility.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\d7\SolomonAbility.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/d8/Crypt8.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\d8\Crypt8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/d8/Hadern2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\d8\Hadern2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/db/SA2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\db\SA2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/dc/QuenchMartyr2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\dc\QuenchMartyr2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/dc/Seat7.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\dc\Seat7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/dc/SRepent.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\dc\SRepent.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/de/BallistaItem.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\de\BallistaItem.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/d/de/LcGlimpseCourage.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\d\de\LcGlimpseCourage.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/e1/Unchain11.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\e1\Unchain11.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/e2/HarrosAbility.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\e2\HarrosAbility.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/e2/MangoDrop1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\e2\MangoDrop1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/e6/RottenFood.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\e6\RottenFood.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/e7/Seat1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\e7\Seat1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/e9/CorruptedMerch2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\e9\CorruptedMerch2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/e9/SA3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\e9\SA3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/eb/QuenchShrine2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\eb\QuenchShrine2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/ed/Futility.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\ed\Futility.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/ed/MangoDrop2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\ed\MangoDrop2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/ed/PostCrucix2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\ed\PostCrucix2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/ed/SlurryOf.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\ed\SlurryOf.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/ed/WF7.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\ed\WF7.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/e/ef/Shrine5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\e\ef\Shrine5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f0/SDefiance.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f0\SDefiance.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f1/Hadern1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f1\Hadern1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f2/Congealed.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f2\Congealed.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f2/Shrine1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f2\Shrine1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f3/Seat27.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f3\Seat27.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f3/Shrine18.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f3\Shrine18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f4/RRat.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f4\RRat.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f7/Shrine16.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f7\Shrine16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f9/Ascend2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f9\Ascend2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f9/Fallgrim8.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f9\Fallgrim8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/f9/LcTaintedNektar.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\f9\LcTaintedNektar.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/fa/Seat30.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\fa\Seat30.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/fc/GF7.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\fc\GF7.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/fd/Seat28.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\fd\Seat28.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/fd/TarnishedMask.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\fd\TarnishedMask.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/fe/Crucix1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\fe\Crucix1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/fe/Crucix3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\fe\Crucix3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/ff/BronzeB.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\ff\BronzeB.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/ff/Fallgrim4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\ff\Fallgrim4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/mortal-shell/f/ff/FMartyr2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\apis.ign.com\mortal-shell\f\ff\FMartyr2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/images/Wikis_Walkthrough.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\mediawiki\images\Wikis_Walkthrough.jpg
+Content Type: image/jpeg
+
+Uri: https://pcmedia.ign.com/pc/image/object/736/736293/combattf121_pcboxboxart_160w.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\pc\image\object\736\736293\combattf121_pcboxboxart_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\js\chartbeat_mab.js
+Content Type: application/x-javascript
+
+Uri: https://www.ign.com/wikis/mortal-shell/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Achievements_and_Trophies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Achievements_and_Trophies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Bosses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Bosses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Crucix,_the_Twiceborn
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Crucix,_the_Twiceborn.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Crypt_of_Martyrs
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Crypt_of_Martyrs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/deadendpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\deadendpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Endings
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Endings.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Enslaved_Grisha
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Enslaved_Grisha.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Eredrim,_the_Venerable
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Eredrim,_the_Venerable.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Fallgrim
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Fallgrim.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:Crypt11.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileCrypt11.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:Crypt12.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileCrypt12.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:Crypt13.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileCrypt13.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:Crypt14.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileCrypt14.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:Crypt15.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileCrypt15.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:Crypt16.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileCrypt16.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:Crypt18.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileCrypt18.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:SA1.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileSA1.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:SA2.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileSA2.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:SA3.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileSA3.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/File:SA4.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\FileSA4.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Fog_Overworld
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Fog_Overworld.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Grisha
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Grisha.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Hadern
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Hadern.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Hallowed_Sword
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Hallowed_Sword.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Hammer_and_Chisel
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Hammer_and_Chisel.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Harros,_the_Vassal
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Harros,_the_Vassal.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/How_to_Farm_Glimpses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\How_to_Farm_Glimpses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/How_to_Farm_Weltcaps
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\How_to_Farm_Weltcaps.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/How_to_Get_the_Ballistazooka
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\How_to_Get_the_Ballistazooka.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/How_to_Parry
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\How_to_Parry.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Ign:Navigation
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\IgnNavigation.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Imrod,_the_Unrepentant
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Imrod,_the_Unrepentant.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Items
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Items.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/longpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\longpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Martyr's_Blade
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Martyr's_Blade.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Martyr's_Blade
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Martyr's_Blade-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Merchants
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Merchants.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/New_Game_Plus
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\New_Game_Plus.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/orphanedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\orphanedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Other_NPCs
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Other_NPCs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/recentchanges
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\recentchanges.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Returning_The_Sacred_Glands
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Returning_The_Sacred_Glands.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Seat_of_Infinity
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Seat_of_Infinity.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Shells
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Shells.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/shortpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\shortpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Shrine_of_Ash
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Shrine_of_Ash.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Smoldering_Mace
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Smoldering_Mace.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Solomon,_the_Scholar
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Solomon,_the_Scholar.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Strange_Altar
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Strange_Altar.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Tarsus,_the_First_Martyr
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Tarsus,_the_First_Martyr.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/The_Unchained
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\The_Unchained.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Tiel,_the_Acolyte
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Tiel,_the_Acolyte.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Tutorial
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Tutorial.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Ven_Noctivagu
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Ven_Noctivagu.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/wantedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\wantedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Weapons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/What_to_Do_First_in_Mortal_Shell
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\What_to_Do_First_in_Mortal_Shell.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Where_to_Find_Each_Shell
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Where_to_Find_Each_Shell.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Where_to_Find_Each_Weapon
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Where_to_Find_Each_Weapon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Where_to_Find_Quenching_Acid
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Where_to_Find_Quenching_Acid.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/mortal-shell/Which_Shell_is_Best%3F
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\wikis\mortal-shell\Which_Shell_is_Best.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\mortal shell\js\zddmp\1.1\zddmp.min.js
+Content Type: application/javascript
+
