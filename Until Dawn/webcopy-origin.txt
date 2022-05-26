@@ -1,0 +1,2388 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\video-player\fonts\ars400normal-1.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\video-player\fonts\ars700italic-1.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\video-player\fonts\ars700normal-1.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\video-player\fonts\ars900normal-1.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\video-player\fonts\VisbyRoundCF-Heavy-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2020/07/16/soviet-jump-game-button-01-1594857700999.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2020\07\16\soviet-jump-game-button-01-1594857700999.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2020/10/09/madden-21-button-fin-1602274974003.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2020\10\09\madden-21-button-fin-1602274974003.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2020/10/09/madden-21-button-fin-1602274974003.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2020\10\09\madden-21-button-fin-1602274974003-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/17/gta-5-button-2021-1639777058682.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2021\12\17\gta-5-button-2021-1639777058682.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/21/no-way-home-1640118858028.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2021\12\21\no-way-home-1640118858028-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/01/05/watch-dogs-1-button-1641369103832.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\01\05\watch-dogs-1-button-1641369103832.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/01/18/the-worst-person-in-the-world-blogroll-1642535433526.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\01\18\the-worst-person-in-the-world-blogroll-1642535433526-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/06/spider-man-no-way-home-nicholas-hammond-1636558468048-1637149344823-1644126688119.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\02\06\spider-man-no-way-home-nicholas-hammond-1636558468048-1637149344823-1644126688119-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/14/delorean-ev-1644864863232.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\02\14\delorean-ev-1644864863232-1.png
+Content Type: image/png
+
+Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\02\25\elden-ring-1645785760542-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/04/turningred-blogroll-02-1646433174282.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\03\04\turningred-blogroll-02-1646433174282-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/07/evolutionoffromsoftware-blogroll-1646677047214.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\03\07\evolutionoffromsoftware-blogroll-1646677047214-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/18/legostarwarsskywalkersaga-blogroll-1647642064197.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\03\18\legostarwarsskywalkersaga-blogroll-1647642064197-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/21/ghosttokyo-blogroll2-1647860622935.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\03\21\ghosttokyo-blogroll2-1647860622935-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/21/witcher-1647880542049.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\03\21\witcher-1647880542049-1.png
+Content Type: image/png
+
+Uri: https://assets-prd.ignimgs.com/2022/04/01/star-trek-away-team-1648776712376.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2022\04\01\star-trek-away-team-1648776712376.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/04/30/motherboards-blogroll-1-1525113855554_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2018\04\30\motherboards-blogroll-1-1525113855554_160w-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/01/22/until-dawn-button-fin-1548184846108.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\2019\01\22\until-dawn-button-fin-1548184846108-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2018/10/24/gameofthronesthumb-1540400606246.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\thumbs\userUploaded\2018\10\24\gameofthronesthumb-1540400606246-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/1/19/lotrblog-1642603006057.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\thumbs\userUploaded\2022\1\19\lotrblog-1642603006057-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/14/moonknightsecretagenttrailerignblogroll-1647274462527.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\thumbs\userUploaded\2022\3\14\moonknightsecretagenttrailerignblogroll-1647274462527-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/15/findingditmanblogroll2-1647366441259.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\thumbs\userUploaded\2022\3\15\findingditmanblogroll2-1647366441259-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\js\z0WVjCBSEeGLoxIxOQVEwQ.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\adchoices\adchoices-1.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\jst\zdconsent-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\pg\ign-1.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\pg\ign-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\pg\ign.prebid-1.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\js\sdkloader\ima3-1.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.1df98bfa8a4fb0bafac5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.1df98bfa8a4fb0bafac5-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.56ad98f067829cbd63ee.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.56ad98f067829cbd63ee-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.3a4a0aafe3f755fa0245.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\148903b84d877aaec44fe9c14f4809e1a14cbc79.3a4a0aafe3f755fa0245-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/191b5b66cffd575272ee78199c4b8633555febbd.4e08d8bd812132267989.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\191b5b66cffd575272ee78199c4b8633555febbd.4e08d8bd812132267989-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.beb0af36ddfca11fc41a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.beb0af36ddfca11fc41a-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.2aee8c7f6960294b4e30.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.2aee8c7f6960294b4e30-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/33c1301df6caa1c5e8afc13474c9681e1ebfa161.6f6d2c59bd1b4bbb236a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\33c1301df6caa1c5e8afc13474c9681e1ebfa161.6f6d2c59bd1b4bbb236a-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.887dfdf1648526fbb65b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.887dfdf1648526fbb65b-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.a1f7fe2a506b9549f207.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.a1f7fe2a506b9549f207-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.de0e96cb0bf93b7440ab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.de0e96cb0bf93b7440ab-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.1d2fd3732ba969acd165.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.1d2fd3732ba969acd165-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7176dc164dbb39a1e10e9e849c18b5baa5a4a524.378ebed4a7381b0a9ca2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\7176dc164dbb39a1e10e9e849c18b5baa5a4a524.378ebed4a7381b0a9ca2-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/771d95d40614ae00dcdb57521e3cd516ce3f8efd.d7bbb3a34d673d0eb729.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\771d95d40614ae00dcdb57521e3cd516ce3f8efd.d7bbb3a34d673d0eb729-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.c76f51ca42b5c849c8b5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.c76f51ca42b5c849c8b5-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.11bf76349dc31868c170.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.11bf76349dc31868c170-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/92ca89d6b546287f65b93ff9dfa3c2e490757e49.3bbe286d6d830c839a8a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\92ca89d6b546287f65b93ff9dfa3c2e490757e49.3bbe286d6d830c839a8a-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9e40cabb2622fd49c7fd077d5b26e9b3c912880f.644c7d8ab7fa1d6865e9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\9e40cabb2622fd49c7fd077d5b26e9b3c912880f.644c7d8ab7fa1d6865e9-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/ac0c0058e8c7e18df781f96ba7312b13daccf087.169e607412ff4cdd5486.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\ac0c0058e8c7e18df781f96ba7312b13daccf087.169e607412ff4cdd5486-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b763887d672575cce9cac09474ee43bdfa6cd510.ad5100744734ad51dffa.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\b763887d672575cce9cac09474ee43bdfa6cd510.ad5100744734ad51dffa-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/f3e929a2d88efb432f8092ec5cb6dd83c150842a.0a0db6001ae93a841e8e.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\f3e929a2d88efb432f8092ec5cb6dd83c150842a.0a0db6001ae93a841e8e-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-ffc42513266bbeac4eca.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\main-ffc42513266bbeac4eca-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-c97ec1ae3ef89f7e8cbc.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\pages\wikis\listpages-c97ec1ae3ef89f7e8cbc-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-6c09eee451d81ed0dae5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\pages\wikis\recentchanges-6c09eee451d81ed0dae5-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-1f9c7c2bc2b68090f582.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\pages\wikis\show-1f9c7c2bc2b68090f582-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-62202ad9cc1db1f6ad2c.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\pages\wikis\topcontributors-62202ad9cc1db1f6ad2c-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-59ef2f4b45b8a88d3169.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\pages\_app-59ef2f4b45b8a88d3169-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-730ef1c9c47374634cc9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\chunks\webpack-730ef1c9c47374634cc9-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/f0AvBnkkI9Xs6gZ--D-qW/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\f0AvBnkkI9Xs6gZ--D-qW\_buildManifest-1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/f0AvBnkkI9Xs6gZ--D-qW/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\_next\static\f0AvBnkkI9Xs6gZ--D-qW\_ssgManifest-1.js
+Content Type: application/javascript
+
+Uri: https://media.ign.com/games/image/object/965/965386/Blue-Dragon-Plus_Cover_LoRes.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\games\image\object\965\965386\Blue-Dragon-Plus_Cover_LoRes.jpg
+Content Type: image/jpeg
+
+Uri: https://moviesmedia.ign.com/movies/image/object/150/150340/tmnt_teaser1sheet.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\movies\image\object\150\150340\tmnt_teaser1sheet.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\src\core\img\social\avatars\ign-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\src\core\img\social\avatars\male1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/02/Fortune_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\02\Fortune_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/02/Fortune_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\02\Fortune_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/03/Mike.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\03\Mike-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/03/MM_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\03\MM_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/03/YR_19.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\03\YR_19-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/04/TT_9_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\04\TT_9_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/04/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\04\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/04/YR_13_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\04\YR_13_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/05/MM_5_6_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\05\MM_5_6_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/06/MM_3_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\06\MM_3_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/06/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\06\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/06/YR_22.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\06\YR_22-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/08/Fortune_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\08\Fortune_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/09/Guidance_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\09\Guidance_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0a/Matt.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0a\Matt-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0a/YR_27.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0a\YR_27-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0b/MM_19_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0b\MM_19_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0b/TT_14_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0b\TT_14_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0b/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0b\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0c/Chp2_Sass.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0c\Chp2_Sass-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0c/YR_2_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0c\YR_2_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0d/Hannah.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0d\Hannah-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0e/MM_24.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0e\MM_24-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0f/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0f\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/0/0f/YR_26_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\0\0f\YR_26_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/10/Death_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\10\Death_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/10/MM_13.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\10\MM_13-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/10/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWOWD.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\10\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWOWD.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/14/Danger_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\14\Danger_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/14/TT_10.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\14\TT_10-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/14/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\14\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/15/MM_21.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\15\MM_21-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/16/MM_14.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\16\MM_14-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/19/Chp2_Twins_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\19\Chp2_Twins_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/19/Loss_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\19\Loss_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/19/MM_17_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\19\MM_17_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/19/MM_22.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\19\MM_22-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/19/YR_5_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\19\YR_5_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1b/TT_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1b\TT_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1b/YR_12_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1b\YR_12_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1c/MM_2_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1c\MM_2_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1c/TT_15.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1c\TT_15-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1c/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AOYB.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1c\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AOYB.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1c/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ONBI.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1c\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ONBI.4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1d/Chp3_Underwear.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1d\Chp3_Underwear-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1d/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.STITOG.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1d\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.STITOG.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1e/MM_13_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1e\MM_13_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1e/MM_6_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1e\MM_6_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1f/Chp1_Alpha.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1f\Chp1_Alpha-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/1/1f/Pro_Analyst.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\1\1f\Pro_Analyst-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/20/TT_7.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\20\TT_7-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/20/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SFL.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\20\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SFL.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/20/YR_24.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\20\YR_24-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/21/TT_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\21\TT_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/22/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\22\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/23/Loss_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\23\Loss_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/23/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ISD.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\23\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ISD.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/24/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\24\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/24/YR_1_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\24\YR_1_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/24/YR_21.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\24\YR_21-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/24/YR_8_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\24\YR_8_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/26/MM_11.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\26\MM_11-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/26/TT_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\26\TT_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/26/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.LEBE.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\26\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.LEBE.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/28/Emily.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\28\Emily-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/29/Chp3_Shed.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\29\Chp3_Shed-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/29/Danger_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\29\Danger_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/29/Fortune_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\29\Fortune_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/2b/Chp1_Wanted_Poster_Location.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\2b\Chp1_Wanted_Poster_Location-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/2b/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\2b\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/2b/YR_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\2b\YR_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/2/2d/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\2\2d\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/31/Chris.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\31\Chris-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/31/YR_3_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\31\YR_3_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/32/Guidance_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\32\Guidance_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/32/MM_16.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\32\MM_16-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/32/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TSOD.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\32\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TSOD.4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/34/Death_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\34\Death_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/34/MM_15.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\34\MM_15-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/34/MM_18_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\34\MM_18_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/35/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\35\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/36/Death_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\36\Death_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/37/MM_27.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\37\MM_27-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/38/Loss_3_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\38\Loss_3_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/39/Chp1_Snowball.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\39\Chp1_Snowball-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/39/Chp3_Totem2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\39\Chp3_Totem2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/39/YR_14_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\39\YR_14_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/3a/Chp3_Inside_Shed.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\3a\Chp3_Inside_Shed-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/3a/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WSAYO.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\3a\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WSAYO.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/3a/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WSAYO.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\3a\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WSAYO.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/3b/Death_4_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\3b\Death_4_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/3b/TT_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\3b\TT_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/3c/Chp2_Creepin.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\3c\Chp2_Creepin-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/3/3d/MM_5_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\3\3d\MM_5_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/40/Totem_list.png?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\40\Totem_list-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/43/Chp3_Totem1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\43\Chp3_Totem1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/44/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.OTSP.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\44\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.OTSP.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/44/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.STITOG.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\44\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.STITOG.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/44/YR_27_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\44\YR_27_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/45/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\45\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/46/Chp2_Mystery_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\46\Chp2_Mystery_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/46/YR_24_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\46\YR_24_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/47/Death_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\47\Death_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/47/UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\47\UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/48/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TTR.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\48\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TTR.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/48/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TTR.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\48\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TTR.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/49/TT_12.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\49\TT_12-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/49/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.BHH.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\49\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.BHH.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/4a/YR_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\4a\YR_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/4b/Chp2_Lighter.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\4b\Chp2_Lighter-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/4b/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\4b\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/4c/TT_8.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\4c\TT_8-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/4d/Chp3_Tractor.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\4d\Chp3_Tractor-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/4d/YR_25_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\4d\YR_25_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/4e/TT_13.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\4e\TT_13-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/4/4f/MM_14_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\4\4f\MM_14_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/53/Chp1_Analyst_Fear.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\53\Chp1_Analyst_Fear-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/53/Chp2_Bat.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\53\Chp2_Bat-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/53/Chp2_Dont_Move.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\53\Chp2_Dont_Move-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/53/TT_13_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\53\TT_13_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/54/Chp2_Danger_Totem_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\54\Chp2_Danger_Totem_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/55/TT_1_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\55\TT_1_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/57/MM_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\57\MM_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/57/MM_7_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\57\MM_7_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/57/TT_20.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\57\TT_20-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/58/TT_19_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\58\TT_19_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/5b/UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\5b\UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/5b/YR_17_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\5b\YR_17_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/5c/YR_3_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\5c\YR_3_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/5c/YR_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\5c\YR_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/5e/Chp1_Tell_Matt.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\5e\Chp1_Tell_Matt-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/5f/TT_11_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\5f\TT_11_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/5/5f/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ASHSNA.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\5\5f\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ASHSNA.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/63/Chp2_Intro.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\63\Chp2_Intro-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/63/TT_17_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\63\TT_17_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/66/Chp1_Climb_Gate.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\66\Chp1_Climb_Gate-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/66/MM_25.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\66\MM_25-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/66/MM_27_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\66\MM_27_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/66/MM_30.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\66\MM_30-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/66/TT_4_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\66\TT_4_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/67/MM_4_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\67\MM_4_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/67/TT_11.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\67\TT_11-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/68/Chp1_Wanted_Poster.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\68\Chp1_Wanted_Poster-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/68/Chp2_Selfies.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\68\Chp2_Selfies-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/68/Chp2_Telescope.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\68\Chp2_Telescope-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/69/Chp2_Cat.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\69\Chp2_Cat-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/69/MM_29_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\69\MM_29_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6a/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.FWIFA.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6a\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.FWIFA.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6a/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SFL.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6a\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SFL.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6b/Guidance_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6b\Guidance_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6b/MM_15_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6b\MM_15_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6c/Death_3_Window.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6c\Death_3_Window-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6d/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.POBL.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6d\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.POBL.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6d/YR_8.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6d\YR_8-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6e/Fortune_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6e\Fortune_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6e/MM_1_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6e\MM_1_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6e/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.FWIFA.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6e\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.FWIFA.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/6/6e/YR_12.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\6\6e\YR_12-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/70/TT_16_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\70\TT_16_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/70/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.10.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\70\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/71/Chp2_Analyst.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\71\Chp2_Analyst-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/71/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.LEBE.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\71\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.LEBE.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/72/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWOWD.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\72\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWOWD.4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/73/Loss_4_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\73\Loss_4_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/73/MM_10_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\73\MM_10_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/73/TT_3_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\73\TT_3_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/73/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWOWD.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\73\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWOWD.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/76/Chp2_Twins_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\76\Chp2_Twins_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/76/Guidance_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\76\Guidance_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/77/Danger_2_Tractor.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\77\Danger_2_Tractor-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/78/Pro_Totem_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\78\Pro_Totem_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/78/TT_20_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\78\TT_20_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/79/Chp1_Dont_Move.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\79\Chp1_Dont_Move-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7a/Chp3_Spirit_Board.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7a\Chp3_Spirit_Board-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7a/Guidance_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7a\Guidance_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7a/MM_11_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7a\MM_11_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7a/TT_12_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7a\TT_12_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7a/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7a\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7c/Chp2_Peek.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7c\Chp2_Peek-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7d/Loss_2_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7d\Loss_2_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7d/TT_6_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7d\TT_6_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7d/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7d\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7e/MM_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7e\MM_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/7/7f/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWBT.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\7\7f\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWBT.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/80/MM_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\80\MM_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/80/MM_23.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\80\MM_23-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/80/MM_26.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\80\MM_26-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/80/MM_7.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\80\MM_7-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/81/Chp2_Guidance_Totem_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\81\Chp2_Guidance_Totem_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/81/MM_29_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\81\MM_29_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/81/MM_30_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\81\MM_30_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/81/MM_8_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\81\MM_8_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/81/UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\81\UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/82/MM_9_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\82\MM_9_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/84/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TTR.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\84\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TTR.4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/86/MM_28.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\86\MM_28-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/87/YR_17.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\87\YR_17-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/88/Chp1_Mike.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\88\Chp1_Mike-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/89/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\89\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8b/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWOWD.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8b\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWOWD.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8b/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8b\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8b/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.STITOG.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8b\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.STITOG.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8c/Loss_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8c\Loss_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8c/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.0.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8c\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8c/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WGTG.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8c\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WGTG.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8d/Chp2_Twins_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8d\Chp2_Twins_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8e/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.BHH.45.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8e\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.BHH.45-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8e/UNTIL_DAWN.PS4.HD_SCREENCAPS.DEATH_OR_LIFE.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8e\UNTIL_DAWN.PS4.HD_SCREENCAPS.DEATH_OR_LIFE.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/8/8f/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WGTG.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\8\8f\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WGTG.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/90/MM_28_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\90\MM_28_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/93/TT_19.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\93\TT_19-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/94/Sam.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\94\Sam-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/94/TT_18_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\94\TT_18_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/94/YR_11.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\94\YR_11-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/95/Death_6_Stairs.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\95\Death_6_Stairs-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/95/Fortune_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\95\Fortune_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/95/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\95\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/97/TT_16.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\97\TT_16-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/98/Chp3_MM1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\98\Chp3_MM1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/99/MM_18.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\99\MM_18-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/99/TT_14.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\99\TT_14-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/99/TT_9.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\99\TT_9-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9a/MM_8.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9a\MM_8-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9a/Pro_Note.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9a\Pro_Note-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9a/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9a\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9c/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.BHH.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9c\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.BHH.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9c/UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9c\UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9c/YR_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9c\YR_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9d/TT_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9d\TT_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9d/YR_18.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9d\YR_18-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9f/Danger_4_Door.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9f\Danger_4_Door-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9f/Loss_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9f\Loss_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/9/9f/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TSOD.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\9\9f\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TSOD.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a0/Chp2_Cart.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a0\Chp2_Cart-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a0/MM_15_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a0\MM_15_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a1/Chp2_Map.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a1\Chp2_Map-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a2/Beth.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a2\Beth-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a3/Death_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a3\Death_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a4/YR_17_Hide.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a4\YR_17_Hide-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a5/Guidance_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a5\Guidance_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a5/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.OTSP.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a5\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.OTSP.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a5/YR_6_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a5\YR_6_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a6/Chp2_Mysterty_8.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a6\Chp2_Mysterty_8-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a6/YR_14.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a6\YR_14-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a6/YR_15.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a6\YR_15-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a7/MM_8_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a7\MM_8_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a7/TT_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a7\TT_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a8/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ONBI.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a8\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ONBI.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/a8/UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\a8\UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/aa/Chp3_Twin1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\aa\Chp3_Twin1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/aa/YR_6_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\aa\YR_6_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/ac/Chp3_MM1_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\ac\Chp3_MM1_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/ad/Chp2_Police.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\ad\Chp2_Police-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/ae/Chp2_Twins_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\ae\Chp2_Twins_4-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/a/ae/MM_29.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\a\ae\MM_29-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b1/Chp2_Axe.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b1\Chp2_Axe-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b2/Ashley.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b2\Ashley-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b2/YR_25.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b2\YR_25-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b2/YR_26_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b2\YR_26_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b3/TT_7_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b3\TT_7_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b3/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ONBI.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b3\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ONBI.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b3/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WGTG.15.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b3\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WGTG.15-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b3/YR_16_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b3\YR_16_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b5/Chp2_Gang.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b5\Chp2_Gang-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b5/Fortune_4_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b5\Fortune_4_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b5/MM_12_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b5\MM_12_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b5/MM_17.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b5\MM_17-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b7/YR_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b7\YR_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b7/YR_9_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b7\YR_9_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b8/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ROH.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b8\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ROH.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b9/Chp2_Fall.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b9\Chp2_Fall-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/b9/Danger_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\b9\Danger_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/ba/Loss_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\ba\Loss_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/bb/MM_10.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\bb\MM_10-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/bc/Chp2_Bath.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\bc\Chp2_Bath-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/be/468px-Chp1_Guidance_Totem.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\be\468px-Chp1_Guidance_Totem-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/be/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\be\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/bf/Death_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\bf\Death_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/bf/MM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\bf\MM_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/b/bf/TT_10_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\b\bf\TT_10_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c0/MM_12.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c0\MM_12-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c0/YR_13.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c0\YR_13-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c3/Chp2_Loss_Totem_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c3\Chp2_Loss_Totem_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c3/UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c3\UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c4/YR_10_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c4\YR_10_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c4/YR_16.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c4\YR_16-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c5/YR_9.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c5\YR_9-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c6/Loss_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c6\Loss_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c8/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.LEBE.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c8\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.LEBE.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c8/YR_26_Gun.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c8\YR_26_Gun-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/c9/YR_11_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\c9\YR_11_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/ca/Chp2_Ash.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\ca\Chp2_Ash-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/ca/TT_10_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\ca\TT_10_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cb/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWB.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cb\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWB.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cc/Chp1_Note_Gate.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cc\Chp1_Note_Gate-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cc/MM_19.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cc\MM_19-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cc/YR_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cc\YR_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cd/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cd\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cd/YR_20.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cd\YR_20-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/ce/MM_22_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\ce\MM_22_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/ce/TT_12_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\ce\TT_12_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cf/Josh.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cf\Josh-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cf/TT_20_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cf\TT_20_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/c/cf/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.OTSP.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\c\cf\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.OTSP.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d0/YR_15_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d0\YR_15_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d1/Chp2_Twins_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d1\Chp2_Twins_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d1/TT_2_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d1\TT_2_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d1/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWBT.5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d1\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWBT.5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d3/Guidance_5_Shimmy.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d3\Guidance_5_Shimmy-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d3/MM_13_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d3\MM_13_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d3/MM_26_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d3\MM_26_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d3/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TSOD.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d3\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TSOD.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d4/Analyst.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d4\Analyst-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d4/YR_25_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d4\YR_25_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d7/Danger_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d7\Danger_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d7/TT_15_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d7\TT_15_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d7/TT_5_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d7\TT_5_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d7/YR_10.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d7\YR_10-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d8/MM_20_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d8\MM_20_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d9/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TITLE.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d9\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TITLE.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d9/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WGTG.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\d9\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WGTG.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/da/Guidance_1_Sign.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\da\Guidance_1_Sign-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/da/TT_5_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\da\TT_5_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/db/TT_18.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\db\TT_18-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/dc/MM_25_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\dc\MM_25_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/de/MM_21_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\de\MM_21_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/de/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\d\de\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e0/Chp2_Drawing.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e0\Chp2_Drawing-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e0/Chp3_Throw.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e0\Chp3_Throw-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e0/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e0\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ENDINGS.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e0/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e0\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e1/YR_23_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e1\YR_23_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e2/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e2\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.SY.4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e3/Chp2_Heater.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e3\Chp2_Heater-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e4/TT_8_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e4\TT_8_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e5/Chp2_Loss_Totem_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e5\Chp2_Loss_Totem_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e5/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ROH.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e5\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ROH.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e6/Chp2_Mystery_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e6\Chp2_Mystery_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e6/Danger_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e6\Danger_3-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e6/MM_20.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e6\MM_20-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e7/Chp1_Shooting.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e7\Chp1_Shooting-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e7/MM_6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e7\MM_6-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e8/Jessica.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e8\Jessica-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e8/TT_17.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e8\TT_17-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e8/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e8\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AWP.5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e8/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.FWIFA.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e8\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.FWIFA.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e8/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWBT.11.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e8\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWBT.11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e9/Loss_5_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e9\Loss_5_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/e9/Pro_Wake_Josh.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\e9\Pro_Wake_Josh-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ea/YR_26.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ea\YR_26-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/eb/Chp1_Shoot_Squirell.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\eb\Chp1_Shoot_Squirell-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/eb/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.BHH.44.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\eb\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.BHH.44-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/eb/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ISD.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\eb\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ISD.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/eb/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.POBL.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\eb\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.POBL.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ec/Chp2_Twins_5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ec\Chp2_Twins_5-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ec/Pro_Drop_Hannah.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ec\Pro_Drop_Hannah-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ec/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TSOD.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ec\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TSOD.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ee/Chp2_Fortune_Totem_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ee\Chp2_Fortune_Totem_1-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ee/MM_14_Path_b.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ee\MM_14_Path_b-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ee/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AOYB.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ee\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AOYB.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ee/YR_17_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ee\YR_17_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/e/ef/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ISD.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\e\ef\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ISD.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/f0/YR_2_Path_a.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\f0\YR_2_Path_a-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/f1/YR_4_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\f1\YR_4_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/f3/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WSAYO.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\f3\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.WSAYO.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/f4/Chp1_Check_Phone.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\f4\Chp1_Check_Phone-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/f4/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.POBL.3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\f4\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.POBL.3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/f5/YR_23.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\f5\YR_23-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/f7/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ROH.2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\f7\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ROH.2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/f8/Chp1_Guidance_Totem.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\f8\Chp1_Guidance_Totem-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/fa/MM_23_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\fa\MM_23_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/fa/MM_24_Path.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\fa\MM_24_Path-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/fa/Mystery_Thumb.png?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\fa\Mystery_Thumb-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/fb/Chp2_Cigar.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\fb\Chp2_Cigar-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/fc/Danger_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\fc\Danger_2-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/fc/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ONBI.1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\fc\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ONBI.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/f/fe/Death_5_Ladder.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\f\fe\Death_5_Ladder-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/thumb/4/47/UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.6.jpg/228px-UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.6.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\thumb\4\47\UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.6.jpg\228px-UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/thumb/8/8e/UNTIL_DAWN.PS4.HD_SCREENCAPS.DEATH_OR_LIFE.1.jpg/228px-UNTIL_DAWN.PS4.HD_SCREENCAPS.DEATH_OR_LIFE.1.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\thumb\8\8e\UNTIL_DAWN.PS4.HD_SCREENCAPS.DEATH_OR_LIFE.1.jpg\228px-UNTIL_DAWN.PS4.HD_SCREENCAPS.DEATH_OR_LIFE.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/thumb/d/d9/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TITLE.1.jpg/228px-UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TITLE.1.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\mediawiki\apis.ign.com\until-dawn\thumb\d\d9\UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TITLE.1.jpg\228px-UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TITLE.1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/55/953907-1403551755.png?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\social\avatars\users2\55\953907-1403551755-1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/78/5039825-1420848487.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\social\avatars\users2\78\5039825-1420848487-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pcmedia.ign.com/pc/image/object/491/491662/659173boxart_160w.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\pc\image\object\491\491662\659173boxart_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\tag\js\gpt-1.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\vans-adapter-google-ima-1.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\js\chartbeat_mab-1.js
+Content Type: application/x-javascript
+
+Uri: https://tvmedia.ign.com/tv/image/object/826/826407/theloop_box.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\tv\image\object\826\826407\theloop_box-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ign.com/wikis/until-dawn
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\index-1.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/...And_Which_One_Will_Die
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\...And_Which_One_Will_Die-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/...And_Which_One_Will_Die?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\...And_Which_One_Will_Die-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/1952_Clues
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\1952_Clues-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/1952_Clues?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\1952_Clues-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\allpages-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Any_Of_Your_Business
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Any_Of_Your_Business-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Ashley
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Ashley-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Ashley?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Ashley-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Ashley_Snaps
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Ashley_Snaps-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/At_What_Price
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\At_What_Price-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/At_What_Price?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\At_What_Price-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Beth
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Beth-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Beth?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Beth-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Be_Her_Hero
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Be_Her_Hero-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Be_Her_Hero?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Be_Her_Hero-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Butterfly_Effect
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Butterfly_Effect-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Butterfly_Effect?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Butterfly_Effect-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_10
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_10-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_10?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_10-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_1:_Memento_Mori
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_1_Memento_Mori-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_2-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_2:_Jealousy
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_2_Jealousy-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_2?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_2-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_3
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_3-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_3?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_3-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_4
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_4-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_4?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_4-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_5
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_5-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_5?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_5-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_6
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_6-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_6?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_6-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_7
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_7-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_7?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_7-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_8
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_8-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_8?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_8-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_9
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_9-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chapter_9?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chapter_9-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Choices_%26_Consequences
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Choices_&_Consequences-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Choices_&_Consequences
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Choices_&_Consequences-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chris
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chris-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Chris?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Chris-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Clues
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Clues-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Clues?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Clues-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Danger
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Danger-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Danger?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Danger-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/deadendpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\deadendpages-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Death
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Death-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Death?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Death-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Emily
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Emily-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Emily?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Emily-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Endings
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Endings-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:Pro_Drop_Hannah.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FilePro_Drop_Hannah.png-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:Pro_Wake_Josh.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FilePro_Wake_Josh.png-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AOYB.2.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FileUNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.AOYB.2.jpg-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.FWIFA.1.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FileUNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.FWIFA.1.jpg-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.0.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FileUNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.IMPDIS.0.jpg-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ISD.1.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FileUNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.ISD.1.jpg-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.1.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FileUNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.MBF.1.jpg-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.POBL.2.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FileUNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.POBL.2.jpg-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWBT.1.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FileUNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.RWBT.1.jpg-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/File:UNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.2.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\FileUNTIL_DAWN.PS4.HD_SCREENCAPS.TBE.2.jpg-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Forewarned_Is_Forearmed
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Forewarned_Is_Forearmed-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Forewarned_Is_Forearmed?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Forewarned_Is_Forearmed-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Fortune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Fortune-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Fortune?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Fortune-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Guidance
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Guidance-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Guidance?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Guidance-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Hannah
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Hannah-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Hannah?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Hannah-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Important_Discovery
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Important_Discovery-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Important_Discovery?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Important_Discovery-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/In_Self_Defense
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\In_Self_Defense-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/In_Self_Defense?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\In_Self_Defense-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Jessica
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Jessica-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Jessica?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Jessica-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Josh
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Josh-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Josh?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Josh-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Left_Behind
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Left_Behind-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Left_Behind?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Left_Behind-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/longpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\longpages-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Loss
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Loss-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Loss?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Loss-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Man's_Best_Friend
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Man's_Best_Friend-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Man's_Best_Friend?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Man's_Best_Friend-4.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Man's_Best_Friend
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Man's_Best_Friend-5.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Matt
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Matt-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Matt?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Matt-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Mike
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Mike-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Mike?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Mike-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Mystery_Man
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Mystery_Man-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Mystery_Man?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Mystery_Man-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Mystery_Man_Clues
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Mystery_Man_Clues-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Mystery_Man_Clues?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Mystery_Man_Clues-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Once_Bitten
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Once_Bitten-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Once_Bitten?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Once_Bitten-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/On_The_Same_Page
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\On_The_Same_Page-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/On_The_Same_Page?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\On_The_Same_Page-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/orphanedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\orphanedpages-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Point_Blank
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Point_Blank-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Prologue:_Last_Year
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Prologue_Last_Year-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Prologue:_The_Butterfly_Effect
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Prologue_The_Butterfly_Effect-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Rats_With_Bushy_Tails
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Rats_With_Bushy_Tails-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Rats_With_Bushy_Tails?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Rats_With_Bushy_Tails-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/recentchanges
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\recentchanges-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Run_Or_Hide
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Run_Or_Hide-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Run_Or_Hide?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Run_Or_Hide-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Sam
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Sam-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Sam?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Sam-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Save_Yourself
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Save_Yourself-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Save_Yourself?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Save_Yourself-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/shortpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\shortpages-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Something_For_Later
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Something_For_Later-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Stick_Together
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Stick_Together-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Stick_Together?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Stick_Together-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/The_Analyst
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\The_Analyst-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/The_Result_Of_Chaos
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\The_Result_Of_Chaos-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/The_Soul_Of_Discretion
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\The_Soul_Of_Discretion-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/The_Twins_Clues
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\The_Twins_Clues-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/The_Twins_Clues?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\The_Twins_Clues-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\topcontributors-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Totems
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Totems-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Totems?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Totems-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/To_The_Rescue
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\To_The_Rescue-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/To_The_Rescue?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\To_The_Rescue-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Trophies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Trophies-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Trophies?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Trophies-3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Walkthrough-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/wantedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\wantedpages-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Whose_Side_Are_You_On
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Whose_Side_Are_You_On-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Who_Gets_The_Gun
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Who_Gets_The_Gun-2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/until-dawn/Who_Gets_The_Gun?objectid=20022170
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\wikis\until-dawn\Who_Gets_The_Gun-3.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Until Dawn\js\zddmp\1.1\zddmp.min-1.js
+Content Type: application/javascript
+
