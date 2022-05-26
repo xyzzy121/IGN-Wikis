@@ -1,0 +1,2824 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2022/02/04/control-sq-1643934861039.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\02\04\control-sq-1643934861039.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\02\25\elden-ring-1645785760542.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/tb-unit-1681-1648658092915.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\03\30\tb-unit-1681-1648658092915.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/weirdwest-blogroll-01-1648676759327.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\03\30\weirdwest-blogroll-01-1648676759327.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/04/elden-ring-starscourge-radahn-1649071461433.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\04\04\elden-ring-starscourge-radahn-1649071461433.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/07/gamepass-blogroll-01-1649350738078.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\04\07\gamepass-blogroll-01-1649350738078.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/11/sakaguchiffxiv-blogroll-1649714070034.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\04\11\sakaguchiffxiv-blogroll-1649714070034.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/13/northman-blogroll-1649879151278.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\04\13\northman-blogroll-1649879151278.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/15/letmesolorher-blogroll-1650048446126.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2022\04\15\letmesolorher-blogroll-1650048446126.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/avatars/4ec43096e4b05a1b21cbfc4d/reaction_classic2-1641853657429.JPG?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\avatars\4ec43096e4b05a1b21cbfc4d\reaction_classic2-1641853657429.JPG
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/avatars/4ee1090e4c168ba745496262/stillu-1607715249216.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\avatars\4ee1090e4c168ba745496262\stillu-1607715249216.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/03/21/psnow-1553191130715_160w.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2019\03\21\psnow-1553191130715_160w.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/2020/02/12/patternbg2-1581533302621.jpg?height=156&crop=1200:331
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2020\02\12\patternbg2-1581533302621.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2020/02/12/patternbg2-1581533302621.jpg?height=331&crop=1200:331
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2020\02\12\patternbg2-1581533302621-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2020/03/31/ign-persona5-royal-review-blogroll-1585687770590_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\2020\03\31\ign-persona5-royal-review-blogroll-1585687770590_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/11/9/eldenringfirstminutesyt-1-1636488749604.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2021\11\9\eldenringfirstminutesyt-1-1636488749604.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/12/9/eldenring-br-1639108399440.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2021\12\9\eldenring-br-1639108399440.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/vid/thumbnails/user/2014/05/09/20823568_godzilla_031314_1280.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\vid\thumbnails\user\2014\05\09\20823568_godzilla_031314_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\adchoices\adchoices.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.1e1af0c5fdd3ada8e0f7.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.1e1af0c5fdd3ada8e0f7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/0f48d101345468e96c1d4740bba8a3b102d3023e.e4868775a9b982ea19d1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\0f48d101345468e96c1d4740bba8a3b102d3023e.e4868775a9b982ea19d1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.fe982e96d75b3b0aadbe.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.fe982e96d75b3b0aadbe.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.c49d513ae69cba6609fb.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\148903b84d877aaec44fe9c14f4809e1a14cbc79.c49d513ae69cba6609fb.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/191b5b66cffd575272ee78199c4b8633555febbd.dbfa8a5bc79e3dc2f364.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\191b5b66cffd575272ee78199c4b8633555febbd.dbfa8a5bc79e3dc2f364.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.27dba5b965fbbd800e2a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.27dba5b965fbbd800e2a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.e68ecaeaeec77c4bf1fd.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.e68ecaeaeec77c4bf1fd.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.ee740949655314f7e6cf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.ee740949655314f7e6cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.76d2dfb2c5fc09ba6b2d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.76d2dfb2c5fc09ba6b2d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.f9fce1391b97d7d2cb09.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.f9fce1391b97d7d2cb09.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.a3757270595fee30ec53.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.a3757270595fee30ec53.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/771d95d40614ae00dcdb57521e3cd516ce3f8efd.52c89187e26479c166de.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\771d95d40614ae00dcdb57521e3cd516ce3f8efd.52c89187e26479c166de.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/82329f15c14cdacfe195b49b056c93a43576dc7d.cdbf550471536a67a46b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\82329f15c14cdacfe195b49b056c93a43576dc7d.cdbf550471536a67a46b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.02089a71ecae9e51440f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.02089a71ecae9e51440f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.f9e76b2239e5017df017.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.f9e76b2239e5017df017.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/92ca89d6b546287f65b93ff9dfa3c2e490757e49.e035316d86f0e69a6ace.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\92ca89d6b546287f65b93ff9dfa3c2e490757e49.e035316d86f0e69a6ace.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9e40cabb2622fd49c7fd077d5b26e9b3c912880f.98051a93dbc94517dd30.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\9e40cabb2622fd49c7fd077d5b26e9b3c912880f.98051a93dbc94517dd30.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b763887d672575cce9cac09474ee43bdfa6cd510.8e5a7fd6afab8dc8d9ef.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\b763887d672575cce9cac09474ee43bdfa6cd510.8e5a7fd6afab8dc8d9ef.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/f3e929a2d88efb432f8092ec5cb6dd83c150842a.68024de5bb22674942bf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\f3e929a2d88efb432f8092ec5cb6dd83c150842a.68024de5bb22674942bf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-85cfde9ad16078280c35.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\main-85cfde9ad16078280c35.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-e7d22c23fdf5e51f0514.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\pages\wikis\listpages-e7d22c23fdf5e51f0514.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-e2ae811d13a71557599b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\pages\wikis\recentchanges-e2ae811d13a71557599b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-03cc22ffa44e8c837621.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\pages\wikis\show-03cc22ffa44e8c837621.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-9064dc64744660ff0ee7.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\pages\wikis\topcontributors-9064dc64744660ff0ee7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-a1d09e0b3e2f96db0488.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\pages\_app-a1d09e0b3e2f96db0488.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-f8592c38a43adfbb9179.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\chunks\webpack-f8592c38a43adfbb9179.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/kNT_QfLOVj5peX4Ozhu-6/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\kNT_QfLOVj5peX4Ozhu-6\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/kNT_QfLOVj5peX4Ozhu-6/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\_next\static\kNT_QfLOVj5peX4Ozhu-6\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://media.gamestats.com/gg/image/object/011/011248/battlezone2_PC_BOX-2006.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\gg\image\object\011\011248\battlezone2_PC_BOX-2006.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/system/circles.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\src\core\img\social\avatars\system\circles.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/00/Control_Screen_Shot_8-16-19%2C_1.31_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\00\Control_Screen_Shot_8-16-19,_1.31_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/01/Control_Screen_Shot_8-22-19%2C_3.02_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\01\Control_Screen_Shot_8-22-19,_3.02_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/01/Control_Screen_Shot_8-23-19%2C_3.48_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\01\Control_Screen_Shot_8-23-19,_3.48_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/01/Res_and_Rec_Synchronicity_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\01\Res_and_Rec_Synchronicity_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/01/Screen_Shot_2019-08-26_at_3.34.03_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\01\Screen_Shot_2019-08-26_at_3.34.03_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/02/Control_Screen_Shot_8-22-19%2C_6.52_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\02\Control_Screen_Shot_8-22-19,_6.52_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/02/Cor_Plant_Complaint_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\02\Cor_Plant_Complaint_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/04/Control_Screen_Shot_8-21-19%2C_12.45_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\04\Control_Screen_Shot_8-21-19,_12.45_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/04/Control_Screen_Shot_8-24-19%2C_5.52_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\04\Control_Screen_Shot_8-24-19,_5.52_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/05/Control_Screen_Shot_8-19-19%2C_2.30_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\05\Control_Screen_Shot_8-19-19,_2.30_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/06/Control_Screen_Shot_8-22-19%2C_10.21_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\06\Control_Screen_Shot_8-22-19,_10.21_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/06/Screen_Shot_2019-09-19_at_12.55.18_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\06\Screen_Shot_2019-09-19_at_12.55.18_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/08/Control_Screen_Shot_8-19-19%2C_4.11_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\08\Control_Screen_Shot_8-19-19,_4.11_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0a/Screen_Shot_2019-08-28_at_8.58.55_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0a\Screen_Shot_2019-08-28_at_8.58.55_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0b/Control_Screen_Shot_8-19-19%2C_3.13_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0b\Control_Screen_Shot_8-19-19,_3.13_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0b/Control_Screen_Shot_8-22-19%2C_11.04_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0b\Control_Screen_Shot_8-22-19,_11.04_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0b/Screen_Shot_2019-08-13_at_4.48.49_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0b\Screen_Shot_2019-08-13_at_4.48.49_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0b/Screen_Shot_2019-08-26_at_4.19.58_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0b\Screen_Shot_2019-08-26_at_4.19.58_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0c/Control_Screen_Shot_8-21-19%2C_10.54_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0c\Control_Screen_Shot_8-21-19,_10.54_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0c/Screen_Shot_2019-08-28_at_6.52.13_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0c\Screen_Shot_2019-08-28_at_6.52.13_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0d/Control_Screen_Shot_8-21-19%2C_12.47_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0d\Control_Screen_Shot_8-21-19,_12.47_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0d/Control_Screen_Shot_8-22-19%2C_2.50_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0d\Control_Screen_Shot_8-22-19,_2.50_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0d/Control_Screen_Shot_8-23-19%2C_3.39_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0d\Control_Screen_Shot_8-23-19,_3.39_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0d/Screen_Shot_2019-08-28_at_6.53.13_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0d\Screen_Shot_2019-08-28_at_6.53.13_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0e/Control_Screen_Shot_8-21-19%2C_1.51_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0e\Control_Screen_Shot_8-21-19,_1.51_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0e/FBC_Desk.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0e\FBC_Desk.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0e/Screen_Shot_2019-08-28_at_10.17.01_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0e\Screen_Shot_2019-08-28_at_10.17.01_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/0/0f/Screen_Shot_2019-09-19_at_1.11.21_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\0\0f\Screen_Shot_2019-09-19_at_1.11.21_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/10/Control_Screen_Shot_8-22-19%2C_10.17_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\10\Control_Screen_Shot_8-22-19,_10.17_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/10/Control_Screen_Shot_8-22-19%2C_10.48_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\10\Control_Screen_Shot_8-22-19,_10.48_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/11/Case_File_Rubber_Duck_Supplement_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\11\Case_File_Rubber_Duck_Supplement_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/11/Control_Screen_Shot_8-14-19%2C_6.03_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\11\Control_Screen_Shot_8-14-19,_6.03_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/11/Control_Screen_Shot_8-21-19%2C_10.41_AM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\11\Control_Screen_Shot_8-21-19,_10.41_AM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/11/Res_and_Rec_Dr_Tokui_Investigation.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\11\Res_and_Rec_Dr_Tokui_Investigation.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/12/Screen_Shot_2019-08-27_at_4.31.49_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\12\Screen_Shot_2019-08-27_at_4.31.49_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/13/CF_Emergency_Call_supplement_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\13\CF_Emergency_Call_supplement_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/13/Control_Screen_Shot_8-21-19%2C_1.24_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\13\Control_Screen_Shot_8-21-19,_1.24_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/16/Control_Screen_Shot_8-19-19%2C_8.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\16\Control_Screen_Shot_8-19-19,_8.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/16/Control_Screen_Shot_8-22-19%2C_10.34_AM_copy.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\16\Control_Screen_Shot_8-22-19,_10.34_AM_copy.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/16/Control_Screen_Shot_8-22-19%2C_4.12_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\16\Control_Screen_Shot_8-22-19,_4.12_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/16/Director_mail.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\16\Director_mail.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/16/Https_hypebeast.com_image_2020_03_hideo-kojima-profile-death-stranding-nytm-01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\16\Https_hypebeast.com_image_2020_03_hideo-kojima-profile-death-stranding-nytm-01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/16/Screen_Shot_2019-08-21_at_4.31.13_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\16\Screen_Shot_2019-08-21_at_4.31.13_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/16/Screen_Shot_2019-08-28_at_7.35.28_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\16\Screen_Shot_2019-08-28_at_7.35.28_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/16/Screen_Shot_2019-09-19_at_12.52.14_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\16\Screen_Shot_2019-09-19_at_12.52.14_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/17/Control-1.jpeg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\17\Control-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/17/Control_Screen_Shot_8-20-19%2C_2.20_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\17\Control_Screen_Shot_8-20-19,_2.20_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/19/Control_Screen_Shot_8-21-19%2C_10.34_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\19\Control_Screen_Shot_8-21-19,_10.34_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/19/Screen_Shot_2019-09-19_at_11.47.20_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\19\Screen_Shot_2019-09-19_at_11.47.20_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1a/Control_Screen_Shot_8-20-19%2C_11.26_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1a\Control_Screen_Shot_8-20-19,_11.26_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1a/Res_and_Rec_Groupthink_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1a\Res_and_Rec_Groupthink_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1b/Control_Screen_Shot_8-19-19%2C_4.56_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1b\Control_Screen_Shot_8-19-19,_4.56_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1b/Control_Screen_Shot_8-22-19%2C_2.14_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1b\Control_Screen_Shot_8-22-19,_2.14_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1b/Control_Screen_Shot_8-24-19%2C_7.50_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1b\Control_Screen_Shot_8-24-19,_7.50_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1b/Res_and_rec_Black_Rock_Prisms_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1b\Res_and_rec_Black_Rock_Prisms_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1b/Res_and_Rec_Song_Questionnaire_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1b\Res_and_Rec_Song_Questionnaire_4.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1b/Screen_Shot_2019-08-28_at_11.52.51_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1b\Screen_Shot_2019-08-28_at_11.52.51_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1c/Control_Screen_Shot_8-24-19%2C_5.48_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1c\Control_Screen_Shot_8-24-19,_5.48_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1c/Multi_HRAs_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1c\Multi_HRAs_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1c/Red_safe.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1c\Red_safe.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1d/Control_Screen_Shot_8-16-19%2C_1.33_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1d\Control_Screen_Shot_8-16-19,_1.33_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1d/Control_Screen_Shot_8-22-19%2C_8.54_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1d\Control_Screen_Shot_8-22-19,_8.54_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1e/Control_Screen_Shot_8-16-19%2C_2.47_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1e\Control_Screen_Shot_8-16-19,_2.47_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1e/Control_Screen_Shot_8-19-19%2C_4.57_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1e\Control_Screen_Shot_8-19-19,_4.57_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1e/Control_Screen_Shot_8-22-19%2C_4.41_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1e\Control_Screen_Shot_8-22-19,_4.41_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1f/Control_Blast.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1f\Control_Blast.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/1/1f/Control_Screen_Shot_8-22-19%2C_10.51_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\1\1f\Control_Screen_Shot_8-22-19,_10.51_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/20/Screen2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\20\Screen2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/20/Screen_Shot_2019-09-19_at_1.14.30_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\20\Screen_Shot_2019-09-19_at_1.14.30_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/21/Control_Screen_Shot_8-23-19%2C_1.39_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\21\Control_Screen_Shot_8-23-19,_1.39_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/21/Screen_Shot_2019-08-28_at_9.03.55_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\21\Screen_Shot_2019-08-28_at_9.03.55_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/22/Control_Screen_Shot_8-22-19%2C_2.12_PM_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\22\Control_Screen_Shot_8-22-19,_2.12_PM_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/22/Guide_Control.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\22\Guide_Control.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/23/Control_Screen_Shot_8-19-19%2C_8.41_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\23\Control_Screen_Shot_8-19-19,_8.41_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/24/Case_File_Rubber_Duck_Supplement_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\24\Case_File_Rubber_Duck_Supplement_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/24/Control_Screen_Shot_8-22-19%2C_9.11_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\24\Control_Screen_Shot_8-22-19,_9.11_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/24/Control_Screen_Shot_8-24-19%2C_6.27_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\24\Control_Screen_Shot_8-24-19,_6.27_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/24/Screen_Shot_2019-08-28_at_5.41.57_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\24\Screen_Shot_2019-08-28_at_5.41.57_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/25/Control_Screen_Shot_8-15-19%2C_3.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\25\Control_Screen_Shot_8-15-19,_3.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/26/Control_Screen_Shot_8-21-19%2C_1.43_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\26\Control_Screen_Shot_8-21-19,_1.43_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/27/Control_Screen_Shot_8-22-19%2C_3.43_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\27\Control_Screen_Shot_8-22-19,_3.43_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/28/Screen_Shot_2019-09-09_at_12.43.20_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\28\Screen_Shot_2019-09-09_at_12.43.20_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/28/Screen_Shot_2019-09-19_at_11.39.05_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\28\Screen_Shot_2019-09-19_at_11.39.05_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/29/Res_and_Rec_Resonance_theory.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\29\Res_and_Rec_Resonance_theory.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/2a/Control_Screen_Shot_8-21-19%2C_1.52_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\2a\Control_Screen_Shot_8-21-19,_1.52_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/2a/Screen_Shot_2019-08-26_at_1.59.35_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\2a\Screen_Shot_2019-08-26_at_1.59.35_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/2d/Control-Pre-order-FAQ-Banner-no-text-version-e1553697375588.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\2d\Control-Pre-order-FAQ-Banner-no-text-version-e1553697375588.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/2e/Control-2.jpeg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\2e\Control-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/2e/Control_Screen_Shot_8-19-19%2C_4.06_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\2e\Control_Screen_Shot_8-19-19,_4.06_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/2e/Screen_Shot_2019-08-28_at_8.29.01_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\2e\Screen_Shot_2019-08-28_at_8.29.01_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/2f/Control_Screen_Shot_8-19-19%2C_8.39_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\2f\Control_Screen_Shot_8-19-19,_8.39_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/2/2f/Res_and_Rec_Song_Questionnaire_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\2\2f\Res_and_Rec_Song_Questionnaire_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/30/Control_Screen_Shot_8-22-19%2C_7.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\30\Control_Screen_Shot_8-22-19,_7.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/30/Screen_Shot_2019-08-26_at_3.24.29_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\30\Screen_Shot_2019-08-26_at_3.24.29_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/32/Control_Screen_Shot_8-21-19%2C_10.39_AM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\32\Control_Screen_Shot_8-21-19,_10.39_AM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/32/Corr_Darling_Budget_Request.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\32\Corr_Darling_Budget_Request.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/33/Case_Files_Post_Box_Supplement_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\33\Case_Files_Post_Box_Supplement_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/33/Multi_HRAs_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\33\Multi_HRAs_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/35/Control_Screen_Shot_8-19-19%2C_1.25_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\35\Control_Screen_Shot_8-19-19,_1.25_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/36/Screen_Shot_2019-08-22_at_12.27.16_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\36\Screen_Shot_2019-08-22_at_12.27.16_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/36/Screen_Shot_2019-08-26_at_2.36.46_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\36\Screen_Shot_2019-08-26_at_2.36.46_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/37/Control_Screen_Shot_8-19-19%2C_3.56_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\37\Control_Screen_Shot_8-19-19,_3.56_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/37/Screen_Shot_2019-08-28_at_5.55.17_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\37\Screen_Shot_2019-08-28_at_5.55.17_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/38/Control_Screen_Shot_8-19-19%2C_4.59_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\38\Control_Screen_Shot_8-19-19,_4.59_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/38/Control_Screen_Shot_8-23-19%2C_1.22_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\38\Control_Screen_Shot_8-23-19,_1.22_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/39/Control_Screen_Shot_8-23-19%2C_12.03_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\39\Control_Screen_Shot_8-23-19,_12.03_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3b/Screen_Shot_2019-08-13_at_4.47.55_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3b\Screen_Shot_2019-08-13_at_4.47.55_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3b/Screen_Shot_2019-09-09_at_12.46.15_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3b\Screen_Shot_2019-09-09_at_12.46.15_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3c/Screen_Shot_2019-08-21_at_4.23.37_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3c\Screen_Shot_2019-08-21_at_4.23.37_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3d/Control_Screen_Shot_8-20-19%2C_2.02_PM_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3d\Control_Screen_Shot_8-20-19,_2.02_PM_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3d/Screen_Shot_2019-08-26_at_2.00.48_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3d\Screen_Shot_2019-08-26_at_2.00.48_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3d/Screen_Shot_2019-09-09_at_12.30.50_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3d\Screen_Shot_2019-09-09_at_12.30.50_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3e/Control_Screen_Shot_8-16-19%2C_1.29_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3e\Control_Screen_Shot_8-16-19,_1.29_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3e/Res_and_rec_Object_and_Item_Distinctions_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3e\Res_and_rec_Object_and_Item_Distinctions_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3f/Control_Screen_Shot_8-19-19%2C_3.13_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3f\Control_Screen_Shot_8-19-19,_3.13_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3f/Control_Screen_Shot_8-20-19%2C_11.34_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3f\Control_Screen_Shot_8-20-19,_11.34_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3f/Control_Screen_Shot_8-21-19%2C_11.59_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3f\Control_Screen_Shot_8-21-19,_11.59_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3f/Screen_Shot_2019-08-28_at_7.36.39_PM_(2).png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3f\Screen_Shot_2019-08-28_at_7.36.39_PM_(2).png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/3/3f/Screen_Shot_2019-08-28_at_9.16.10_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\3\3f\Screen_Shot_2019-08-28_at_9.16.10_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/40/Control_Screen_Shot_8-23-19%2C_12.59_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\40\Control_Screen_Shot_8-23-19,_12.59_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/40/Multi_Astralnaut_Liability_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\40\Multi_Astralnaut_Liability_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/40/Screen_Shot_2019-09-19_at_1.00.18_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\40\Screen_Shot_2019-09-19_at_1.00.18_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/42/Control_Screen_Shot_8-20-19%2C_5.08_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\42\Control_Screen_Shot_8-20-19,_5.08_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/42/Multi_Astral_Spike.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\42\Multi_Astral_Spike.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/43/Control_Screen_Shot_8-21-19%2C_10.36_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\43\Control_Screen_Shot_8-21-19,_10.36_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/43/Screen_Shot_2019-09-19_at_12.59.09_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\43\Screen_Shot_2019-09-19_at_12.59.09_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/44/Control_Screen_Shot_8-21-19%2C_11.59_AM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\44\Control_Screen_Shot_8-21-19,_11.59_AM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/44/Control_Screen_Shot_8-22-19%2C_10.37_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\44\Control_Screen_Shot_8-22-19,_10.37_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/44/Res_and_Re_Threshold_Utility_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\44\Res_and_Re_Threshold_Utility_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/44/Screen_Shot_2019-09-19_at_11.40.10_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\44\Screen_Shot_2019-09-19_at_11.40.10_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/45/Screen_Shot_2019-09-19_at_11.32.39_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\45\Screen_Shot_2019-09-19_at_11.32.39_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/46/Control_Screen_Shot_8-21-19%2C_12.31_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\46\Control_Screen_Shot_8-21-19,_12.31_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/46/Control_Screen_Shot_8-22-19%2C_9.01_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\46\Control_Screen_Shot_8-22-19,_9.01_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/46/Control_Screen_Shot_8-24-19%2C_6.29_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\46\Control_Screen_Shot_8-24-19,_6.29_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/47/Control_Screen_Shot_8-24-19%2C_5.10_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\47\Control_Screen_Shot_8-24-19,_5.10_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/49/Res_and_rec_Black_Rock_Prisms_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\49\Res_and_rec_Black_Rock_Prisms_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/49/Screen_Shot_2019-09-19_at_1.17.32_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\49\Screen_Shot_2019-09-19_at_1.17.32_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/49/Screen_Shot_2019-09-19_at_11.42.51_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\49\Screen_Shot_2019-09-19_at_11.42.51_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4a/Cor_Precognitive_Powers_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4a\Cor_Precognitive_Powers_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4b/Screen_Shot_2019-09-19_at_11.35.49_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4b\Screen_Shot_2019-09-19_at_11.35.49_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4c/Control_Screen_Shot_8-19-19%2C_2.43_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4c\Control_Screen_Shot_8-19-19,_2.43_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4c/Control_Screen_Shot_8-19-19%2C_3.57_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4c\Control_Screen_Shot_8-19-19,_3.57_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4c/Screen_Shot_2019-08-13_at_4.20.40_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4c\Screen_Shot_2019-08-13_at_4.20.40_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4d/Control_Screen_Shot_8-16-19%2C_3.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4d\Control_Screen_Shot_8-16-19,_3.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4d/Control_Screen_Shot_8-20-19%2C_11.39_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4d\Control_Screen_Shot_8-20-19,_11.39_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4e/Control_Screen_Shot_8-19-19%2C_2.41_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4e\Control_Screen_Shot_8-19-19,_2.41_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4f/Control_Screen_Shot_8-19-19%2C_1.27_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4f\Control_Screen_Shot_8-19-19,_1.27_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4f/Control_Screen_Shot_8-22-19%2C_11.21_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4f\Control_Screen_Shot_8-22-19,_11.21_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/4/4f/Control_Screen_Shot_8-22-19%2C_9.26_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\4\4f\Control_Screen_Shot_8-22-19,_9.26_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/50/Control_Screen_Shot_8-21-19%2C_1.48_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\50\Control_Screen_Shot_8-21-19,_1.48_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/50/Control_Screen_Shot_8-24-19%2C_7.43_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\50\Control_Screen_Shot_8-24-19,_7.43_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/50/Drooop.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\50\Drooop.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/51/Control_Screen_Shot_8-23-19%2C_12.15_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\51\Control_Screen_Shot_8-23-19,_12.15_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/51/Multi_FBC_Reminder_Pink_Documents_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\51\Multi_FBC_Reminder_Pink_Documents_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/52/Corr_Sand_Memo_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\52\Corr_Sand_Memo_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/52/Screen_Shot_2019-08-22_at_12.29.36_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\52\Screen_Shot_2019-08-22_at_12.29.36_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/53/Case_File_Mirror_Supplement_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\53\Case_File_Mirror_Supplement_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/53/Control_Screen_Shot_8-22-19%2C_4.37_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\53\Control_Screen_Shot_8-22-19,_4.37_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/53/Screen_Shot_2019-09-09_at_1.05.42_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\53\Screen_Shot_2019-09-09_at_1.05.42_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/55/Control_Screen_Shot_8-19-19%2C_2.26_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\55\Control_Screen_Shot_8-19-19,_2.26_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/55/Control_Screen_Shot_8-21-19%2C_11.05_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\55\Control_Screen_Shot_8-21-19,_11.05_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/55/Res_and_Rec_Groupthink_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\55\Res_and_Rec_Groupthink_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/56/Control_Screen_Shot_8-19-19%2C_1.34_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\56\Control_Screen_Shot_8-19-19,_1.34_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/57/Multi_Astralnaut_Liability_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\57\Multi_Astralnaut_Liability_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/59/Control_Screen_Shot_8-19-19%2C_12.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\59\Control_Screen_Shot_8-19-19,_12.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5a/Control_Screen_Shot_8-22-19%2C_10.49_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5a\Control_Screen_Shot_8-22-19,_10.49_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5a/Control_Screen_Shot_8-22-19%2C_11.30_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5a\Control_Screen_Shot_8-22-19,_11.30_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5a/Control_Screen_Shot_8-22-19%2C_2.44_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5a\Control_Screen_Shot_8-22-19,_2.44_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5b/Case_File_Mirror_Supplement_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5b\Case_File_Mirror_Supplement_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5b/Control_Screen_Shot_8-20-19%2C_2.01_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5b\Control_Screen_Shot_8-20-19,_2.01_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5c/Control_Screen_Shot_8-19-19%2C_9.02_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5c\Control_Screen_Shot_8-19-19,_9.02_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5c/Control_Screen_Shot_8-20-19%2C_2.17_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5c\Control_Screen_Shot_8-20-19,_2.17_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5e/Screen_Shot_2019-08-28_at_10.08.54_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5e\Screen_Shot_2019-08-28_at_10.08.54_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5f/Control_Screen_Shot_8-16-19%2C_2.49_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5f\Control_Screen_Shot_8-16-19,_2.49_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5f/Control_Screen_Shot_8-22-19%2C_8.20_PM_2_copy.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5f\Control_Screen_Shot_8-22-19,_8.20_PM_2_copy.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5f/Corner.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5f\Corner.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5f/Res_and_Rec_Astral_Plane_Counteressey.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5f\Res_and_Rec_Astral_Plane_Counteressey.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/5/5f/Res_and_rec_threshold_kids_proposal_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\5\5f\Res_and_rec_threshold_kids_proposal_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/60/Control_Screen_Shot_8-16-19%2C_1.46_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\60\Control_Screen_Shot_8-16-19,_1.46_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/60/Control_Screen_Shot_8-23-19%2C_4.17_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\60\Control_Screen_Shot_8-23-19,_4.17_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/60/Screen_Shot_2019-08-28_at_10.29.29_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\60\Screen_Shot_2019-08-28_at_10.29.29_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/61/Control_Screen_Shot_8-19-19%2C_2.41_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\61\Control_Screen_Shot_8-19-19,_2.41_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/61/Control_Screen_Shot_8-21-19%2C_12.29_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\61\Control_Screen_Shot_8-21-19,_12.29_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/61/Control_Screen_Shot_8-22-19%2C_10.35_AM_2_copy.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\61\Control_Screen_Shot_8-22-19,_10.35_AM_2_copy.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/62/Control_Screen_Shot_8-19-19%2C_12.52_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\62\Control_Screen_Shot_8-19-19,_12.52_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/62/Control_Screen_Shot_8-20-19%2C_1.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\62\Control_Screen_Shot_8-20-19,_1.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/62/Control_Screen_Shot_8-23-19%2C_4.16_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\62\Control_Screen_Shot_8-23-19,_4.16_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/62/Screen_Shot_2019-08-28_at_1.45.26_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\62\Screen_Shot_2019-08-28_at_1.45.26_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/62/Screen_Shot_2019-09-09_at_12.57.44_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\62\Screen_Shot_2019-09-09_at_12.57.44_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/63/Control-4.jpeg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\63\Control-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/63/Control_Screen_Shot_8-19-19%2C_2.11_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\63\Control_Screen_Shot_8-19-19,_2.11_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/63/Control_Screen_Shot_8-24-19%2C_6.40_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\63\Control_Screen_Shot_8-24-19,_6.40_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/63/Screen_Shot_2019-08-26_at_3.22.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\63\Screen_Shot_2019-08-26_at_3.22.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/64/Control_Screen_Shot_8-19-19%2C_4.44_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\64\Control_Screen_Shot_8-19-19,_4.44_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/65/Astral_Near.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\65\Astral_Near.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/66/Control_Screen_Shot_8-19-19%2C_1.29_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\66\Control_Screen_Shot_8-19-19,_1.29_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/66/Control_Screen_Shot_8-22-19%2C_6.53_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\66\Control_Screen_Shot_8-22-19,_6.53_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/67/Corr_Sensory_Tank_Purpose_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\67\Corr_Sensory_Tank_Purpose_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/68/Control_Screen_Shot_8-15-19%2C_11.21_AM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\68\Control_Screen_Shot_8-15-19,_11.21_AM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/68/Control_Screen_Shot_8-16-19%2C_3.02_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\68\Control_Screen_Shot_8-16-19,_3.02_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/68/Control_Screen_Shot_8-16-19%2C_3.24_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\68\Control_Screen_Shot_8-16-19,_3.24_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/68/Control_Screen_Shot_8-22-19%2C_2.51_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\68\Control_Screen_Shot_8-22-19,_2.51_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/68/Control_Screen_Shot_8-23-19%2C_1.43_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\68\Control_Screen_Shot_8-23-19,_1.43_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/68/Multimedia_Poets_of_the_Fall_My_Dark_Disquiet.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\68\Multimedia_Poets_of_the_Fall_My_Dark_Disquiet.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6a/Control_Screen_Shot_8-19-19%2C_12.24_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6a\Control_Screen_Shot_8-19-19,_12.24_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6a/Control_Screen_Shot_8-19-19%2C_9.03_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6a\Control_Screen_Shot_8-19-19,_9.03_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6a/Control_Screen_Shot_8-23-19%2C_4.15_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6a\Control_Screen_Shot_8-23-19,_4.15_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6b/Control_Screen_Shot_8-19-19%2C_12.19_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6b\Control_Screen_Shot_8-19-19,_12.19_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6b/Control_Screen_Shot_8-21-19%2C_10.24_AM_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6b\Control_Screen_Shot_8-21-19,_10.24_AM_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6b/Corr_Janitor_Complaint_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6b\Corr_Janitor_Complaint_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6b/Res_and_Re_Threshold_Utility_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6b\Res_and_Re_Threshold_Utility_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6b/Screen_Shot_2019-08-28_at_9.43.45_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6b\Screen_Shot_2019-08-28_at_9.43.45_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6d/Control_Screen_Shot_8-21-19%2C_10.51_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6d\Control_Screen_Shot_8-21-19,_10.51_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6d/Screen_Shot_2019-08-28_at_5.54.57_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6d\Screen_Shot_2019-08-28_at_5.54.57_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6e/Control_Screen_Shot_8-21-19%2C_1.47_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6e\Control_Screen_Shot_8-21-19,_1.47_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/6/6f/Control_Screen_Shot_8-22-19%2C_8.03_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\6\6f\Control_Screen_Shot_8-22-19,_8.03_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/70/Control_Screen_Shot_8-22-19%2C_10.31_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\70\Control_Screen_Shot_8-22-19,_10.31_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/70/Control_Screen_Shot_8-28-19%2C_11.45_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\70\Control_Screen_Shot_8-28-19,_11.45_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/71/Screen5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\71\Screen5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/72/Cor_Plant_Complaint_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\72\Cor_Plant_Complaint_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/72/Res_and_Rec_Astral_Exhibition_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\72\Res_and_Rec_Astral_Exhibition_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/72/Screen_Shot_2019-08-21_at_4.34.48_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\72\Screen_Shot_2019-08-21_at_4.34.48_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/73/Control_Screen_Shot_8-20-19%2C_4.59_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\73\Control_Screen_Shot_8-20-19,_4.59_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/73/Home_Safe_Tests_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\73\Home_Safe_Tests_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/73/Screen_Shot_2019-08-28_at_7.47.39_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\73\Screen_Shot_2019-08-28_at_7.47.39_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/74/Blue_boxed.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\74\Blue_boxed.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/74/Control_Screen_Shot_8-21-19%2C_11.52_AM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\74\Control_Screen_Shot_8-21-19,_11.52_AM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/74/Control_Screen_Shot_8-23-19%2C_3.59_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\74\Control_Screen_Shot_8-23-19,_3.59_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/74/Control_Screen_Shot_8-23-19%2C_4.32_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\74\Control_Screen_Shot_8-23-19,_4.32_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/74/Control_Screen_Shot_8-24-19%2C_5.53_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\74\Control_Screen_Shot_8-24-19,_5.53_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/75/Control_Screen_Shot_8-22-19%2C_8.05_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\75\Control_Screen_Shot_8-22-19,_8.05_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/77/Control_Screen_Shot_8-16-19%2C_1.28_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\77\Control_Screen_Shot_8-16-19,_1.28_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/77/Screen_Shot_2019-08-26_at_2.44.56_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\77\Screen_Shot_2019-08-26_at_2.44.56_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/77/Screen_Shot_2019-09-09_at_12.11.07_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\77\Screen_Shot_2019-09-09_at_12.11.07_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/79/Control_Screen_Shot_8-21-19%2C_10.24_AM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\79\Control_Screen_Shot_8-21-19,_10.24_AM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7a/Corr_Sensory_Tank_Purpose_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7a\Corr_Sensory_Tank_Purpose_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7a/Screen_Shot_2019-08-28_at_7.47.03_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7a\Screen_Shot_2019-08-28_at_7.47.03_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7b/Control_Screen_Shot_8-19-19%2C_1.28_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7b\Control_Screen_Shot_8-19-19,_1.28_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7b/Control_Screen_Shot_8-22-19%2C_4.44_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7b\Control_Screen_Shot_8-22-19,_4.44_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7b/Res_and_Rec_Slide_Projector_Tests_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7b\Res_and_Rec_Slide_Projector_Tests_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7c/Control_Screen_Shot_8-21-19%2C_10.40_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7c\Control_Screen_Shot_8-21-19,_10.40_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7c/Control_Screen_Shot_8-22-19%2C_8.03_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7c\Control_Screen_Shot_8-22-19,_8.03_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7d/Control_Screen_Shot_8-23-19%2C_4.02_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7d\Control_Screen_Shot_8-23-19,_4.02_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7d/Res_and_Rec_Slide_Projector_Tests_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7d\Res_and_Rec_Slide_Projector_Tests_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7e/Screen_Shot_2019-08-22_at_12.33.21_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7e\Screen_Shot_2019-08-22_at_12.33.21_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7f/Control_Screen_Shot_8-19-19%2C_9.24_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7f\Control_Screen_Shot_8-19-19,_9.24_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/7/7f/Screen_Shot_2019-09-19_at_12.55.30_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\7\7f\Screen_Shot_2019-09-19_at_12.55.30_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/80/Control_Screen_Shot_8-16-19%2C_1.13_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\80\Control_Screen_Shot_8-16-19,_1.13_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/80/Control_Screen_Shot_8-21-19%2C_12.30_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\80\Control_Screen_Shot_8-21-19,_12.30_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/80/Multi_AI52_Testing_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\80\Multi_AI52_Testing_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/80/Screen_Shot_2019-08-19_at_9.18.58_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\80\Screen_Shot_2019-08-19_at_9.18.58_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/80/Screen_Shot_2019-08-28_at_5.35.12_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\80\Screen_Shot_2019-08-28_at_5.35.12_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/81/Control_Screen_Shot_8-16-19%2C_2.25_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\81\Control_Screen_Shot_8-16-19,_2.25_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/81/Control_Screen_Shot_8-19-19%2C_2.29_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\81\Control_Screen_Shot_8-19-19,_2.29_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/81/Control_Screen_Shot_8-20-19%2C_2.18_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\81\Control_Screen_Shot_8-20-19,_2.18_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/81/Control_Screen_Shot_8-21-19%2C_1.00_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\81\Control_Screen_Shot_8-21-19,_1.00_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/81/Screen_Shot_2019-08-26_at_1.59.50_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\81\Screen_Shot_2019-08-26_at_1.59.50_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/81/Screen_Shot_2019-08-28_at_1.42.58_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\81\Screen_Shot_2019-08-28_at_1.42.58_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/81/Screen_Shot_2019-09-09_at_12.39.50_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\81\Screen_Shot_2019-09-09_at_12.39.50_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/82/Control_Screen_Shot_8-24-19%2C_7.28_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\82\Control_Screen_Shot_8-24-19,_7.28_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/83/Control_Screen_Shot_8-22-19%2C_9.16_PM_copy.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\83\Control_Screen_Shot_8-22-19,_9.16_PM_copy.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/83/Res_and_rec_Object_and_Item_Distinctions_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\83\Res_and_rec_Object_and_Item_Distinctions_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/83/Screen_Shot_2019-08-28_at_9.01.58_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\83\Screen_Shot_2019-08-28_at_9.01.58_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/84/Control_Screen_Shot_8-15-19%2C_11.21_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\84\Control_Screen_Shot_8-15-19,_11.21_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/84/Control_Screen_Shot_8-21-19%2C_10.39_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\84\Control_Screen_Shot_8-21-19,_10.39_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/84/Screen_Shot_2019-08-27_at_4.35.17_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\84\Screen_Shot_2019-08-27_at_4.35.17_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/85/Control_Screen_Shot_8-21-19%2C_3.34_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\85\Control_Screen_Shot_8-21-19,_3.34_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/85/Multi_AI52_Testing_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\85\Multi_AI52_Testing_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/87/Screen_Shot_2019-08-19_at_9.15.41_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\87\Screen_Shot_2019-08-19_at_9.15.41_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/88/Res_and_rec_threshold_kids_proposal_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\88\Res_and_rec_threshold_kids_proposal_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/89/Control_Screen_Shot_8-22-19%2C_2.12_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\89\Control_Screen_Shot_8-22-19,_2.12_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8a/Control_Screen_Shot_8-22-19%2C_2.43_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8a\Control_Screen_Shot_8-22-19,_2.43_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8a/Control_Screen_Shot_8-22-19%2C_7.23_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8a\Control_Screen_Shot_8-22-19,_7.23_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8a/Screen_Shot_2019-08-28_at_7.44.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8a\Screen_Shot_2019-08-28_at_7.44.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8b/Control_Screen_Shot_8-19-19%2C_2.25_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8b\Control_Screen_Shot_8-19-19,_2.25_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8b/Control_Screen_Shot_8-21-19%2C_11.54_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8b\Control_Screen_Shot_8-21-19,_11.54_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8d/Screen_Shot_2019-09-19_at_1.06.16_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8d\Screen_Shot_2019-09-19_at_1.06.16_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8e/Control_Screen_Shot_8-21-19%2C_12.59_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8e\Control_Screen_Shot_8-21-19,_12.59_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8f/Res_and_Rec_Recording_Chair_Procedures_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8f\Res_and_Rec_Recording_Chair_Procedures_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8f/Screen_Shot_2019-08-13_at_4.18.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8f\Screen_Shot_2019-08-13_at_4.18.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8f/Screen_Shot_2019-08-28_at_11.10.40_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8f\Screen_Shot_2019-08-28_at_11.10.40_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/8/8f/Screen_Shot_2019-09-19_at_11.33.52_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\8\8f\Screen_Shot_2019-09-19_at_11.33.52_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/90/Res_and_Rec_Synchronicity_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\90\Res_and_Rec_Synchronicity_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/91/Control_Screen_Shot_8-21-19%2C_10.38_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\91\Control_Screen_Shot_8-21-19,_10.38_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/91/Screen_Shot_2019-08-28_at_9.00.48_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\91\Screen_Shot_2019-08-28_at_9.00.48_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/93/Control_Screen_Shot_8-22-19%2C_2.46_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\93\Control_Screen_Shot_8-22-19,_2.46_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/94/Control_Screen_Shot_8-16-19%2C_3.14_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\94\Control_Screen_Shot_8-16-19,_3.14_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/94/Control_Screen_Shot_8-20-19%2C_2.17_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\94\Control_Screen_Shot_8-20-19,_2.17_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/94/Control_Screen_Shot_8-21-19%2C_1.44_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\94\Control_Screen_Shot_8-21-19,_1.44_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/94/Screen_Shot_2019-08-28_at_11.50.48_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\94\Screen_Shot_2019-08-28_at_11.50.48_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/94/Screen_Shot_2019-08-28_at_7.20.18_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\94\Screen_Shot_2019-08-28_at_7.20.18_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/95/Screen_Shot_2019-08-26_at_2.45.30_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\95\Screen_Shot_2019-08-26_at_2.45.30_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/95/Screen_Shot_2019-09-19_at_1.06.06_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\95\Screen_Shot_2019-09-19_at_1.06.06_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/97/Res_and_Rec_Recording_Chair_Procedures_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\97\Res_and_Rec_Recording_Chair_Procedures_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/99/Control_Screen_Shot_8-21-19%2C_11.56_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\99\Control_Screen_Shot_8-21-19,_11.56_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9a/Control-3.jpeg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9a\Control-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9a/Control_Screen_Shot_8-20-19%2C_1.22_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9a\Control_Screen_Shot_8-20-19,_1.22_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9a/Mapped.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9a\Mapped.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9a/Screen_Shot_2019-09-19_at_11.31.30_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9a\Screen_Shot_2019-09-19_at_11.31.30_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9b/Control_Screen_Shot_8-21-19%2C_12.00_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9b\Control_Screen_Shot_8-21-19,_12.00_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9b/Res_and_rec_Object_and_Item_Distinctions_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9b\Res_and_rec_Object_and_Item_Distinctions_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9c/Control_Screen_Shot_8-21-19%2C_1.25_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9c\Control_Screen_Shot_8-21-19,_1.25_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9e/Corr_Sensory_Tank_Purpose_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9e\Corr_Sensory_Tank_Purpose_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9e/Screen_Shot_2019-08-20_at_1.59.39_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9e\Screen_Shot_2019-08-20_at_1.59.39_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/9/9f/Case_F_Emergency_Call_Summary_4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\9\9f\Case_F_Emergency_Call_Summary_4.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a1/Control_Screen_Shot_8-14-19%2C_5.50_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a1\Control_Screen_Shot_8-14-19,_5.50_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a1/Corr_Hubert_Black_Rock_Analysis.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a1\Corr_Hubert_Black_Rock_Analysis.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a1/Screen_Shot_2019-08-28_at_7.36.00_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a1\Screen_Shot_2019-08-28_at_7.36.00_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a2/Control_Screen_Shot_8-16-19%2C_3.25_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a2\Control_Screen_Shot_8-16-19,_3.25_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a2/Corr_Janitor_Complaint_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a2\Corr_Janitor_Complaint_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a2/Screen_Shot_2019-08-26_at_4.16.24_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a2\Screen_Shot_2019-08-26_at_4.16.24_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a2/Screen_Shot_2019-08-28_at_1.43.28_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a2\Screen_Shot_2019-08-28_at_1.43.28_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a3/Control_Screen_Shot_8-15-19%2C_11.19_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a3\Control_Screen_Shot_8-15-19,_11.19_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a3/Screen_Shot_2019-08-28_at_5.26.33_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a3\Screen_Shot_2019-08-28_at_5.26.33_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a4/Control_Screen_Shot_8-22-19%2C_9.25_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a4\Control_Screen_Shot_8-22-19,_9.25_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a4/Screen_Shot_2019-08-28_at_11.09.59_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a4\Screen_Shot_2019-08-28_at_11.09.59_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a4/Screen_Shot_2019-09-19_at_12.59.31_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a4\Screen_Shot_2019-09-19_at_12.59.31_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a5/Screen_Shot_2019-08-28_at_11.07.10_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a5\Screen_Shot_2019-08-28_at_11.07.10_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a5/Screen_Shot_2019-09-19_at_12.56.11_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a5\Screen_Shot_2019-09-19_at_12.56.11_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a6/Home_Safe_Tests_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a6\Home_Safe_Tests_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a7/Control_Screen_Shot_8-20-19%2C_1.17_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a7\Control_Screen_Shot_8-20-19,_1.17_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a8/Control_Screen_Shot_8-21-19%2C_11.15_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a8\Control_Screen_Shot_8-21-19,_11.15_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a8/Res_and_Rec_Song_Questionnaire_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a8\Res_and_Rec_Song_Questionnaire_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a9/Control_Screen_Shot_8-20-19%2C_1.53_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a9\Control_Screen_Shot_8-20-19,_1.53_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a9/Control_Screen_Shot_8-20-19%2C_2.19_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a9\Control_Screen_Shot_8-20-19,_2.19_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a9/Screen_Shot_2019-08-28_at_9.03.25_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a9\Screen_Shot_2019-08-28_at_9.03.25_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/a9/Screen_Shot_2019-08-28_at_9.05.20_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\a9\Screen_Shot_2019-08-28_at_9.05.20_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/aa/Screen_Shot_2019-08-28_at_6.57.51_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\aa\Screen_Shot_2019-08-28_at_6.57.51_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/aa/Screen_Shot_2019-09-19_at_11.47.44_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\aa\Screen_Shot_2019-09-19_at_11.47.44_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ab/Control_Screen_Shot_8-20-19%2C_1.27_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ab\Control_Screen_Shot_8-20-19,_1.27_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ab/Screen_Shot_2019-08-28_at_7.01.12_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ab\Screen_Shot_2019-08-28_at_7.01.12_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ac/Control_Screen_Shot_8-21-19%2C_11.52_AM_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ac\Control_Screen_Shot_8-21-19,_11.52_AM_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ac/Res_and_Rec_Astralnauts_Information_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ac\Res_and_Rec_Astralnauts_Information_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ac/Screen_Shot_2019-08-19_at_9.17.04_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ac\Screen_Shot_2019-08-19_at_9.17.04_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ad/Control_Screen_Shot_8-16-19%2C_1.25_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ad\Control_Screen_Shot_8-16-19,_1.25_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ad/Screen_Shot_2019-08-28_at_7.20.08_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ad\Screen_Shot_2019-08-28_at_7.20.08_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ae/Multi_AI52_Testing_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ae\Multi_AI52_Testing_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/ae/Res_and_Rec_Astralnauts_Information_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\ae\Res_and_Rec_Astralnauts_Information_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/a/af/Control_Screen_Shot_8-22-19%2C_8.41_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\a\af\Control_Screen_Shot_8-22-19,_8.41_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b1/Case_File_Rubber_Duck_Supplement_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b1\Case_File_Rubber_Duck_Supplement_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b1/Control_Screen_Shot_8-21-19%2C_10.41_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b1\Control_Screen_Shot_8-21-19,_10.41_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b1/Screen_Shot_2019-08-28_at_5.04.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b1\Screen_Shot_2019-08-28_at_5.04.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b1/Side_quests.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b1\Side_quests.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b2/Control_Screen_Shot_8-24-19%2C_6.12_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b2\Control_Screen_Shot_8-24-19,_6.12_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b3/Control_Screen_Shot_8-21-19%2C_12.00_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b3\Control_Screen_Shot_8-21-19,_12.00_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b3/Multi_FBC_Reminder_Pink_Documents_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b3\Multi_FBC_Reminder_Pink_Documents_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b3/Screen_Shot_2019-08-28_at_10.12.14_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b3\Screen_Shot_2019-08-28_at_10.12.14_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b5/Control_Screen_Shot_8-15-19%2C_3.46_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b5\Control_Screen_Shot_8-15-19,_3.46_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b5/Control_Screen_Shot_8-16-19%2C_1.33_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b5\Control_Screen_Shot_8-16-19,_1.33_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b5/Screen6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b5\Screen6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b5/Screen_Shot_2019-09-19_at_12.53.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b5\Screen_Shot_2019-09-19_at_12.53.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b6/Control_Screen_Shot_8-19-19%2C_1.33_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b6\Control_Screen_Shot_8-19-19,_1.33_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b6/Control_Screen_Shot_8-19-19%2C_12.49_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b6\Control_Screen_Shot_8-19-19,_12.49_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b6/Screen_Shot_2019-08-21_at_4.22.52_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b6\Screen_Shot_2019-08-21_at_4.22.52_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b7/Control_Screen_Shot_8-21-19%2C_1.46_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b7\Control_Screen_Shot_8-21-19,_1.46_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b7/Control_Screen_Shot_8-22-19%2C_10.43_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b7\Control_Screen_Shot_8-22-19,_10.43_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b7/Control_Screen_Shot_8-22-19%2C_8.07_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b7\Control_Screen_Shot_8-22-19,_8.07_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b7/Cor_Plant_Complaint_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b7\Cor_Plant_Complaint_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b8/Control_Screen_Shot_8-15-19%2C_3.34_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b8\Control_Screen_Shot_8-15-19,_3.34_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b8/Control_Screen_Shot_8-23-19%2C_4.14_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b8\Control_Screen_Shot_8-23-19,_4.14_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/b8/Screen_Shot_2019-09-09_at_11.58.36_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\b8\Screen_Shot_2019-09-09_at_11.58.36_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/ba/Control_Screen_Shot_8-23-19%2C_4.09_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\ba\Control_Screen_Shot_8-23-19,_4.09_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bb/Control_Screen_Shot_8-19-19%2C_9.04_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bb\Control_Screen_Shot_8-19-19,_9.04_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bb/Control_Screen_Shot_8-23-19%2C_12.01_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bb\Control_Screen_Shot_8-23-19,_12.01_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bb/Home_Safe_Tests_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bb\Home_Safe_Tests_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bc/Control_Screen_Shot_8-16-19%2C_3.05_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bc\Control_Screen_Shot_8-16-19,_3.05_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bc/Control_Screen_Shot_8-21-19%2C_10.28_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bc\Control_Screen_Shot_8-21-19,_10.28_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bc/Control_Screen_Shot_8-21-19%2C_10.34_AM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bc\Control_Screen_Shot_8-21-19,_10.34_AM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bc/Screen_Shot_2019-08-28_at_4.59.36_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bc\Screen_Shot_2019-08-28_at_4.59.36_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bd/Caf.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bd\Caf.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bd/Screen_Shot_2019-08-21_at_4.29.40_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bd\Screen_Shot_2019-08-21_at_4.29.40_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/be/Control_Screen_Shot_8-19-19%2C_5.19_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\be\Control_Screen_Shot_8-19-19,_5.19_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/be/Control_Screen_Shot_8-19-19%2C_9.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\be\Control_Screen_Shot_8-19-19,_9.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/be/Screen_Shot_2019-09-09_at_1.03.20_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\be\Screen_Shot_2019-09-09_at_1.03.20_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/be/Screen_Shot_2019-09-09_at_12.16.35_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\be\Screen_Shot_2019-09-09_at_12.16.35_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bf/Central_Cafeteria.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bf\Central_Cafeteria.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bf/Control_Screen_Shot_8-20-19%2C_11.24_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bf\Control_Screen_Shot_8-20-19,_11.24_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/b/bf/Control_Screen_Shot_8-20-19%2C_2.20_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\b\bf\Control_Screen_Shot_8-20-19,_2.20_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c0/Screen_Shot_2019-08-22_at_12.32.10_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c0\Screen_Shot_2019-08-22_at_12.32.10_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c0/Screen_Shot_2019-08-26_at_3.36.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c0\Screen_Shot_2019-08-26_at_3.36.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c1/Control_Screen_Shot_8-16-19%2C_1.20_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c1\Control_Screen_Shot_8-16-19,_1.20_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c1/Control_Screen_Shot_8-22-19%2C_11.20_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c1\Control_Screen_Shot_8-22-19,_11.20_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c1/Screen_Shot_2019-08-21_at_4.26.20_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c1\Screen_Shot_2019-08-21_at_4.26.20_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c1/Screen_Shot_2019-09-09_at_12.14.57_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c1\Screen_Shot_2019-09-09_at_12.14.57_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c2/Control_Screen_Shot_8-15-19%2C_3.27_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c2\Control_Screen_Shot_8-15-19,_3.27_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c3/Concrete.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c3\Concrete.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c3/Control_Screen_Shot_8-15-19%2C_11.23_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c3\Control_Screen_Shot_8-15-19,_11.23_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c3/Screen_Shot_2019-09-19_at_11.44.18_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c3\Screen_Shot_2019-09-19_at_11.44.18_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c4/Control_Screen_Shot_8-21-19%2C_10.21_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c4\Control_Screen_Shot_8-21-19,_10.21_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c4/Control_Screen_Shot_8-22-19%2C_11.01_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c4\Control_Screen_Shot_8-22-19,_11.01_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c4/Screen_Shot_2019-08-13_at_3.11.13_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c4\Screen_Shot_2019-08-13_at_3.11.13_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c4/Screen_Shot_2019-09-19_at_12.51.22_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c4\Screen_Shot_2019-09-19_at_12.51.22_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c4/Screen_Shot_2019-09-19_at_12.52.47_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c4\Screen_Shot_2019-09-19_at_12.52.47_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c5/Case_File_Mirror_Supplement_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c5\Case_File_Mirror_Supplement_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c5/Control_Screen_Shot_8-14-19%2C_5.42_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c5\Control_Screen_Shot_8-14-19,_5.42_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c5/Control_Screen_Shot_8-19-19%2C_9.03_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c5\Control_Screen_Shot_8-19-19,_9.03_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c5/Control_Screen_Shot_8-21-19%2C_10.24_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c5\Control_Screen_Shot_8-21-19,_10.24_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c5/Control_Screen_Shot_8-21-19%2C_10.27_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c5\Control_Screen_Shot_8-21-19,_10.27_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c5/Control_Screen_Shot_8-22-19%2C_8.49_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c5\Control_Screen_Shot_8-22-19,_8.49_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c5/Corr_Sand_Memo_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c5\Corr_Sand_Memo_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c6/Control_Screen_Shot_8-22-19%2C_6.28_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c6\Control_Screen_Shot_8-22-19,_6.28_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c7/Control_Screen_Shot_8-19-19%2C_9.30_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c7\Control_Screen_Shot_8-19-19,_9.30_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c7/Control_Screen_Shot_8-21-19%2C_1.43_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c7\Control_Screen_Shot_8-21-19,_1.43_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c7/Cor_Precognitive_Powers_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c7\Cor_Precognitive_Powers_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c8/CF_Emergency_Call_supplement_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c8\CF_Emergency_Call_supplement_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c8/Control_Screen_Shot_8-19-19%2C_4.04_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c8\Control_Screen_Shot_8-19-19,_4.04_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c8/Screen_Shot_2019-09-19_at_11.39.32_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c8\Screen_Shot_2019-09-19_at_11.39.32_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c9/Control_Screen_Shot_8-24-19%2C_6.01_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c9\Control_Screen_Shot_8-24-19,_6.01_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/c9/Screen_Shot_2019-08-13_at_3.11.07_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\c9\Screen_Shot_2019-08-13_at_3.11.07_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/ca/Control_Screen_Shot_8-14-19%2C_4.53_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\ca\Control_Screen_Shot_8-14-19,_4.53_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cb/Res_and_Rec_Song_Questionnaire_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cb\Res_and_Rec_Song_Questionnaire_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cb/Screen_Shot_2019-08-28_at_1.46.29_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cb\Screen_Shot_2019-08-28_at_1.46.29_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cc/Case_File_Mirror_Supplement_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cc\Case_File_Mirror_Supplement_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cc/Control_Screen_Shot_8-21-19%2C_10.55_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cc\Control_Screen_Shot_8-21-19,_10.55_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cc/Guarded.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cc\Guarded.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cc/Screen_Shot_2019-08-26_at_3.24.16_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cc\Screen_Shot_2019-08-26_at_3.24.16_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cc/Screen_Shot_2019-09-19_at_11.44.56_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cc\Screen_Shot_2019-09-19_at_11.44.56_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cd/Case_File_Rubber_Duck_Supplement_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cd\Case_File_Rubber_Duck_Supplement_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cd/Control_Screen_Shot_8-19-19%2C_8.43_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cd\Control_Screen_Shot_8-19-19,_8.43_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cd/Res_and_Rec_Song_Questionnaire_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cd\Res_and_Rec_Song_Questionnaire_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cd/Screen_Shot_2019-08-28_at_7.19.48_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cd\Screen_Shot_2019-08-28_at_7.19.48_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/ce/Screen_Shot_2019-08-28_at_5.14.46_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\ce\Screen_Shot_2019-08-28_at_5.14.46_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/c/cf/CF_Emergency_Call_supplement_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\c\cf\CF_Emergency_Call_supplement_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d0/Tunnel.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d0\Tunnel.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d1/Res_and_Rec_Astral_Exhibition_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d1\Res_and_Rec_Astral_Exhibition_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d2/Control_Screen_Shot_8-21-19%2C_11.55_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d2\Control_Screen_Shot_8-21-19,_11.55_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d2/Control_Screen_Shot_8-22-19%2C_8.35_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d2\Control_Screen_Shot_8-22-19,_8.35_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d2/Screen_Shot_2019-09-09_at_12.33.01_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d2\Screen_Shot_2019-09-09_at_12.33.01_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d2/Screen_Shot_2019-09-09_at_12.56.44_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d2\Screen_Shot_2019-09-09_at_12.56.44_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d3/Control_Screen_Shot_8-24-19%2C_4.41_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d3\Control_Screen_Shot_8-24-19,_4.41_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d3/Screen_Shot_2019-08-28_at_6.57.21_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d3\Screen_Shot_2019-08-28_at_6.57.21_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d3/Stairs.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d3\Stairs.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d4/Control_Screen_Shot_8-23-19%2C_11.23_AM_copy.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d4\Control_Screen_Shot_8-23-19,_11.23_AM_copy.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d4/Screen_Shot_2019-08-19_at_9.21.08_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d4\Screen_Shot_2019-08-19_at_9.21.08_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d4/Screen_Shot_2019-08-27_at_4.21.21_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d4\Screen_Shot_2019-08-27_at_4.21.21_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d5/Control_Screen_Shot_8-24-19%2C_7.50_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d5\Control_Screen_Shot_8-24-19,_7.50_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d5/Screen_Shot_2019-08-28_at_11.06.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d5\Screen_Shot_2019-08-28_at_11.06.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d6/Control_Screen_Shot_8-19-19%2C_9.03_PM_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d6\Control_Screen_Shot_8-19-19,_9.03_PM_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d6/Control_Screen_Shot_8-20-19%2C_2.02_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d6\Control_Screen_Shot_8-20-19,_2.02_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d6/Screen_Shot_2019-08-28_at_8.29.19_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d6\Screen_Shot_2019-08-28_at_8.29.19_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d7/Case_F_Emergency_Call_Summary_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d7\Case_F_Emergency_Call_Summary_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d7/Control_Screen_Shot_8-16-19%2C_1.15_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d7\Control_Screen_Shot_8-16-19,_1.15_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d7/Control_Screen_Shot_8-19-19%2C_12.13_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d7\Control_Screen_Shot_8-19-19,_12.13_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d8/Control_Screen_Shot_8-23-19%2C_4.41_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d8\Control_Screen_Shot_8-23-19,_4.41_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d9/Control_Screen_Shot_8-16-19%2C_2.45_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d9\Control_Screen_Shot_8-16-19,_2.45_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d9/Control_Screen_Shot_8-19-19%2C_8.40_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d9\Control_Screen_Shot_8-19-19,_8.40_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d9/Control_Screen_Shot_8-20-19%2C_2.00_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d9\Control_Screen_Shot_8-20-19,_2.00_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d9/Control_Screen_Shot_8-21-19%2C_10.20_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d9\Control_Screen_Shot_8-21-19,_10.20_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d9/Res_and_rec_Hedron_Containment_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d9\Res_and_rec_Hedron_Containment_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/d9/Screen_Shot_2019-08-28_at_6.55.22_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\d9\Screen_Shot_2019-08-28_at_6.55.22_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/da/Control_Screen_Shot_8-20-19%2C_1.40_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\da\Control_Screen_Shot_8-20-19,_1.40_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/da/Control_Screen_Shot_8-22-19%2C_11.02_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\da\Control_Screen_Shot_8-22-19,_11.02_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/da/Screen_Shot_2019-08-28_at_11.23.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\da\Screen_Shot_2019-08-28_at_11.23.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/dc/Control_Screen_Shot_8-19-19%2C_7.56_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\dc\Control_Screen_Shot_8-19-19,_7.56_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/de/Control_Screen_Shot_8-16-19%2C_1.30_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\de\Control_Screen_Shot_8-16-19,_1.30_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/de/Screen_Shot_2019-08-28_at_10.17.34_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\de\Screen_Shot_2019-08-28_at_10.17.34_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/d/df/Control_Screen_Shot_8-22-19%2C_4.41_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\d\df\Control_Screen_Shot_8-22-19,_4.41_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e0/Multi_FBC_Reminder_Pink_Documents_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e0\Multi_FBC_Reminder_Pink_Documents_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e0/Res_and_Rec_Astralnauts_Information_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e0\Res_and_Rec_Astralnauts_Information_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e1/Control_Screen_Shot_8-22-19%2C_4.06_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e1\Control_Screen_Shot_8-22-19,_4.06_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e1/Screen_Shot_2019-08-28_at_1.46.04_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e1\Screen_Shot_2019-08-28_at_1.46.04_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e2/First_Janitor_Chat.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e2\First_Janitor_Chat.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e2/Res_and_Re_Threshold_Utility_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e2\Res_and_Re_Threshold_Utility_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e4/Control_Screen_Shot_8-27-19%2C_11.35_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e4\Control_Screen_Shot_8-27-19,_11.35_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e4/Screen_Shot_2019-08-13_at_4.46.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e4\Screen_Shot_2019-08-13_at_4.46.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e6/Control-PC-requirements.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e6\Control-PC-requirements.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e6/Control_Screen_Shot_8-16-19%2C_1.31_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e6\Control_Screen_Shot_8-16-19,_1.31_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e6/Control_Screen_Shot_8-16-19%2C_2.10_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e6\Control_Screen_Shot_8-16-19,_2.10_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e6/Cor_Precognitive_Powers_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e6\Cor_Precognitive_Powers_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e6/Screen_Shot_2019-08-19_at_9.13.36_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e6\Screen_Shot_2019-08-19_at_9.13.36_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e7/Res_and_Rec_Slide_Projector_Tests_1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e7\Res_and_Rec_Slide_Projector_Tests_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e7/Screen_Shot_2019-08-26_at_3.31.34_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e7\Screen_Shot_2019-08-26_at_3.31.34_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e7/Screen_Shot_2019-08-26_at_4.21.38_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e7\Screen_Shot_2019-08-26_at_4.21.38_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e8/Control_Screen_Shot_8-23-19%2C_11.50_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e8\Control_Screen_Shot_8-23-19,_11.50_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e8/Up_top.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e8\Up_top.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e9/Control_Screen_Shot_8-22-19%2C_2.12_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e9\Control_Screen_Shot_8-22-19,_2.12_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e9/Screen_Shot_2019-08-28_at_11.19.48_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e9\Screen_Shot_2019-08-28_at_11.19.48_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/e9/To_the_carpet_floor.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\e9\To_the_carpet_floor.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/ea/Screen_Shot_2019-09-19_at_11.40.46_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\ea\Screen_Shot_2019-09-19_at_11.40.46_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/eb/Screen_Shot_2019-09-19_at_11.46.34_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\eb\Screen_Shot_2019-09-19_at_11.46.34_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/ec/Control_Screen_Shot_8-22-19%2C_8.31_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\ec\Control_Screen_Shot_8-22-19,_8.31_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/ed/Control_Screen_Shot_8-14-19%2C_6.18_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\ed\Control_Screen_Shot_8-14-19,_6.18_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/ee/Control_Screen_Shot_8-19-19%2C_5.27_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\ee\Control_Screen_Shot_8-19-19,_5.27_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/ee/Control_Screen_Shot_8-21-19%2C_11.26_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\ee\Control_Screen_Shot_8-21-19,_11.26_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/ee/Screen_Shot_2019-09-09_at_12.21.02_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\ee\Screen_Shot_2019-09-09_at_12.21.02_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/ef/Control_Screen_Shot_8-19-19%2C_1.45_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\ef\Control_Screen_Shot_8-19-19,_1.45_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/e/ef/Screen_Shot_2019-08-28_at_5.34.40_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\e\ef\Screen_Shot_2019-08-28_at_5.34.40_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f0/Control_Screen_Shot_8-19-19%2C_4.35_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f0\Control_Screen_Shot_8-19-19,_4.35_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f0/Control_Screen_Shot_8-21-19%2C_10.22_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f0\Control_Screen_Shot_8-21-19,_10.22_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f0/Control_Screen_Shot_8-21-19%2C_12.04_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f0\Control_Screen_Shot_8-21-19,_12.04_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f0/Control_Screen_Shot_8-21-19%2C_3.34_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f0\Control_Screen_Shot_8-21-19,_3.34_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f1/Dr_Darlings_Office.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f1\Dr_Darlings_Office.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f1/Screen_Shot_2019-08-28_at_5.48.13_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f1\Screen_Shot_2019-08-28_at_5.48.13_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f1/Screen_Shot_2019-09-19_at_1.09.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f1\Screen_Shot_2019-09-19_at_1.09.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f2/Control_Screen_Shot_8-16-19%2C_1.05_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f2\Control_Screen_Shot_8-16-19,_1.05_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f2/Res_and_rec_threshold_kids_proposal_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f2\Res_and_rec_threshold_kids_proposal_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f2/Screen_Shot_2019-09-09_at_12.26.32_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f2\Screen_Shot_2019-09-09_at_12.26.32_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f3/Screen_Shot_2019-08-13_at_4.20.16_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f3\Screen_Shot_2019-08-13_at_4.20.16_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f3/Screen_Shot_2019-09-19_at_1.15.57_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f3\Screen_Shot_2019-09-19_at_1.15.57_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f4/Case_F_Emergency_Call_Summary_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f4\Case_F_Emergency_Call_Summary_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f4/Control_Screen_Shot_8-19-19%2C_8.52_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f4\Control_Screen_Shot_8-19-19,_8.52_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f5/Control_Screen_Shot_8-19-19%2C_4.37_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f5\Control_Screen_Shot_8-19-19,_4.37_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f5/Control_Screen_Shot_8-19-19%2C_9.24_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f5\Control_Screen_Shot_8-19-19,_9.24_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f5/Control_Screen_Shot_8-23-19%2C_4.10_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f5\Control_Screen_Shot_8-23-19,_4.10_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f5/Res_and_Rec_Slide_Projector_Tests_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f5\Res_and_Rec_Slide_Projector_Tests_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f6/Control_Screen_Shot_8-19-19%2C_4.09_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f6\Control_Screen_Shot_8-19-19,_4.09_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f6/Screen_Shot_2019-09-09_at_12.21.23_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f6\Screen_Shot_2019-09-09_at_12.21.23_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f7/Screen_Shot_2019-08-28_at_5.54.44_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f7\Screen_Shot_2019-08-28_at_5.54.44_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f8/Control_Screen_Shot_8-19-19%2C_2.02_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f8\Control_Screen_Shot_8-19-19,_2.02_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f8/Control_Screen_Shot_8-20-19%2C_2.01_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f8\Control_Screen_Shot_8-20-19,_2.01_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/f9/Res_and_rec_Hedron_Containment_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\f9\Res_and_rec_Hedron_Containment_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/fb/Control_Screen_Shot_8-16-19%2C_3.15_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\fb\Control_Screen_Shot_8-16-19,_3.15_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/fb/Control_Screen_Shot_8-16-19%2C_3.24_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\fb\Control_Screen_Shot_8-16-19,_3.24_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/fb/Screen_Shot_2019-09-09_at_12.42.07_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\fb\Screen_Shot_2019-09-09_at_12.42.07_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/fc/By_satellite.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\fc\By_satellite.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/fd/Control_Screen_Shot_8-28-19%2C_11.45_AM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\fd\Control_Screen_Shot_8-28-19,_11.45_AM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/fd/Corr_Sensory_Tank_Purpose_3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\fd\Corr_Sensory_Tank_Purpose_3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/fe/Res_and_Rec_Synchronicity_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\fe\Res_and_Rec_Synchronicity_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/ff/Case_F_Emergency_Call_Summary_0.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\ff\Case_F_Emergency_Call_Summary_0.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/ff/Control_Screen_Shot_8-20-19%2C_2.02_PM_2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\ff\Control_Screen_Shot_8-20-19,_2.02_PM_2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/ff/Screen_Shot_2019-08-28_at_5.19.16_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\ff\Screen_Shot_2019-08-28_at_5.19.16_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/ff/Screen_Shot_2019-09-19_at_11.25.25_AM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\ff\Screen_Shot_2019-09-19_at_11.25.25_AM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/control/f/ff/WT_Control.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\apis.ign.com\control\f\ff\WT_Control.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/images/Wikis_Achievements.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\images\Wikis_Achievements.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/images/Wikis_Collectables.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\images\Wikis_Collectables.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/images/Wikis_Walkthrough.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\mediawiki\images\Wikis_Walkthrough.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users/182849321-1295996823.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\social\avatars\users\182849321-1295996823.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/69/7314228-1554025496.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\social\avatars\users2\69\7314228-1554025496.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/94/96829655-1561145749.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\social\avatars\users2\94\96829655-1561145749.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\js\chartbeat_mab.js
+Content Type: application/x-javascript
+
+Uri: https://www.ign.com/wikis/control/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Achievements_and_Trophies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Achievements_and_Trophies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Ashtray_Maze_Solution
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Ashtray_Maze_Solution.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Astral_Spike_Puzzle_-_Old_Boys'_Club
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Astral_Spike_Puzzle_-_Old_Boys'_Club.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Astral_Spike_Puzzle_-_Old_Boys'_Club
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Astral_Spike_Puzzle_-_Old_Boys'_Club-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/A_Captive_Audience
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\A_Captive_Audience.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/A_Captive_Audience_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\A_Captive_Audience_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/A_Good_Defense
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\A_Good_Defense.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/A_Good_Defense_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\A_Good_Defense_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/A_Matter_of_Time
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\A_Matter_of_Time.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/A_Matter_of_Time_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\A_Matter_of_Time_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/A_Merry_Chase
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\A_Merry_Chase.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/A_Merry_Chase_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\A_Merry_Chase_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Best_Personal_and_Weapon_Mods
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Best_Personal_and_Weapon_Mods.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Best_Service_Weapon_Forms
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Best_Service_Weapon_Forms.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Boss_Guides_and_Difficult_Battles
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Boss_Guides_and_Difficult_Battles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Cast
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Cast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Cheats_and_Secrets
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Cheats_and_Secrets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Collectibles
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Collectibles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Combat_Tips
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Combat_Tips.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Containment_Sector_Collectibles
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Containment_Sector_Collectibles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Control's_Genre_and_Story
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Control's_Genre_and_Story.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Control's_Genre_and_Story
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Control's_Genre_and_Story-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Control_DLC_Release_Date,_Price,_and_Content
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Control_DLC_Release_Date,_Price,_and_Content.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Control_FAQ
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Control_FAQ.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Control_Mirror_Computer_Puzzle_-_Self_Reflection
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Control_Mirror_Computer_Puzzle_-_Self_Reflection.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Control_Updates_and_Patch_Notes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Control_Updates_and_Patch_Notes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Crafting_Resources_Pack
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Crafting_Resources_Pack.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/deadendpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\deadendpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Directorial_Override_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Directorial_Override_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Https_hypebeast.com_image_2020_03_hideo-kojima-profile-death-stranding-nytm-01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileHttps_hypebeast.com_image_2020_03_hideo-kojima-profile-death-stranding-nytm-01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Screen_Shot_2019-09-19_at_12.52.14_PM.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileScreen_Shot_2019-09-19_at_12.52.14_PM.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Screen_Shot_2019-09-19_at_12.52.47_PM.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileScreen_Shot_2019-09-19_at_12.52.47_PM.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Screen_Shot_2019-09-19_at_12.53.23_PM.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileScreen_Shot_2019-09-19_at_12.53.23_PM.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Screen_Shot_2019-09-19_at_12.55.18_PM.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileScreen_Shot_2019-09-19_at_12.55.18_PM.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Screen_Shot_2019-09-19_at_12.55.30_PM.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileScreen_Shot_2019-09-19_at_12.55.30_PM.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Screen_Shot_2019-09-19_at_12.56.11_PM.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileScreen_Shot_2019-09-19_at_12.56.11_PM.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Screen_Shot_2019-09-19_at_12.59.09_PM.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileScreen_Shot_2019-09-19_at_12.59.09_PM.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/File:Screen_Shot_2019-09-19_at_12.59.31_PM.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\FileScreen_Shot_2019-09-19_at_12.59.31_PM.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Find_the_Janitor_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Find_the_Janitor_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Finnish_Tango_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Finnish_Tango_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Fridge_Duty_Former_Boss_Guide_and_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Fridge_Duty_Former_Boss_Guide_and_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Fridge_Duty_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Fridge_Duty_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Hiss-corrupted_Horrowitz_Boss_Guide_and_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Hiss-corrupted_Horrowitz_Boss_Guide_and_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Hiss-corrupted_Tommasi_Boss_Guide_and_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Hiss-corrupted_Tommasi_Boss_Guide_and_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/How-To_Guides
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\How-To_Guides.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/How_to_Cleanse_the_Siphons_Tips_and_Tricks
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\How_to_Cleanse_the_Siphons_Tips_and_Tricks.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/How_to_Fast_Travel
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\How_to_Fast_Travel.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/How_to_Get_Every_Service_Weapon_Form
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\How_to_Get_Every_Service_Weapon_Form.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/How_to_Unlock_All_Psychic_Abilities_(Powers)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\How_to_Unlock_All_Psychic_Abilities_(Powers).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/How_to_Unlock_All_Side_Quests
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\How_to_Unlock_All_Side_Quests.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/How_to_Unlock_Every_Outfit
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\How_to_Unlock_Every_Outfit.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/HRA_Machine_Punch_Card_Puzzle_-_Old_Boys'_Club
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\HRA_Machine_Punch_Card_Puzzle_-_Old_Boys'_Club.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/HRA_Machine_Punch_Card_Puzzle_-_Old_Boys'_Club
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\HRA_Machine_Punch_Card_Puzzle_-_Old_Boys'_Club-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Ign:Navigation
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\IgnNavigation.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/longpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\longpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Main_Campaign_Boss_Guides
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Main_Campaign_Boss_Guides.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Main_Campaign_Puzzle_Solutions
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Main_Campaign_Puzzle_Solutions.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Monitor_Door_Unlock_Puzzle_-_A_Captive_Audience
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Monitor_Door_Unlock_Puzzle_-_A_Captive_Audience.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Monitor_Puzzle_-_Old_Boys'_Club
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Monitor_Puzzle_-_Old_Boys'_Club.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Monitor_Puzzle_-_Old_Boys'_Club
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Monitor_Puzzle_-_Old_Boys'_Club-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/My_Brother's_Keeper_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\My_Brother's_Keeper_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/My_Brother's_Keeper_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\My_Brother's_Keeper_Walkthrough-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Old_Boys'_Club_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Old_Boys'_Club_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Old_Boys'_Club_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Old_Boys'_Club_Walkthrough-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/orphanedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\orphanedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/PC_Requirements
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\PC_Requirements.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Polaris_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Polaris_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Preorder_Bonuses_and_Deluxe_Edition_Content
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Preorder_Bonuses_and_Deluxe_Edition_Content.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Rare_Weapon_Mod
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Rare_Weapon_Mod.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/recentchanges
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\recentchanges.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Research_Sector_Collectibles
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Research_Sector_Collectibles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Salvador_Boss_Guide_and_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Salvador_Boss_Guide_and_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Secret_Locations
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Secret_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Self-Reflection_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Self-Reflection_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/shortpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\shortpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Side_Quest_Boss_Guides
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Side_Quest_Boss_Guides.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Side_Quest_Puzzle_Solutions
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Side_Quest_Puzzle_Solutions.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Take_Control_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Take_Control_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/The_Enemy_Within_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\The_Enemy_Within_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/The_Face_of_the_Enemy_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\The_Face_of_the_Enemy_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Things_Control_Doesn't_Tell_You
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Things_Control_Doesn't_Tell_You.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Things_Control_Doesn't_Tell_You
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Things_Control_Doesn't_Tell_You-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Threshold_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Threshold_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Traverse_the_Oceanview_Motel_Puzzle_-_Finnish_Tango
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Traverse_the_Oceanview_Motel_Puzzle_-_Finnish_Tango.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Traverse_the_Oceanview_Motel_Puzzle_-_My_Brother's_Keeper
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Traverse_the_Oceanview_Motel_Puzzle_-_My_Brother's_Keeper.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Traverse_the_Oceanview_Motel_Puzzle_-_My_Brother's_Keeper
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Traverse_the_Oceanview_Motel_Puzzle_-_My_Brother's_Keeper-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Traverse_the_Oceanview_Motel_Puzzle_-_Threshold
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Traverse_the_Oceanview_Motel_Puzzle_-_Threshold.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Traverse_the_Oceanview_Motel_Puzzle_-_Unknown_Caller
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Traverse_the_Oceanview_Motel_Puzzle_-_Unknown_Caller.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Turbine_Puzzle_-_Threshold
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Turbine_Puzzle_-_Threshold.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Universe
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Universe.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Unknown_Caller_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Unknown_Caller_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/wantedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\wantedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/control/Welcome_to_the_Oldest_House_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\wikis\control\Welcome_to_the_Oldest_House_Walkthrough.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Control\js\zddmp\1.1\zddmp.min.js
+Content Type: application/javascript
+
