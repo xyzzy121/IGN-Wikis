@@ -1,0 +1,2512 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2021/11/15/spiderman-nowayhome-button-1637000869202.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2021\11\15\spiderman-nowayhome-button-1637000869202.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/07/tlou-1638842419547.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2021\12\07\tlou-1638842419547.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/07/tlou-1638842419547.jpg?width=300&saturation=80&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2021\12\07\tlou-1638842419547-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/09/moto-gp-21-button-fin-1639016405018.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2021\12\09\moto-gp-21-button-fin-1639016405018.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/30/primal-button-1640852482166.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2021\12\30\primal-button-1640852482166.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/01/21/tomb-raider-3-button-edit-1642743264960.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\01\21\tomb-raider-3-button-edit-1642743264960.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\02\25\elden-ring-1645785760542.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/tb-unit-1681-1648658092915.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\03\30\tb-unit-1681-1648658092915.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/weirdwest-blogroll-01-1648676759327.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\03\30\weirdwest-blogroll-01-1648676759327.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/04/elden-ring-starscourge-radahn-1649071461433.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\04\04\elden-ring-starscourge-radahn-1649071461433.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/07/gamepass-blogroll-01-1649350738078.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\04\07\gamepass-blogroll-01-1649350738078.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/11/sakaguchiffxiv-blogroll-1649714070034.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\04\11\sakaguchiffxiv-blogroll-1649714070034.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/13/northman-blogroll-1649879151278.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\04\13\northman-blogroll-1649879151278.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/15/letmesolorher-blogroll-1650048446126.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2022\04\15\letmesolorher-blogroll-1650048446126.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/avatars/5029636f4c167effb5f9d638/jr-lh-1647281778280.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\avatars\5029636f4c167effb5f9d638\jr-lh-1647281778280.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/avatars/5b64c9e429e70a1a2a4344c8/7ptPyX8P_400x400-1646697945511.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\avatars\5b64c9e429e70a1a2a4344c8\7ptPyX8P_400x400-1646697945511.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2015/06/16/wiiufreedomplanettitlescreenjpg-b7ae28.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2015\06\16\wiiufreedomplanettitlescreenjpg-b7ae28.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/01/05/bloodborne---button-1546669457774.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2019\01\05\bloodborne---button-1546669457774.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/03/21/psnow-1553191130715_160w.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2019\03\21\psnow-1553191130715_160w.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/2020/03/31/ign-persona5-royal-review-blogroll-1585687770590_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2020\03\31\ign-persona5-royal-review-blogroll-1585687770590_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/11/9/eldenringfirstminutesyt-1-1636488749604.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2021\11\9\eldenringfirstminutesyt-1-1636488749604.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/12/9/eldenring-br-1639108399440.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2021\12\9\eldenring-br-1639108399440.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/vid/thumbnails/user/2014/05/09/20823568_godzilla_031314_1280.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\vid\thumbnails\user\2014\05\09\20823568_godzilla_031314_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://assets2.ignimgs.com/2008/05/28/ceville-screens-20080528113954081-2413813.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\2008\05\28\ceville-screens-20080528113954081-2413813.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\adchoices\adchoices.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.1e1af0c5fdd3ada8e0f7.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.1e1af0c5fdd3ada8e0f7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/0f48d101345468e96c1d4740bba8a3b102d3023e.e4868775a9b982ea19d1.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\0f48d101345468e96c1d4740bba8a3b102d3023e.e4868775a9b982ea19d1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.fe982e96d75b3b0aadbe.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.fe982e96d75b3b0aadbe.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.c49d513ae69cba6609fb.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\148903b84d877aaec44fe9c14f4809e1a14cbc79.c49d513ae69cba6609fb.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/191b5b66cffd575272ee78199c4b8633555febbd.dbfa8a5bc79e3dc2f364.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\191b5b66cffd575272ee78199c4b8633555febbd.dbfa8a5bc79e3dc2f364.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.27dba5b965fbbd800e2a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.27dba5b965fbbd800e2a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.e68ecaeaeec77c4bf1fd.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.e68ecaeaeec77c4bf1fd.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.ee740949655314f7e6cf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.ee740949655314f7e6cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.76d2dfb2c5fc09ba6b2d.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.76d2dfb2c5fc09ba6b2d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.f9fce1391b97d7d2cb09.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.f9fce1391b97d7d2cb09.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.a3757270595fee30ec53.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.a3757270595fee30ec53.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/771d95d40614ae00dcdb57521e3cd516ce3f8efd.52c89187e26479c166de.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\771d95d40614ae00dcdb57521e3cd516ce3f8efd.52c89187e26479c166de.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/82329f15c14cdacfe195b49b056c93a43576dc7d.cdbf550471536a67a46b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\82329f15c14cdacfe195b49b056c93a43576dc7d.cdbf550471536a67a46b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.02089a71ecae9e51440f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.02089a71ecae9e51440f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.f9e76b2239e5017df017.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.f9e76b2239e5017df017.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/92ca89d6b546287f65b93ff9dfa3c2e490757e49.e035316d86f0e69a6ace.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\92ca89d6b546287f65b93ff9dfa3c2e490757e49.e035316d86f0e69a6ace.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9e40cabb2622fd49c7fd077d5b26e9b3c912880f.98051a93dbc94517dd30.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\9e40cabb2622fd49c7fd077d5b26e9b3c912880f.98051a93dbc94517dd30.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b763887d672575cce9cac09474ee43bdfa6cd510.8e5a7fd6afab8dc8d9ef.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\b763887d672575cce9cac09474ee43bdfa6cd510.8e5a7fd6afab8dc8d9ef.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/f3e929a2d88efb432f8092ec5cb6dd83c150842a.68024de5bb22674942bf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\f3e929a2d88efb432f8092ec5cb6dd83c150842a.68024de5bb22674942bf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-85cfde9ad16078280c35.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\main-85cfde9ad16078280c35.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-e7d22c23fdf5e51f0514.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\pages\wikis\listpages-e7d22c23fdf5e51f0514.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-e2ae811d13a71557599b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\pages\wikis\recentchanges-e2ae811d13a71557599b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-03cc22ffa44e8c837621.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\pages\wikis\show-03cc22ffa44e8c837621.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-9064dc64744660ff0ee7.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\pages\wikis\topcontributors-9064dc64744660ff0ee7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-a1d09e0b3e2f96db0488.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\pages\_app-a1d09e0b3e2f96db0488.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-f8592c38a43adfbb9179.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\chunks\webpack-f8592c38a43adfbb9179.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/kNT_QfLOVj5peX4Ozhu-6/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\kNT_QfLOVj5peX4Ozhu-6\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/kNT_QfLOVj5peX4Ozhu-6/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\_next\static\kNT_QfLOVj5peX4Ozhu-6\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://media.ign.com/boards/images/icons3/games_jak.gif?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\boards\images\icons3\games_jak.gif
+Content Type: image/gif
+
+Uri: https://media.ign.com/games/image/object/861/861846/Buzz-JungParty_Clamshell-final.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\games\image\object\861\861846\Buzz-JungParty_Clamshell-final.jpg
+Content Type: image/jpeg
+
+Uri: https://moviesmedia.ign.com/movies/image/object/057/057514/AMZspidey.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\movies\image\object\057\057514\AMZspidey.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\src\core\img\social\avatars\ign.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/system/ps3.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\src\core\img\social\avatars\system\ps3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/00/PowderKegBadge3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\00\PowderKegBadge3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/02/BallGiant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\02\BallGiant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/02/SnakeParasite.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\02\SnakeParasite.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/03/EyeRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\03\EyeRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/03/ManeaterBoars.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\03\ManeaterBoars.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/04/BurialBladeThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\04\BurialBladeThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/07/BloodRaptureRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\07\BloodRaptureRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/08/BB_HunterofHunters.Still002.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\08\BB_HunterofHunters.Still002.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/09/BB_IosefkasClinic6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\09\BB_IosefkasClinic6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/0b/BB_Propose.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\0b\BB_Propose.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/0b/LargeHuntsman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\0b\LargeHuntsman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/0c/Amygdalan_arm.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\0c\Amygdalan_arm.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/0/0e/BB_HunterofHunters.Still004.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\0\0e\BB_HunterofHunters.Still004.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/10/RadiantBadge6.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\10\RadiantBadge6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/10/Whirlgig_saw.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\10\Whirlgig_saw.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/11/BB_MartyrLogarius.Still003.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\11\BB_MartyrLogarius.Still003.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/11/WheelchairHuntsman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\11\WheelchairHuntsman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/12/RifleSpearThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\12\RifleSpearThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/14/Celestial.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\14\Celestial.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/14/PowderKegBadge1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\14\PowderKegBadge1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/18/RadianceRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\18\RadianceRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/19/BB_AfflictedDog.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\19\BB_AfflictedDog.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/1a/BeastRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\1a\BeastRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/1f/BB_IosefkasClinic2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\1f\BB_IosefkasClinic2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/1/1f/RadiantBadge1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\1\1f\RadiantBadge1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/2/20/ScourgeBeast.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\2\20\ScourgeBeast.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/2/23/Bloodletter.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\2\23\Bloodletter.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/2/23/Guidance.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\2\23\Guidance.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/2/27/Kidnapper.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\2\27\Kidnapper.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/2/29/BB_HunterofHunters.Still006.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\2\29\BB_HunterofHunters.Still006.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/2/2d/BB_HunterofHunters.Still005.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\2\2d\BB_HunterofHunters.Still005.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/2/2e/Bloodborneheader.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\2\2e\Bloodborneheader.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/3/33/LanternServant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\3\33\LanternServant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/3/34/Beasthunters_saif.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\3\34\Beasthunters_saif.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/3/35/ChikageThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\3\35\ChikageThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/3/37/BB_IosefkasClinic8.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\3\37\BB_IosefkasClinic8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/3/38/Nightmare.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\3\38\Nightmare.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/3/3a/HemwickPolearm.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\3\3a\HemwickPolearm.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/3/3c/BB_Crows.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\3\3c\BB_Crows.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/3/3c/Beast_cutter.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\3\3c\Beast_cutter.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/4/41/Untitled2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\4\41\Untitled2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/4/42/EyeCollector.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\4\42\EyeCollector.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/4/43/MadOne.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\4\43\MadOne.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/4/44/Beast_mode.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\4\44\Beast_mode.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/4/47/Rakuyo.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\4\47\Rakuyo.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/4/48/SawBadge2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\4\48\SawBadge2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/4/4b/HunterRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\4\4b\HunterRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/4/4f/BB_MartyrLogarius.Still004.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\4\4f\BB_MartyrLogarius.Still004.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/5/51/BB_HunterMobs.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\5\51\BB_HunterMobs.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/5/53/Bloodlicker.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\5\53\Bloodlicker.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/5/54/BB_DarkbeastPaarl.Still001.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\5\54\BB_DarkbeastPaarl.Still001.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/5/58/SawCleaverThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\5\58\SawCleaverThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/5/5b/SnakeBall.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\5\5b\SnakeBall.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/61/BB_IosefkasClinic5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\61\BB_IosefkasClinic5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/63/ClawmarkRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\63\ClawmarkRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/68/Boom_hammer.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\68\Boom_hammer.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/68/ClockwiseRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\68\ClockwiseRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/6a/CorruptionRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\6a\CorruptionRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/6c/CleaverHuntsman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\6c\CleaverHuntsman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/6c/ExecutionersBadge.mov.Still002.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\6c\ExecutionersBadge.mov.Still002.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/6c/LakeRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\6c\LakeRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/6d/BB_MartyrLogarius.Still002.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\6d\BB_MartyrLogarius.Still002.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/6d/HintertombChaliceDungeon1Part1.mov.Still001.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\6d\HintertombChaliceDungeon1Part1.mov.Still001.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/6/6e/TonitrusThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\6\6e\TonitrusThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/70/BB_Ring.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\70\BB_Ring.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/71/WinterLantern.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\71\WinterLantern.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/76/BB_HunterofHunters.Still003.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\76\BB_HunterofHunters.Still003.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/77/KirkhammerThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\77\KirkhammerThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/78/GardenofEyes.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\78\GardenofEyes.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/78/Screen_Shot_2015-11-24_at_11.44.03_AM.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\78\Screen_Shot_2015-11-24_at_11.44.03_AM.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/7a/BB_IosefkasClinic10.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\7a\BB_IosefkasClinic10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/7a/SwordHuntsman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\7a\SwordHuntsman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/7d/Church_pike.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\7d\Church_pike.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/7e/BB_IosefkasClinic3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\7e\BB_IosefkasClinic3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/7/7f/Casket.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\7\7f\Casket.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/81/TorchHuntsman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\81\TorchHuntsman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/83/BB_Annalise2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\83\BB_Annalise2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/84/LabyrinthRats.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\84\LabyrinthRats.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/84/ThreadedCaneThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\84\ThreadedCaneThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/86/HemwickBlade.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\86\HemwickBlade.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/86/RottedCorpse.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\86\RottedCorpse.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/87/ReiterpallaschThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\87\ReiterpallaschThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/8a/BladeofMercyThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\8a\BladeofMercyThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/8b/Scholars.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\8b\Scholars.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/8c/Flower.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\8c\Flower.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/8d/Impurity.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\8d\Impurity.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/8e/BB_MartyrLogarius.Still005.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\8e\BB_MartyrLogarius.Still005.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/8/8e/StakeDriverThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\8\8e\StakeDriverThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/9/92/Bloodborne™_The_Old_Hunters_Edition_20151123172641.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\9\92\Bloodborne™_The_Old_Hunters_Edition_20151123172641.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/9/92/Cainhurst_armor.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\9\92\Cainhurst_armor.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/9/94/RadiantBadge5.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\9\94\RadiantBadge5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/9/95/SwordHunterBadge.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\9\95\SwordHunterBadge.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/9/97/Holy_moonlight_sword.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\9\97\Holy_moonlight_sword.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/9/97/MoonRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\9\97\MoonRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/9/9d/HeirRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\9\9d\HeirRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/9/9e/Brainsucker.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\9\9e\Brainsucker.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/a/a1/RadiantBadge3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\a\a1\RadiantBadge3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/a/a1/ScytheServant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\a\a1\ScytheServant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/a/a2/StaffServant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\a\a2\StaffServant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/a/a4/HemwickHammer.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\a\a4\HemwickHammer.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/a/a8/PitchforkHuntsman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\a\a8\PitchforkHuntsman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/a/ab/BB_IosefkasClinic4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\a\ab\BB_IosefkasClinic4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/a/ab/CrucifixServant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\a\ab\CrucifixServant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/a/af/ShieldHuntsman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\a\af\ShieldHuntsman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/b/b5/Simons_bowblade.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\b\b5\Simons_bowblade.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/b/b8/BB_IosefkasClinic7.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\b\b8\BB_IosefkasClinic7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/b/b9/BeastSoul.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\b\b9\BeastSoul.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/b/bd/BB_IosefkasClinic1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\b\bd\BB_IosefkasClinic1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/b/bf/HuntingDog.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\b\bf\HuntingDog.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/c/c0/BB_Annalise1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\c\c0\BB_Annalise1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/c/c7/CelestialChild.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\c\c7\CelestialChild.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/c/c7/Milkweed.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\c\c7\Milkweed.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/c/ca/GiantLostChild.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\c\ca\GiantLostChild.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/c/cb/CommunionRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\c\cb\CommunionRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/c/cc/BeastPatient.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\c\cc\BeastPatient.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/c/cc/OedonWritheRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\c\cc\OedonWritheRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/d1/ExecutionersBadge.mov.Still003.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\d1\ExecutionersBadge.mov.Still003.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/d1/GreatSnakeBall.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\d1\GreatSnakeBall.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/d2/Parasite.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\d2\Parasite.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/d6/Executioner.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\d6\Executioner.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/d8/SawSpearThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\d8\SawSpearThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/db/Silverbeast.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\db\Silverbeast.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/dd/Mother_Brain_pic.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\dd\Mother_Brain_pic.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/de/BB_IosefkasClinic11.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\de\BB_IosefkasClinic11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/de/FormlessOedon.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\de\FormlessOedon.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/df/BB_CathedralWard2.Still002.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\df\BB_CathedralWard2.Still002.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/d/df/LogariusWheelThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\d\df\LogariusWheelThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/e0/HemwickMolotov.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\e0\HemwickMolotov.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/e0/LudwigsHolyBladeThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\e0\LudwigsHolyBladeThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/e1/ExecutionersBadge.mov.Still001.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\e1\ExecutionersBadge.mov.Still001.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/e8/HunterAxeThumb.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\e8\HunterAxeThumb.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/e8/HuntsmanMinion.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\e8\HuntsmanMinion.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/e8/RadiantBadge4.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\e8\RadiantBadge4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/ec/RifleHuntsman.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\ec\RifleHuntsman.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/ec/SawBadge1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\ec\SawBadge1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/ee/Anti-ClockwiseRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\ee\Anti-ClockwiseRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/e/ef/BB_IosefkasClinic9.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\e\ef\BB_IosefkasClinic9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/f/f1/PowderKegBadge2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\f\f1\PowderKegBadge2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/f/f2/FistGiant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\f\f2\FistGiant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/f/fa/AshenBloodBeastPatient.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\f\fa\AshenBloodBeastPatient.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/f/fc/Beasts_embrace.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\f\fc\Beasts_embrace.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/f/fc/Kos_parasite.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\f\fc\Kos_parasite.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/f/fc/SeaRune.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\f\fc\SeaRune.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/f/fe/FlamespewerServant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\f\fe\FlamespewerServant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/thumb/3/30/BB_ClericBeast.jpg/218px-BB_ClericBeast.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\thumb\3\30\BB_ClericBeast.jpg\218px-BB_ClericBeast.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/thumb/3/33/BB_Messengers.jpg/218px-BB_Messengers.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\thumb\3\33\BB_Messengers.jpg\218px-BB_Messengers.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/thumb/5/51/BB_HunterMobs.jpg/218px-BB_HunterMobs.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\thumb\5\51\BB_HunterMobs.jpg\218px-BB_HunterMobs.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/thumb/9/92/Cainhurst_armor.jpg/218px-Cainhurst_armor.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\thumb\9\92\Cainhurst_armor.jpg\218px-Cainhurst_armor.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/thumb/d/df/BB_Guns.jpg/218px-BB_Guns.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\thumb\d\df\BB_Guns.jpg\218px-BB_Guns.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/project-beast/thumb/e/e5/Maxresdefault.jpg/218px-Maxresdefault.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\mediawiki\apis.ign.com\project-beast\thumb\e\e5\Maxresdefault.jpg\218px-Maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/09/1572654-1448919490.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\social\avatars\users2\09\1572654-1448919490.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/17/2210369-1415320171.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\social\avatars\users2\17\2210369-1415320171.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/78/5039825-1420848487.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\social\avatars\users2\78\5039825-1420848487.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/83/2218044-1433892938.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\social\avatars\users2\83\2218044-1433892938.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\js\chartbeat_mab.js
+Content Type: application/x-javascript
+
+Uri: https://tvmedia.ign.com/tv/image/object/038/038355/ShamelessOb.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\tv\image\object\038\038355\ShamelessOb.jpg
+Content Type: image/jpeg
+
+Uri: https://vignette3.wikia.nocookie.net/bloodborne/images/b/b0/Kidnapper.png/revision/latest?cb=20150505070859
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\bloodborne\images\b\b0\Kidnapper.png\revision\Kidnapper.png
+Content Type: image/png
+
+Uri: https://www.ign.com/wikis/bloodborne/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Abandoned_Old_Workshop
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Abandoned_Old_Workshop.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Abductor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Abductor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Abhorrent_Beast
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Abhorrent_Beast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Adella
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Adella.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ailing_Loran_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ailing_Loran_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ailing_Loran_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ailing_Loran_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Alfred
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Alfred.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Amygdala
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Amygdala.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Amygdalan_Arm
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Amygdalan_Arm.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Annalise,_the_Vileblood_Queen
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Annalise,_the_Vileblood_Queen.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Anti-Clockwise_Metamorphosis_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Anti-Clockwise_Metamorphosis_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Arcane_Haze
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Arcane_Haze.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Arianna
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Arianna.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ashen_Blood_Beast_Patients
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ashen_Blood_Beast_Patients.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ashen_Hunter_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ashen_Hunter_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Attire
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Attire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Bastard_of_Loran
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Bastard_of_Loran.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beast-Posessed_Soul
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beast-Posessed_Soul.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beasthunter_Saif
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beasthunter_Saif.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beast_Blood_Pellet
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beast_Blood_Pellet.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beast_Claw
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beast_Claw.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beast_Cutter
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beast_Cutter.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beast_Patients
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beast_Patients.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beast_Possessed_Soul
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beast_Possessed_Soul.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beast_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beast_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beckoning_Bell
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beckoning_Bell.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Beg_For_Life
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Beg_For_Life.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Bell_Ringers
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Bell_Ringers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Black_Church_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Black_Church_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Black_Messenger_Hat
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Black_Messenger_Hat.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Blade of Mercy
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Blade of Mercy.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Blade_of_Mercy
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Blade_of_Mercy.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Blood-Starved_Beast
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Blood-Starved_Beast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Bloodletter
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Bloodletter.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Bloodletting_Beast
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Bloodletting_Beast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Bloodlickers
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Bloodlickers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Blood_Echoes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Blood_Echoes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Blood_Gems
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Blood_Gems.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Blood_Rapture_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Blood_Rapture_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Blood_Stone_Chunk
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Blood_Stone_Chunk.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Blood_Vials
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Blood_Vials.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Bone_Ash_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Bone_Ash_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Bone_Marrow_Ash
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Bone_Marrow_Ash.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Boom_Hammer
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Boom_Hammer.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Bosses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Bosses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Brainsucker
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Brainsucker.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Burial_Blade
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Burial_Blade.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Byrgenwerth
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Byrgenwerth.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cainhurst
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cainhurst.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cainhurst_Armor_Attire
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cainhurst_Armor_Attire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cainhurst_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cainhurst_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cannon
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cannon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Carrion_Crow
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Carrion_Crow.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Caryll_Runes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Caryll_Runes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cathedral_Giant
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cathedral_Giant.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cathedral_Ward
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cathedral_Ward.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Celestial_Children
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Celestial_Children.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Celestial_Emissary
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Celestial_Emissary.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Central_Pthumeru_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Central_Pthumeru_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Central_Pthumeru_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Central_Pthumeru_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Central_Yharnam
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Central_Yharnam.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Central_Yharnam_Aqueduct
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Central_Yharnam_Aqueduct.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Chalices
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Chalices.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Chalice_Dungeons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Chalice_Dungeons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Chalice_Dungeon_Bosses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Chalice_Dungeon_Bosses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Chalice_Dungeon_Enemies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Chalice_Dungeon_Enemies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Characters
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Characters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Character_Origins
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Character_Origins.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Charred_Hunter_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Charred_Hunter_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cheats_and_Secrets
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cheats_and_Secrets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Chikage
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Chikage.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Childhood's_Beginning
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Childhood's_Beginning.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Childhood's_Beginning
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Childhood's_Beginning-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Choir_Bell
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Choir_Bell.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Choir_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Choir_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Church_Pick
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Church_Pick.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Church_Servants
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Church_Servants.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Clawmark_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Clawmark_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cleric_Beast
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cleric_Beast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Clockwise_Metamorphosis_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Clockwise_Metamorphosis_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Collector's_Editions
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Collector's_Editions.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Collector's_Editions
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Collector's_Editions-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Communion_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Communion_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Consumable
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Consumable.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Consumables
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Consumables.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Corruption_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Corruption_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cramped_Caskets
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cramped_Caskets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Crowfeather_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Crowfeather_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Crown_of_Illusions
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Crown_of_Illusions.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Crow_Hunter_Badge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Crow_Hunter_Badge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Cursed_and_Defiled_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Cursed_and_Defiled_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Darkbeast_Paarl
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Darkbeast_Paarl.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/deadendpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\deadendpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Deep_Sea_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Deep_Sea_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Defiled_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Defiled_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ebrietas,_Daughter_of_the_Cosmos
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ebrietas,_Daughter_of_the_Cosmos.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Eileen_the_Crow
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Eileen_the_Crow.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Endings
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Endings.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Enemies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Enemies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Evelyn
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Evelyn.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Executioner
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Executioner.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Eye_Collector
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Eye_Collector.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Eye_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Eye_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Father_Gascoigne
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Father_Gascoigne.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:Anti-ClockwiseRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileAnti-ClockwiseRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:BeastRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileBeastRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:Beasts_embrace.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileBeasts_embrace.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:BladeofMercyThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileBladeofMercyThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:BloodRaptureRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileBloodRaptureRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:BurialBladeThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileBurialBladeThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:ChikageThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileChikageThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:ClawmarkRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileClawmarkRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:ClockwiseRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileClockwiseRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:CommunionRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileCommunionRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:CorruptionRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileCorruptionRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:EyeRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileEyeRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:FormlessOedon.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileFormlessOedon.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:Guidance.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileGuidance.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:HeirRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileHeirRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:HunterAxeThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileHunterAxeThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:HunterRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileHunterRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:Impurity.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileImpurity.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:KirkhammerThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileKirkhammerThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:LakeRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileLakeRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:LogariusWheelThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileLogariusWheelThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:LudwigsHolyBladeThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileLudwigsHolyBladeThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:Milkweed.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileMilkweed.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:MoonRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileMoonRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:OedonWritheRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileOedonWritheRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:RadianceRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileRadianceRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:ReiterpallaschThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileReiterpallaschThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:RifleSpearThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileRifleSpearThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:SawCleaverThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileSawCleaverThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:SawSpearThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileSawSpearThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:SeaRune.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileSeaRune.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:StakeDriverThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileStakeDriverThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:ThreadedCaneThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileThreadedCaneThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/File:TonitrusThumb.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\FileTonitrusThumb.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Fire_Paper
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Fire_Paper.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Fishing_Hamlet
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Fishing_Hamlet.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Flamesprayer
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Flamesprayer.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Fluorescent_Flower
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Fluorescent_Flower.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Forbidden_Grave
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Forbidden_Grave.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Forbidden_Woods
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Forbidden_Woods.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Foreign_Attire_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Foreign_Attire_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Formless_Oedon_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Formless_Oedon_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Forsaken_Cainhurst_Castle
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Forsaken_Cainhurst_Castle.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Frenzied_Coldblood
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Frenzied_Coldblood.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Garden_of_Eyes
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Garden_of_Eyes.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gascoigne's_Attire_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gascoigne's_Attire_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gascoigne's_Daughter
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gascoigne's_Daughter.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gascoigne's_Attire_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gascoigne's_Attire_Set-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gascoigne's_Daughter
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gascoigne's_Daughter-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gehrman
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gehrman.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gehrman,_the_First_Hunter
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gehrman,_the_First_Hunter.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gerhman's_Attire_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gerhman's_Attire_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gerhman's_Attire_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gerhman's_Attire_Set-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Giant_Lost_Child
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Giant_Lost_Child.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gilbert
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gilbert.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Gold_Amulet
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Gold_Amulet.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Great_Isz_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Great_Isz_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Great_Pthumeru_Ihyll_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Great_Pthumeru_Ihyll_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Healing_Church_Workshop
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Healing_Church_Workshop.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Heir_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Heir_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hemwick_Charnel_Lane
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hemwick_Charnel_Lane.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hemwick_Grave_Women
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hemwick_Grave_Women.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Henryk's_Attire_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Henryk's_Attire_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Henryk's_Attire_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Henryk's_Attire_Set-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hintertomb_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hintertomb_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hintertomb_Chalices
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hintertomb_Chalices.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hintertomb_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hintertomb_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Holy_Moonlight_Sword
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Holy_Moonlight_Sword.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/How_to_Access_The_Old_Hunters_DLC
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\How_to_Access_The_Old_Hunters_DLC.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/How_To_Find_the_Rakuyo_Weapon
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\How_To_Find_the_Rakuyo_Weapon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/How_to_PvP
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\How_to_PvP.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/How_To_Transform_Into_a_Beast
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\How_To_Transform_Into_a_Beast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/How_To_Transform_Into_a_Kin
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\How_To_Transform_Into_a_Kin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter's_Craft
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter's_Craft.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter's_Dream
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter's_Dream.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter's_Essence
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter's_Essence.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter's_Nightmare
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter's_Nightmare.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter's_Craft
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter's_Craft-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter's_Dream
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter's_Dream-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter's_Essence
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter's_Essence-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter's_Nightmare
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter's_Nightmare-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Attire_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Attire_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Axe
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Axe.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Badges
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Badges.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Blunderbuss
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Blunderbuss.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Chief_Emblem
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Chief_Emblem.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Djura
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Djura.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Pistol
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Pistol.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunter_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunter_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Hunting_Dog
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Hunting_Dog.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Huntsman's_Minion
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Huntsman's_Minion.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Huntsman's_Minion
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Huntsman's_Minion-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Huntsmen
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Huntsmen.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Insight
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Insight.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Iosefka
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Iosefka.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Iosefka's_Clinic
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Iosefka's_Clinic.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Iosefka's_Clinic
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Iosefka's_Clinic-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Isz_Chalices
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Isz_Chalices.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Isz_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Isz_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Item_List
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Item_List.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Keeper_of_the_Old_Lords
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Keeper_of_the_Old_Lords.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Key_Item
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Key_Item.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Key_Items
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Key_Items.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Kidnappers
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Kidnappers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Kin_Coldblood
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Kin_Coldblood.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Kirkhammer
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Kirkhammer.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Kos_Parasite
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Kos_Parasite.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Labyrinth_Madman
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Labyrinth_Madman.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Labyrinth_Rats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Labyrinth_Rats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lady Maria of the Astral Clocktower
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lady Maria of the Astral Clocktower.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lady_Maria_of_the_Astral_Clocktower
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lady_Maria_of_the_Astral_Clocktower.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lake_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lake_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Large_Huntsmen
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Large_Huntsmen.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Large_Snake_Ball
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Large_Snake_Ball.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Laurence,_the_First_Vicar
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Laurence,_the_First_Vicar.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lecture_Building
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lecture_Building.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lighthouse_Hut
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lighthouse_Hut.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Living_Failures
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Living_Failures.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Living_String
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Living_String.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Logarius'_Wheel
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Logarius'_Wheel.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Logarius'_Wheel
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Logarius'_Wheel-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/longpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\longpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Loran_Chalices
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Loran_Chalices.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Loran_Silverbeast
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Loran_Silverbeast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lower_Ailing_Loran_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lower_Ailing_Loran_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lower_Hintertomb_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lower_Hintertomb_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lower_Hintertomb_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lower_Hintertomb_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lower_Loran_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lower_Loran_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lower_Pthumeru_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lower_Pthumeru_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lower_Pthumeru_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lower_Pthumeru_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ludwig's_Holy_Blade
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ludwig's_Holy_Blade.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ludwig's_Rifle
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ludwig's_Rifle.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ludwig's_Holy_Blade
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ludwig's_Holy_Blade-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ludwig's_Rifle
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ludwig's_Rifle-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ludwig_the_Accursed/Holy_Blade
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ludwig_the_Accursed\Holy_Blade.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Lying_Man
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Lying_Man.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Madman's_Knowledge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Madman's_Knowledge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Madman's_Knowledge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Madman's_Knowledge-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Mad_Ones
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Mad_Ones.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Maneater_Boar
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Maneater_Boar.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Maneater_Boars
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Maneater_Boars.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Martyr_Logarius
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Martyr_Logarius.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Master_Willem
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Master_Willem.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Materials
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Materials.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Mensis_Cage
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Mensis_Cage.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Merchants
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Merchants.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Merciless_Watcher
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Merciless_Watcher.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Mergo's_Loft:_Middle
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Mergo's_Loft_Middle.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Mergo's_Wet_Nurse
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Mergo's_Wet_Nurse.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Mergo's_Loft:_Middle
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Mergo's_Loft_Middle-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Mergo's_Wet_Nurse
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Mergo's_Wet_Nurse-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Messengers
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Messengers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Micolash,_Host_of_the_Nightmare
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Micolash,_Host_of_the_Nightmare.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Molotov_Cocktail
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Molotov_Cocktail.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Moonside_Lake
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Moonside_Lake.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Moon_Presence
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Moon_Presence.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Moon_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Moon_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Mysteries
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Mysteries.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/New_Game_Plus
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\New_Game_Plus.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Nightmare_of_Mensis
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Nightmare_of_Mensis.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Numbing_Mist
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Numbing_Mist.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Oedon_Chapel_Attendant
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Oedon_Chapel_Attendant.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Oedon_Tomb_Key
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Oedon_Tomb_Key.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Oedon_Writhe_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Oedon_Writhe_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Offhand_Weapons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Offhand_Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Oil_Urn
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Oil_Urn.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Old_Hunter_Badge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Old_Hunter_Badge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Old_Yharnam
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Old_Yharnam.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/One_Third_of_Umbilical_Cord
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\One_Third_of_Umbilical_Cord.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/orphanedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\orphanedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Orphan_of_Kos
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Orphan_of_Kos.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Parasite_Larva
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Parasite_Larva.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Patches
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Patches.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Pearl_Slug
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Pearl_Slug.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Poll_-_How_Far_Did_You_Get_in_Bloodborne
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Poll_-_How_Far_Did_You_Get_in_Bloodborne.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Powder_Keg_Hunter_Badge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Powder_Keg_Hunter_Badge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Pthumerian_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Pthumerian_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Pthumerian_Descendant
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Pthumerian_Descendant.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Pthumerian_Elder
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Pthumerian_Elder.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Pthumeru_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Pthumeru_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Pthumeru_Chalices
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Pthumeru_Chalices.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Pthumeru_Ihyll_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Pthumeru_Ihyll_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Pthumeru_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Pthumeru_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Quicksilver_Bullets
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Quicksilver_Bullets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Rabid_Dogs
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Rabid_Dogs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Radiance_Rune
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Radiance_Rune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Radiant_Sword_Hunter_Badge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Radiant_Sword_Hunter_Badge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Rakuyo
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Rakuyo.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/recentchanges
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\recentchanges.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Red_Jelly
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Red_Jelly.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Reiterpallasch
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Reiterpallasch.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Repeating_Pistol
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Repeating_Pistol.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Research Hall
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Research Hall.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Research_Hall
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Research_Hall.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Rifle_Spear
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Rifle_Spear.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Ritual_Blood
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Ritual_Blood.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Rom_the_Vacuous_Spider
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Rom_the_Vacuous_Spider.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Rope_Molotov_Cocktail
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Rope_Molotov_Cocktail.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Rotted_Corpses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Rotted_Corpses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Rune_Master
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Rune_Master.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Rune_Workshop_Tool
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Rune_Workshop_Tool.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sage's_Hair
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sage's_Hair.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sage's_Hair
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sage's_Hair-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Saw_Cleaver
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Saw_Cleaver.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Saw_Hunter_Badge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Saw_Hunter_Badge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Saw_Spear
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Saw_Spear.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Scholars
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Scholars.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Scourge_Beasts
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Scourge_Beasts.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Shadow_of_Yharnam
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Shadow_of_Yharnam.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/shortpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\shortpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Simon's_Bowblade
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Simon's_Bowblade.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Simon's_Bowblade
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Simon's_Bowblade-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sinister_Hintertomb_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sinister_Hintertomb_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sinister_Isz_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sinister_Isz_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sinister_Lower_Loran_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sinister_Lower_Loran_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sinister_Lower_Pthumeru_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sinister_Lower_Pthumeru_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sinister_Pthumeru_Ihyll_Root_Chalice
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sinister_Pthumeru_Ihyll_Root_Chalice.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sinister_Resonant_Bell
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sinister_Resonant_Bell.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Skeptical_Man
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Skeptical_Man.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Skull_Beast
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Skull_Beast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Small_Celestial_Emissary
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Small_Celestial_Emissary.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Small_Resonant_Bell
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Small_Resonant_Bell.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Snake_Ball
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Snake_Ball.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Snake_Parasite
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Snake_Parasite.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Spark_Hunter_Badge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Spark_Hunter_Badge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Stake_Driver
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Stake_Driver.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Sword_Hunter_Badge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Sword_Hunter_Badge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Tempering_Blood_Gemstone
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Tempering_Blood_Gemstone.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The Old Hunters (DLC)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The Old Hunters (DLC).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Choir
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Choir.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Doll
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Doll.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Nightmare_Frontier
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Nightmare_Frontier.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Old_Hunters_(DLC)
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Old_Hunters_(DLC).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Old_Hunters_Attire
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Old_Hunters_Attire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Old_Hunters_Bosses
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Old_Hunters_Bosses.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Old_Hunters_DLC_Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Old_Hunters_DLC_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Old_Hunters_Tips_and_Tricks
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Old_Hunters_Tips_and_Tricks.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Old_Hunters_Weapons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Old_Hunters_Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_One_Reborn
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_One_Reborn.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Source_of_the_Dream
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Source_of_the_Dream.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/The_Witch_of_Hemwick
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\The_Witch_of_Hemwick.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Threaded_Cane
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Threaded_Cane.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Tips_and_Tricks
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Tips_and_Tricks.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Tomb_Mold
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Tomb_Mold.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Tomb_Prospector_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Tomb_Prospector_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Tonitrus
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Tonitrus.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Tonsil_Stone
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Tonsil_Stone.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Torch
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Torch.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Trick Weapons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Trick Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Trick_Weapons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Trick_Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Trophies
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Trophies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Undead_Giant
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Undead_Giant.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Underground Corpse Pile
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Underground Corpse Pile.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Underground_Corpse_Pile
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Underground_Corpse_Pile.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Unopened_Summons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Unopened_Summons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Upper_Cathedral_Ward
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Upper_Cathedral_Ward.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Vicar_Amelia
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Vicar_Amelia.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/wantedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\wantedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Watch_Dog_of_the_Old_Lords
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Watch_Dog_of_the_Old_Lords.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Weapons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Weapon_Master
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Weapon_Master.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Whirligig_Saw
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Whirligig_Saw.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Winter_Lantern
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Winter_Lantern.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Witch's_Abode
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Witch's_Abode.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Witch's_Abode
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Witch's_Abode-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Wooden_Shield
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Wooden_Shield.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Workshop_Haze_Extractor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Workshop_Haze_Extractor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Yahar'Gul_Chapel
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Yahar'Gul_Chapel.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Yahar'Gul_Unseen_Village
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Yahar'Gul_Unseen_Village.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Yahar'Gul_Chapel
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Yahar'Gul_Chapel-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Yahar'Gul_Unseen_Village
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Yahar'Gul_Unseen_Village-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Yarnham_Hunter_Set
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Yarnham_Hunter_Set.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Yellow_Backbone
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Yellow_Backbone.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/bloodborne/Yharnam,_Pthumerian_Queen
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\wikis\bloodborne\Yharnam,_Pthumerian_Queen.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Bloodborne\js\zddmp\1.1\zddmp.min.js
+Content Type: application/javascript
+
