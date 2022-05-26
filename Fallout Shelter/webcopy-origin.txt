@@ -1,0 +1,2176 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2020/11/09/dark-pictures-house-of-ashes-blogroll-01-1604962739976.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2020\11\09\dark-pictures-house-of-ashes-blogroll-01-1604962739976.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/10/counterstrikesource-1639126107444.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2021\12\10\counterstrikesource-1639126107444.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/21/no-way-home-1640118858028.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2021\12\21\no-way-home-1640118858028.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/01/18/the-worst-person-in-the-world-blogroll-1642535433526.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\01\18\the-worst-person-in-the-world-blogroll-1642535433526.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/01/20/sq-wii-marioandsonicattheolympicwintergames-engb-1642719668773.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\01\20\sq-wii-marioandsonicattheolympicwintergames-engb-1642719668773.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/06/spider-man-no-way-home-nicholas-hammond-1636558468048-1637149344823-1644126688119.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\02\06\spider-man-no-way-home-nicholas-hammond-1636558468048-1637149344823-1644126688119.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/14/delorean-ev-1644864863232.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\02\14\delorean-ev-1644864863232.png
+Content Type: image/png
+
+Uri: https://assets-prd.ignimgs.com/2022/02/16/falloutshelter-sq-1645052830357.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\02\16\falloutshelter-sq-1645052830357.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\02\25\elden-ring-1645785760542.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/04/turningred-blogroll-02-1646433174282.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\03\04\turningred-blogroll-02-1646433174282.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/07/evolutionoffromsoftware-blogroll-1646677047214.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\03\07\evolutionoffromsoftware-blogroll-1646677047214.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/18/legostarwarsskywalkersaga-blogroll-1647642064197.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\03\18\legostarwarsskywalkersaga-blogroll-1647642064197.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/21/ghosttokyo-blogroll2-1647860622935.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\03\21\ghosttokyo-blogroll2-1647860622935.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/21/witcher-1647880542049.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2022\03\21\witcher-1647880542049.png
+Content Type: image/png
+
+Uri: https://assets-prd.ignimgs.com/avatars/4ee1090e4c168ba745496262/stillu-1607715249216.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\avatars\4ee1090e4c168ba745496262\stillu-1607715249216.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2017/08/03/cannon-busters---tv-1501799631173.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2017\08\03\cannon-busters---tv-1501799631173.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/04/30/motherboards-blogroll-1-1525113855554_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2018\04\30\motherboards-blogroll-1-1525113855554_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2018/10/24/gameofthronesthumb-1540400606246.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\thumbs\userUploaded\2018\10\24\gameofthronesthumb-1540400606246.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/1/19/lotrblog-1642603006057.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\thumbs\userUploaded\2022\1\19\lotrblog-1642603006057.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/14/moonknightsecretagenttrailerignblogroll-1647274462527.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\thumbs\userUploaded\2022\3\14\moonknightsecretagenttrailerignblogroll-1647274462527.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/15/findingditmanblogroll2-1647366441259.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\thumbs\userUploaded\2022\3\15\findingditmanblogroll2-1647366441259.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://assets2.ignimgs.com/2006/10/11/blood-alone-20061011023414103-1705200.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2006\10\11\blood-alone-20061011023414103-1705200.jpg
+Content Type: image/jpeg
+
+Uri: https://assets2.ignimgs.com/2015/10/06/far-cry-primal-button-1jpg-9966fe.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\2015\10\06\far-cry-primal-button-1jpg-9966fe.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\adchoices\adchoices.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.1df98bfa8a4fb0bafac5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.1df98bfa8a4fb0bafac5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.56ad98f067829cbd63ee.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.56ad98f067829cbd63ee.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.3a4a0aafe3f755fa0245.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\148903b84d877aaec44fe9c14f4809e1a14cbc79.3a4a0aafe3f755fa0245.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/191b5b66cffd575272ee78199c4b8633555febbd.4e08d8bd812132267989.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\191b5b66cffd575272ee78199c4b8633555febbd.4e08d8bd812132267989.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.beb0af36ddfca11fc41a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.beb0af36ddfca11fc41a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.2aee8c7f6960294b4e30.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.2aee8c7f6960294b4e30.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/33c1301df6caa1c5e8afc13474c9681e1ebfa161.6f6d2c59bd1b4bbb236a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\33c1301df6caa1c5e8afc13474c9681e1ebfa161.6f6d2c59bd1b4bbb236a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.887dfdf1648526fbb65b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.887dfdf1648526fbb65b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.a1f7fe2a506b9549f207.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.a1f7fe2a506b9549f207.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.de0e96cb0bf93b7440ab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.de0e96cb0bf93b7440ab.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.1d2fd3732ba969acd165.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.1d2fd3732ba969acd165.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7176dc164dbb39a1e10e9e849c18b5baa5a4a524.378ebed4a7381b0a9ca2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\7176dc164dbb39a1e10e9e849c18b5baa5a4a524.378ebed4a7381b0a9ca2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/771d95d40614ae00dcdb57521e3cd516ce3f8efd.d7bbb3a34d673d0eb729.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\771d95d40614ae00dcdb57521e3cd516ce3f8efd.d7bbb3a34d673d0eb729.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.c76f51ca42b5c849c8b5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.c76f51ca42b5c849c8b5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.11bf76349dc31868c170.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.11bf76349dc31868c170.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/92ca89d6b546287f65b93ff9dfa3c2e490757e49.3bbe286d6d830c839a8a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\92ca89d6b546287f65b93ff9dfa3c2e490757e49.3bbe286d6d830c839a8a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9e40cabb2622fd49c7fd077d5b26e9b3c912880f.644c7d8ab7fa1d6865e9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\9e40cabb2622fd49c7fd077d5b26e9b3c912880f.644c7d8ab7fa1d6865e9.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/ac0c0058e8c7e18df781f96ba7312b13daccf087.169e607412ff4cdd5486.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\ac0c0058e8c7e18df781f96ba7312b13daccf087.169e607412ff4cdd5486.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b763887d672575cce9cac09474ee43bdfa6cd510.ad5100744734ad51dffa.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\b763887d672575cce9cac09474ee43bdfa6cd510.ad5100744734ad51dffa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/f3e929a2d88efb432f8092ec5cb6dd83c150842a.0a0db6001ae93a841e8e.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\f3e929a2d88efb432f8092ec5cb6dd83c150842a.0a0db6001ae93a841e8e.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-ffc42513266bbeac4eca.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\main-ffc42513266bbeac4eca.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-c97ec1ae3ef89f7e8cbc.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\pages\wikis\listpages-c97ec1ae3ef89f7e8cbc.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-6c09eee451d81ed0dae5.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\pages\wikis\recentchanges-6c09eee451d81ed0dae5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-1f9c7c2bc2b68090f582.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\pages\wikis\show-1f9c7c2bc2b68090f582.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-62202ad9cc1db1f6ad2c.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\pages\wikis\topcontributors-62202ad9cc1db1f6ad2c.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-59ef2f4b45b8a88d3169.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\pages\_app-59ef2f4b45b8a88d3169.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-730ef1c9c47374634cc9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\chunks\webpack-730ef1c9c47374634cc9.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/f0AvBnkkI9Xs6gZ--D-qW/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\f0AvBnkkI9Xs6gZ--D-qW\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/f0AvBnkkI9Xs6gZ--D-qW/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\_next\static\f0AvBnkkI9Xs6gZ--D-qW\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://media.gamestats.com/gg/image/onepieceoceansdream_psxbox.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\gg\image\onepieceoceansdream_psxbox.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\src\core\img\social\avatars\ign.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/00/05_-_Hunting_Rifle.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\00\05_-_Hunting_Rifle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/00/Armory1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\00\Armory1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/00/Diner1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\00\Diner1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/01/Diner2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\01\Diner2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/01/Purif3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\01\Purif3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/02/18x_-_Alien_Blaster.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\02\18x_-_Alien_Blaster.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/05/8_-_Assualt_Rifle.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\05\8_-_Assualt_Rifle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/05/Disasters_Pic03.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\05\Disasters_Pic03.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/05/Eulogy_Jones.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\05\Eulogy_Jones.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/05/Fire-Incident.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\05\Fire-Incident.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/05/Unknown3-1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\05\Unknown3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/06/Power3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\06\Power3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/09/Water1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\09\Water1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/0a/Armory3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\0a\Armory3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/0b/7_-_Laser_Pistol.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\0b\7_-_Laser_Pistol.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/0e/Class1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\0e\Class1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/0e/Harkness.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\0e\Harkness.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/0/0e/Power1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\0\0e\Power1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/1/11/Lucas_Simms.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\1\11\Lucas_Simms.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/1/12/Class1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\1\12\Class1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/1/18/01_-_32_Pistol.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\1\18\01_-_32_Pistol.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/1/19/Nuka-Cola_Bottler_Room_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\1\19\Nuka-Cola_Bottler_Room_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/1/1a/Diner3-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\1\1a\Diner3-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/20/Armory2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\20\Armory2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/21/Colone_Autumn.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\21\Colone_Autumn.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/22/Living2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\22\Living2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/22/Purif2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\22\Purif2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/25/Title_Dwellers_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\25\Title_Dwellers_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/27/IMG_2071.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\27\IMG_2071.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/28/BB_Gun.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\28\BB_Gun.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/28/Familie_stats.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\28\Familie_stats.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/28/Resource_Rooms_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\28\Resource_Rooms_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/29/Nuke3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\29\Nuke3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/2a/IMG_0753.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\2a\IMG_0753.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/2b/IMG_1426.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\2b\IMG_1426.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/2c/Advanced_Tips_Pic01.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\2c\Advanced_Tips_Pic01.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/2e/IMG_1766.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\2e\IMG_1766.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/2e/Starter_Tips.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\2e\Starter_Tips.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/2/2f/Storage3-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\2\2f\Storage3-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/31/Purif1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\31\Purif1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/34/Power2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\34\Power2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/35/Storage2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\35\Storage2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/37/15_-_Flamer.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\37\15_-_Flamer.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/39/Power2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\39\Power2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/3a/Legendary_Dwellers.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\3a\Legendary_Dwellers.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/3a/Water3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\3a\Water3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/3b/04_-_Lever-Action_Rifle.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\3b\04_-_Lever-Action_Rifle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/3/3d/Armory1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\3\3d\Armory1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/41/Gauss_Rifle.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\41\Gauss_Rifle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/43/Scilab2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\43\Scilab2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/45/Medbay3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\45\Medbay3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/46/Amata.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\46\Amata.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/46/Class2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\46\Class2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/48/IMG_1746.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\48\IMG_1746.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/4b/13_-_Combat_Shotgun.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\4b\13_-_Combat_Shotgun.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/4b/Medbay2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\4b\Medbay2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/4c/Diner1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\4c\Diner1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/4c/Storage2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\4c\Storage2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/4/4e/Objectives_from_Vault.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\4\4e\Objectives_from_Vault.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/50/Storage3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\50\Storage3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/51/Armory1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\51\Armory1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/51/IMG_1041.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\51\IMG_1041.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/53/IMG_1272.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\53\IMG_1272.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/53/Nuke2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\53\Nuke2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/54/IMG_1002.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\54\IMG_1002.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/54/Purif3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\54\Purif3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/56/No_Power.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\56\No_Power.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/56/Wasteland_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\56\Wasteland_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/57/IMG_1330.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\57\IMG_1330.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/5a/Nuke2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\5a\Nuke2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/5d/06_-_Sawed-Off_Shotgun.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\5d\06_-_Sawed-Off_Shotgun.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/5f/Mid-Floor.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\5f\Mid-Floor.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/5/5f/Purif2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\5\5f\Purif2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/62/02_-_10mm_Pistol.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\62\02_-_10mm_Pistol.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/63/Class3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\63\Class3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/64/IMG_1090.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\64\IMG_1090.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/66/Dweller_Levels_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\66\Dweller_Levels_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/68/Caps14.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\68\Caps14.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/68/New_vault.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\68\New_vault.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/68/Sarah_Lyons_X.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\68\Sarah_Lyons_X.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/69/Moira_Brown.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\69\Moira_Brown.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/6a/Preggs-n-kids.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\6a\Preggs-n-kids.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/6a/Scilab3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\6a\Scilab3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/6b/IMG_0935.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\6b\IMG_0935.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/6c/IMG_0999.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\6c\IMG_0999.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/6e/03_-_Scoped_44.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\6e\03_-_Scoped_44.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/6f/Fire1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\6f\Fire1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/6/6f/Water3-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\6\6f\Water3-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/70/Cards.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\70\Cards.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/70/Purif1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\70\Purif1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/71/IMG_1547.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\71\IMG_1547.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/72/Legendary_Dwellers_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\72\Legendary_Dwellers_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/78/IMG_0905.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\78\IMG_0905.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7a/Armory2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7a\Armory2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7b/Exploring_the_Wasteland.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7b\Exploring_the_Wasteland.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7c/Diner3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7c\Diner3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7d/Diner1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7d\Diner1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7d/Elder_Lyons.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7d\Elder_Lyons.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7d/Living2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7d\Living2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7d/Storage2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7d\Storage2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7e/Armory2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7e\Armory2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/7/7e/Three_Dog.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\7\7e\Three_Dog.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/80/Bittercup_X.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\80\Bittercup_X.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/80/IMG_0958.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\80\IMG_0958.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/81/Minigun.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\81\Minigun.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/81/Water2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\81\Water2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/82/Power3-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\82\Power3-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/82/Power_Generator_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\82\Power_Generator_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/84/Nuke1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\84\Nuke1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/84/Nuke2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\84\Nuke2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/86/Living1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\86\Living1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/87/IMG_1261.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\87\IMG_1261.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/8b/Dr_Li.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\8b\Dr_Li.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/8/8d/Molerat.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\8\8d\Molerat.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/9/90/21_-_Gatling_Laser.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\9\90\21_-_Gatling_Laser.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/9/90/Butch.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\9\90\Butch.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/9/92/Missile_Launcher_X.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\9\92\Missile_Launcher_X.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/9/94/Class1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\9\94\Class1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/9/98/Scilab3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\9\98\Scilab3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/9/9e/Sad_Dwellers.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\9\9e\Sad_Dwellers.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/9/9f/Living1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\9\9f\Living1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/9/9f/Scilab2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\9\9f\Scilab2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/a/a0/BabyMaking_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\a\a0\BabyMaking_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/a/a0/Medbay3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\a\a0\Medbay3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/a/a0/Plasma_Rifle.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\a\a0\Plasma_Rifle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/a/a1/IMG_0752.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\a\a1\IMG_0752.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/a/a2/Water2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\a\a2\Water2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/a/aa/Fat_Man_X.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\a\aa\Fat_Man_X.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/a/ae/Scilab2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\a\ae\Scilab2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/a/af/Armory3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\a\af\Armory3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b0/Radio_Studio.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b0\Radio_Studio.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b1/12_-_Laser_Rifle.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b1\12_-_Laser_Rifle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b1/Disasters_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b1\Disasters_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b1/Dweller_Matching_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b1\Dweller_Matching_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b1/Dweller_Work_Stats_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b1\Dweller_Work_Stats_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b2/Medbay2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b2\Medbay2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b3/Preston_Garvey.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b3\Preston_Garvey.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b4/Regular_chil1.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b4\Regular_chil1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b6/Living2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b6\Living2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b7/Class2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b7\Class2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/b8/10b_-_Laser_Musket.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\b8\10b_-_Laser_Musket.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/bc/Class2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\bc\Class2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/bc/Nuke3-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\bc\Nuke3-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/bd/Class3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\bd\Class3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/be/Purif3-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\be\Purif3-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/bf/Diner2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\bf\Diner2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/b/bf/Top_Floor.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\b\bf\Top_Floor.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/c/c1/IMG_0750.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\c\c1\IMG_0750.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/c/c2/Purif1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\c\c2\Purif1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/c/c3/Water1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\c\c3\Water1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/c/c6/IMG_1085.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\c\c6\IMG_1085.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/c/c6/Low-Floor.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\c\c6\Low-Floor.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/c/c7/Living1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\c\c7\Living1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/c/c8/Scilab1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\c\c8\Scilab1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/c/cf/Purif2-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\c\cf\Purif2-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/d1/Disasters_Pic02.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\d1\Disasters_Pic02.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/d2/Outfits_Pic02.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\d2\Outfits_Pic02.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/d2/Power1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\d2\Power1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/d3/Upgrade.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\d3\Upgrade.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/d6/Storage1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\d6\Storage1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/d8/Star_Paladin_Cross.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\d8\Star_Paladin_Cross.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/d9/Confessor_Cormwell.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\d9\Confessor_Cormwell.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/d9/Living3-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\d9\Living3-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/da/Shotgun.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\da\Shotgun.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/db/IMG_1333.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\db\IMG_1333.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/db/Storage1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\db\Storage1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/dc/11_-_Plasma_Pistol.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\dc\11_-_Plasma_Pistol.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/dd/Medbay1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\dd\Medbay1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/dd/SPECIAL_stats_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\dd\SPECIAL_stats_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/de/Low-Floor-variant.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\de\Low-Floor-variant.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/de/Scribe_Rothchild.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\de\Scribe_Rothchild.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/d/df/Wiki.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\d\df\Wiki.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e0/Power2-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e0\Power2-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e1/14_-_Railway_Rifle.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e1\14_-_Railway_Rifle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e1/Power1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e1\Power1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e2/Water2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e2\Water2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e3/Diner2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e3\Diner2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e7/Nuke1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e7\Nuke1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e7/Nuke3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e7\Nuke3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e8/Medbay2-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e8\Medbay2-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e8/Mr_Burke.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e8\Mr_Burke.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e8/Radio_Station_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e8\Radio_Station_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/e8/Storage1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\e8\Storage1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/ea/IMG_1101.PNG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\ea\IMG_1101.PNG
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/ea/Water3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\ea\Water3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/eb/Scilab1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\eb\Scilab1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/eb/Water1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\eb\Water1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/ed/Living3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\ed\Living3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/ee/Elevator.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\ee\Elevator.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/ef/Armory3-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\ef\Armory3-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/e/ef/Nuke1-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\e\ef\Nuke1-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f0/Abraham_Washington.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f0\Abraham_Washington.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f0/Allistair_Tenpenny.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f0\Allistair_Tenpenny.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f0/James_X.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f0\James_X.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f0/Screenshot_20160824-124055.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f0\Screenshot_20160824-124055.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f2/Medbay1-3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f2\Medbay1-3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f4/Disasters.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f4\Disasters.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f4/Disasters_Pic04.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f4\Disasters_Pic04.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f4/IGN_Survival_Guide.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f4\IGN_Survival_Guide.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f6/Jericho.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f6\Jericho.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/f6/Medbay1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\f6\Medbay1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/fb/Living3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\fb\Living3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/fb/Power3-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\fb\Power3-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/fb/Vault_Overview_Pic01.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\fb\Vault_Overview_Pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/fc/Advanced.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\fc\Advanced.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/fd/10_-_Sniper_Rifle.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\fd\10_-_Sniper_Rifle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/fd/Diner3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\fd\Diner3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/fd/Scilab1-1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\fd\Scilab1-1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/fallout-shelter/f/fd/Storage3-2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\mediawiki\apis.ign.com\fallout-shelter\f\fd\Storage3-2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/52/96786605-1534201225.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\social\avatars\users2\52\96786605-1534201225.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/78/5039825-1420848487.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\social\avatars\users2\78\5039825-1420848487.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\js\chartbeat_mab.js
+Content Type: application/x-javascript
+
+Uri: https://www.ign.com/wikis/fallout-shelter
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Advanced_Layout_Tips
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Advanced_Layout_Tips.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Advanced_Vault_Tips
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Advanced_Vault_Tips.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Android_Cheats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Android_Cheats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Armory
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Armory.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Armory?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Armory-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Athletics_Room
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Athletics_Room.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Athletics_Room?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Athletics_Room-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Barbershop
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Barbershop.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Children
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Children.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Classroom
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Classroom.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Classroom?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Classroom-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/deadendpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\deadendpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Diner
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Diner.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Diner?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Diner-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Disasters
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Disasters-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Disasters?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Disasters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Dwellers
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Dwellers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Dwellers?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Dwellers-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Elevator
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Elevator.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Elevator?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Elevator-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Abraham_Washington.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileAbraham_Washington.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Advanced.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileAdvanced.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Advanced_Tips_Pic01.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileAdvanced_Tips_Pic01.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Allistair_Tenpenny.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileAllistair_Tenpenny.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Amata.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileAmata.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Armory3-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileArmory3-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:BabyMaking_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileBabyMaking_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Bittercup_X.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileBittercup_X.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Butch.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileButch.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Caps14.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileCaps14.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Cards.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileCards.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Class1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileClass1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Class1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileClass1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Class1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileClass1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Class2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileClass2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Class2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileClass2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Class2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileClass2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Class3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileClass3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Class3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileClass3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Colone_Autumn.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileColone_Autumn.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Confessor_Cormwell.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileConfessor_Cormwell.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Diner3-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDiner3-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Disasters_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDisasters_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Disasters_Pic02.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDisasters_Pic02.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Disasters_Pic03.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDisasters_Pic03.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Disasters_Pic04.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDisasters_Pic04.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Dr_Li.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDr_Li.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Dweller_Levels_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDweller_Levels_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Dweller_Matching_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDweller_Matching_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Dweller_Work_Stats_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileDweller_Work_Stats_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Elder_Lyons.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileElder_Lyons.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Elevator.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileElevator.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Eulogy_Jones.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileEulogy_Jones.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Exploring_the_Wasteland.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileExploring_the_Wasteland.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Fire1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileFire1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Harkness.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileHarkness.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_0750.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_0750.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_0752.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_0752.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_0753.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_0753.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_0905.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_0905.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_0935.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_0935.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_0958.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_0958.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_0999.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_0999.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1002.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1002.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1041.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1041.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1085.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1085.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1090.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1090.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1101.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1101.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1261.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1261.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1272.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1272.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1330.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1330.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1333.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1333.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_1426.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_1426.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:IMG_2071.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileIMG_2071.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:James_X.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileJames_X.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Jericho.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileJericho.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Legendary_Dwellers_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLegendary_Dwellers_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Living3-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLiving3-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Lucas_Simms.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileLucas_Simms.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Medbay1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMedbay1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Medbay1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMedbay1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Medbay1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMedbay1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Medbay2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMedbay2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Medbay2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMedbay2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Medbay2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMedbay2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Medbay3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMedbay3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Medbay3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMedbay3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Moira_Brown.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMoira_Brown.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Molerat.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMolerat.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Mr_Burke.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileMr_Burke.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:New_vault.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNew_vault.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:No_Power.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNo_Power.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuka-Cola_Bottler_Room_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuka-Cola_Bottler_Room_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Nuke3-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileNuke3-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Objectives_from_Vault.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileObjectives_from_Vault.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Outfits_Pic02.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileOutfits_Pic02.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power3-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower3-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Power_Generator_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePower_Generator_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Preggs-n-kids.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePreggs-n-kids.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Preston_Garvey.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePreston_Garvey.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Purif3-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FilePurif3-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Radio_Station_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileRadio_Station_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Radio_Studio.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileRadio_Studio.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Resource_Rooms_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileResource_Rooms_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Sad_Dwellers.PNG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileSad_Dwellers.PNG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Sarah_Lyons_X.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileSarah_Lyons_X.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scilab1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScilab1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scilab1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScilab1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scilab1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScilab1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scilab2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScilab2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scilab2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScilab2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scilab2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScilab2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scilab3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScilab3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scilab3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScilab3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Scribe_Rothchild.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileScribe_Rothchild.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:SPECIAL_stats_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileSPECIAL_stats_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Starter_Tips.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStarter_Tips.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Star_Paladin_Cross.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStar_Paladin_Cross.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Storage3-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileStorage3-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Three_Dog.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileThree_Dog.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Title_Dwellers_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileTitle_Dwellers_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Unknown3-1.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileUnknown3-1.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Vault_Overview_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileVault_Overview_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Wasteland_Pic01.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWasteland_Pic01.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water1-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater1-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water1-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater1-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water1-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater1-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water2-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater2-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water2-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater2-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water2-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater2-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water3-1.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater3-1.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water3-2.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater3-2.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Water3-3.JPG
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWater3-3.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/File:Wiki.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\FileWiki.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Fitness_Room
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Fitness_Room.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Fitness_Room?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Fitness_Room-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Game_Room
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Game_Room.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Game_Room?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Game_Room-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Garden
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Garden.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Garden?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Garden-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/General_Vault_Guidlines
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\General_Vault_Guidlines.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Incidents
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Incidents.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/IPhone_Cheats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\IPhone_Cheats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Keeping_Your_Vault_Dwellers_Happy
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Keeping_Your_Vault_Dwellers_Happy.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Legendary_Dwellers
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Legendary_Dwellers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Legendary_Dwellers?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Legendary_Dwellers-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Living_Quarters
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Living_Quarters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Living_Quarters?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Living_Quarters-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/longpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\longpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Lounge
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Lounge.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Lounge?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Lounge-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Medbay
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Medbay.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Medbay?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Medbay-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/New_Vault_Starter_Tips
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\New_Vault_Starter_Tips.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Nuclear_Reactor
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Nuclear_Reactor.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Nuclear_Reactor?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Nuclear_Reactor-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Nuka-Cola_Bottler
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Nuka-Cola_Bottler.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Nuka-Cola_Bottler?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Nuka-Cola_Bottler-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Objectives
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Objectives.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/orphanedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\orphanedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Outfits
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Outfits.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Outfit_Workshop
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Outfit_Workshop.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/PC_Cheats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\PC_Cheats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Power_Generator
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Power_Generator.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Power_Generator?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Power_Generator-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Radio_Studio
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Radio_Studio.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Radio_Studio?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Radio_Studio-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Raiders
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Raiders.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Raiders?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Raiders-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/recentchanges
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\recentchanges.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Rooms
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Rooms.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Science_Lab
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Science_Lab.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Science_Lab?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Science_Lab-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/shortpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\shortpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/SPECIAL_Stats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\SPECIAL_Stats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/SPECIAL_Stats?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\SPECIAL_Stats-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Storage_Room
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Storage_Room.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Storage_Room?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Storage_Room-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Survival_Guide
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Survival_Guide.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/The_Wastelands
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\The_Wastelands.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/The_Wastelands?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\The_Wastelands-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Vault_Door
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Vault_Door.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Vault_Door?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Vault_Door-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/wantedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\wantedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Wastelands
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Wastelands.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Water_Purification
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Water_Purification.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Water_Purification?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Water_Purification-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Water_Treatment
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Water_Treatment.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Water_Treatment?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Water_Treatment-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Weapons
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Weapon_Workshop
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Weapon_Workshop.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Weight_Room
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Weight_Room.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/fallout-shelter/Weight_Room?objectid=20038712
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\wikis\fallout-shelter\Weight_Room-1.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Fallout Shelter\js\zddmp\1.1\zddmp.min.js
+Content Type: application/javascript
+
