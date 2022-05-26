@@ -19,11 +19,11 @@ File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\video-player\fo
 Content Type: application/font-woff2
 
 Uri: https://assets-prd.ignimgs.com/2022/01/05/baldurs-gate-1-enhanced-edition-button-1641372823021.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\05\baldurs-gate-1-enhanced-edition-button-1641372823021.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\05\baldurs-gate-1-enhanced-edition-button-1641372823021-2.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/01/05/baldurs-gate-1-enhanced-edition-button-1641372823021.jpg?width=300&saturation=80&blur=14
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\05\baldurs-gate-1-enhanced-edition-button-1641372823021-1.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\05\baldurs-gate-1-enhanced-edition-button-1641372823021-3.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/01/05/conkers-bad-fur-day-button-1641406239710.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
@@ -31,35 +31,39 @@ File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\2022\01\05\conk
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/01/05/conkers-bad-fur-day-button-1641406239710.jpg?width=64
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\05\conkers-bad-fur-day-button-1641406239710-1.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\05\conkers-bad-fur-day-button-1641406239710-3.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/01/05/conkers-bad-fur-day-button-1641406239710.jpg?width=64&dpr=2
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\05\conkers-bad-fur-day-button-1641406239710-2.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\05\conkers-bad-fur-day-button-1641406239710-4.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/01/27/the-darkness-1-button-1643242278814.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\27\the-darkness-1-button-1643242278814.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\27\the-darkness-1-button-1643242278814-2.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/01/27/the-darkness-1-button-1643242278814.jpg?width=300&saturation=80&blur=14
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\27\the-darkness-1-button-1643242278814-1.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\01\27\the-darkness-1-button-1643242278814-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/21/way-of-the-hunter-button1-1650580354238.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\04\21\way-of-the-hunter-button1-1650580354238.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/05/20/sog22-blogroll2-1653071210460.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\05\20\sog22-blogroll2-1653071210460.jpeg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\05\20\sog22-blogroll2-1653071210460-1.jpeg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/05/20/stranger-things-s4-blogroll-1653068736721.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\05\20\stranger-things-s4-blogroll-1653068736721.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\05\20\stranger-things-s4-blogroll-1653068736721-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/05/23/untitled-3-1653319134828.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\05\23\untitled-3-1653319134828.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\05\23\untitled-3-1653319134828-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/2022/05/24/modern-warfare-2-skull-blogroll-1653411723439.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\05\24\modern-warfare-2-skull-blogroll-1653411723439.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\2022\05\24\modern-warfare-2-skull-blogroll-1653411723439-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets-prd.ignimgs.com/avatars/4ec43096e4b05a1b21cbfc4d/reaction_classic2-1641853657429.JPG?width=21&crop=1:1&quality=20&dpr=0.05
@@ -71,59 +75,59 @@ File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\thumbs\userUplo
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364-1.jpeg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/29/metaverse-blogrollthumbnail-1651244627800.png?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800.png
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800-1.png
 Content Type: image/png
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/13/cinefixmcucosmicenoughblogroll-1652485024776.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\13\cinefixmcucosmicenoughblogroll-1652485024776.jpeg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\13\cinefixmcucosmicenoughblogroll-1652485024776-1.jpeg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/16/36190303sniperelite5blogroll-03-1652747666842.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\16\36190303sniperelite5blogroll-03-1652747666842.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\16\36190303sniperelite5blogroll-03-1652747666842-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/17/shehulkofficialtrailerignblogroll-1652825140341.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\17\shehulkofficialtrailerignblogroll-1652825140341.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\17\shehulkofficialtrailerignblogroll-1652825140341-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/codenamewanderingswordannouncementtrailerignblogroll-1653424616098.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\24\codenamewanderingswordannouncementtrailerignblogroll-1653424616098.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\24\codenamewanderingswordannouncementtrailerignblogroll-1653424616098-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/thor-1653357743054.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\24\thor-1653357743054.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\24\thor-1653357743054-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/3/ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\3\ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\3\ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/4/re4v2inventoryblog-1651681534410.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552-1.jpg
 Content Type: image/jpeg
 
 Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
@@ -147,103 +151,103 @@ File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\favicon.ico
 Content Type: image/x-icon
 
 Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_buildManifest.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\Ac5PqxVnCv95yJDEPvCuT\_buildManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\Ac5PqxVnCv95yJDEPvCuT\_buildManifest-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_ssgManifest.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\Ac5PqxVnCv95yJDEPvCuT\_ssgManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\Ac5PqxVnCv95yJDEPvCuT\_ssgManifest-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\1250-f0984fbfea24438c25b2.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\1250-f0984fbfea24438c25b2-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\2451-e0e7e929fc91329f8ab3-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\2778-cdac0c3a41aafb859d20-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-6b54ca5b43dced3dfd84.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\3325-6b54ca5b43dced3dfd84.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\3325-6b54ca5b43dced3dfd84-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\3335-f37f50935d90c36de450.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\3335-f37f50935d90c36de450-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\4735-fecddd9e4f12282111ed.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\4735-fecddd9e4f12282111ed-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\571-147baf2d4176498805a1.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\571-147baf2d4176498805a1-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\5914-92029dbf8de4df9727cf.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\5914-92029dbf8de4df9727cf-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\6306-9add02503bb69c398284.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\6306-9add02503bb69c398284-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\6522-bcb32ebb00bc5966de63-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\6899-bdbcb4ac399f50d821c0-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\7263-3326c3898eef7a8228d5.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\7263-3326c3898eef7a8228d5-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/7356-d3d0a5d0c668804b718d.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\7356-d3d0a5d0c668804b718d.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\7356-d3d0a5d0c668804b718d-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\8514-4fca63ab44f3b965b8aa-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\8740-ed818a038011c2bf8df5.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\8740-ed818a038011c2bf8df5-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\9185-e8d1fd85439b18b56b4f-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-26bb82cec46c98c7c416.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\9456-26bb82cec46c98c7c416.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\9456-26bb82cec46c98c7c416-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\framework-57ad11da4426b1404226.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\framework-57ad11da4426b1404226-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\main-b87df09e7fc063b37f88.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\main-b87df09e7fc063b37f88-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-3a5182175e427b54706d.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\pages\wikis\listpages-3a5182175e427b54706d.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\pages\wikis\listpages-3a5182175e427b54706d-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-62d6e732263dc299c64b.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\pages\wikis\show-62d6e732263dc299c64b.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\pages\wikis\show-62d6e732263dc299c64b-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-46603cdd1397616efa55.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\pages\wikis\topcontributors-46603cdd1397616efa55.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\pages\wikis\topcontributors-46603cdd1397616efa55-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-439942a60aba69371431.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\pages\_app-439942a60aba69371431.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\pages\_app-439942a60aba69371431-1.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
@@ -251,16 +255,8 @@ File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\_next\static\ch
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-3d921bab65429e4b587f.js
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\webpack-3d921bab65429e4b587f.js
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\_next\static\chunks\webpack-3d921bab65429e4b587f-1.js
 Content Type: application/javascript
-
-Uri: https://media.ign.com/games/image/object/891/891284/LEGO-Universe-Starter_PC_US_ESRB.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\games\image\object\891\891284\LEGO-Universe-Starter_PC_US_ESRB.jpg
-Content Type: image/jpeg
-
-Uri: https://media.ign.com/games/image/object/891/891284/LEGO-Universe-Starter_PC_US_ESRB.jpg?width=300&saturation=80&blur=14
-File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\games\image\object\891\891284\LEGO-Universe-Starter_PC_US_ESRB-1.jpg
-Content Type: image/jpeg
 
 Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
 File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\src\core\img\social\avatars\ign.jpg
@@ -356,6 +352,10 @@ Content Type: image/png
 
 Uri: https://oyster.ignimgs.com/social/avatars/users2/78/5039825-1420848487.jpg?width=21&crop=1:1&quality=20&dpr=0.05
 File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\social\avatars\users2\78\5039825-1420848487.jpg
+Content Type: image/jpeg
+
+Uri: https://pspmedia.ign.com/psp/image/object/082/082533/rudolph_wii_esrb.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: D:\IGN Wikis\IGN-Wikis\Conker's Bad Fur Day\psp\image\object\082\082533\rudolph_wii_esrb.jpg
 Content Type: image/jpeg
 
 Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
@@ -526,9 +526,7 @@ Uri: https://www.ign.com/wikis/conkers-bad-fur-day/War
 File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\wikis\conkers-bad-fur-day\War.html
 Content Type: text/html
 
-pe: text/html
-
-Uri: https://www.ign.com/wikis/conkers-bad-fur-day/File:Multiheist_02.jpg
+fur-day/File:Multiheist_02.jpg
 File Name: C:\Users\ls356\Desktop\IGN Wikis\Conker's Bad Fur Day\wikis\conkers-bad-fur-day\FileMultiheist_02.jpg.html
 Content Type: text/html
 
