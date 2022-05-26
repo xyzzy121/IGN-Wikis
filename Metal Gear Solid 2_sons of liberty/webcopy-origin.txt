@@ -1,0 +1,492 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2021/12/21/mgs2-1640128915245.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2021\12\21\mgs2-1640128915245.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\02\25\elden-ring-1645785760542.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/beyond-psplus-blogroll-1648677243331.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\03\30\beyond-psplus-blogroll-1648677243331.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/tb-unit-1681-1648658092915.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\03\30\tb-unit-1681-1648658092915.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/30/weirdwest-blogroll-01-1648676759327.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\03\30\weirdwest-blogroll-01-1648676759327.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/03/sonic2-blogroll-1648947445256.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\04\03\sonic2-blogroll-1648947445256.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/05/houseofthedeadremake-review-blogroll-1649185073762.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\04\05\houseofthedeadremake-review-blogroll-1649185073762.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/05/tokyo-vice-key-art-2-1649180090089.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\04\05\tokyo-vice-key-art-2-1649180090089.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/06/better-call-saul-blogroll-1649281066058.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\04\06\better-call-saul-blogroll-1649281066058.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/06/blogroll-1649282446476.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\04\06\blogroll-1649282446476.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/07/screenshot-14-1639107851341-1649305485365.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\04\07\screenshot-14-1639107851341-1649305485365.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/04/08/playlist-thumbnail-1649379750708.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2022\04\08\playlist-thumbnail-1649379750708.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/avatars/4ee1090e4c168ba745496262/stillu-1607715249216.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\avatars\4ee1090e4c168ba745496262\stillu-1607715249216.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2020/03/31/ign-persona5-royal-review-blogroll-1585687770590_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\2020\03\31\ign-persona5-royal-review-blogroll-1585687770590_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2018/10/24/gameofthronesthumb-1540400606246.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\thumbs\userUploaded\2018\10\24\gameofthronesthumb-1540400606246.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/11/9/eldenringfirstminutesyt-1-1636488749604.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\thumbs\userUploaded\2021\11\9\eldenringfirstminutesyt-1-1636488749604.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/12/9/eldenring-br-1639108399440.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\thumbs\userUploaded\2021\12\9\eldenring-br-1639108399440.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\adchoices\adchoices.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/0RLF4uWvXV98dPV8t5kFu/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\0RLF4uWvXV98dPV8t5kFu\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/0RLF4uWvXV98dPV8t5kFu/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\0RLF4uWvXV98dPV8t5kFu\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.5ea7ba20ca1d3b62507c.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.5ea7ba20ca1d3b62507c.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/0f48d101345468e96c1d4740bba8a3b102d3023e.d0d14ddcf0642f995ef6.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\0f48d101345468e96c1d4740bba8a3b102d3023e.d0d14ddcf0642f995ef6.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.931562542c9db6207646.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.931562542c9db6207646.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/191b5b66cffd575272ee78199c4b8633555febbd.77dd1a616579494c2aef.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\191b5b66cffd575272ee78199c4b8633555febbd.77dd1a616579494c2aef.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.9662c2110a9233559581.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.9662c2110a9233559581.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.06d32fd5cf996484a527.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.06d32fd5cf996484a527.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.f767b85f48420e9847bf.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.f767b85f48420e9847bf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.937de50b78206525ce33.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.937de50b78206525ce33.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.9d9a3db0a6d6e16c4f72.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.9d9a3db0a6d6e16c4f72.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.dc2b48065d02ff5412a2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.dc2b48065d02ff5412a2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/771d95d40614ae00dcdb57521e3cd516ce3f8efd.63666b38bc7a5d42c980.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\771d95d40614ae00dcdb57521e3cd516ce3f8efd.63666b38bc7a5d42c980.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/82329f15c14cdacfe195b49b056c93a43576dc7d.7f7e56ea59dc30dd7f62.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\82329f15c14cdacfe195b49b056c93a43576dc7d.7f7e56ea59dc30dd7f62.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.306cdcaa0c0e1ff3d59b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.306cdcaa0c0e1ff3d59b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.ecb97c2dd2dd61f0701b.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.ecb97c2dd2dd61f0701b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/92ca89d6b546287f65b93ff9dfa3c2e490757e49.b0835cbf9c80cdd54c0c.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\92ca89d6b546287f65b93ff9dfa3c2e490757e49.b0835cbf9c80cdd54c0c.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9e40cabb2622fd49c7fd077d5b26e9b3c912880f.53904fb5b2d9ecd376c2.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\9e40cabb2622fd49c7fd077d5b26e9b3c912880f.53904fb5b2d9ecd376c2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b763887d672575cce9cac09474ee43bdfa6cd510.0b91187fa9d1bb77e344.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\b763887d672575cce9cac09474ee43bdfa6cd510.0b91187fa9d1bb77e344.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/f3e929a2d88efb432f8092ec5cb6dd83c150842a.8f5fbe4a685197ea84fd.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\f3e929a2d88efb432f8092ec5cb6dd83c150842a.8f5fbe4a685197ea84fd.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-312764896630019146ce.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\main-312764896630019146ce.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-42a47953f4fc84cb8c7a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\pages\wikis\listpages-42a47953f4fc84cb8c7a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-aba00af85b0577e32ece.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\pages\wikis\recentchanges-aba00af85b0577e32ece.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-f71eb61a65db01c4082e.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\pages\wikis\show-f71eb61a65db01c4082e.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-3876b3d3f3405983876f.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\pages\wikis\topcontributors-3876b3d3f3405983876f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-4f4ae798d7695ac6855a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\pages\_app-4f4ae798d7695ac6855a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-1c4d60025f0b9427061a.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\_next\static\chunks\webpack-1c4d60025f0b9427061a.js
+Content Type: application/javascript
+
+Uri: https://moviesmedia.ign.com/movies/image/object/143/14305869/ChandniChowkOnesht.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\movies\image\object\143\14305869\ChandniChowkOnesht.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/0/09/4.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\0\09\4.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/1/10/3.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\1\10\3.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/2/2f/Metalgearsolid2sol_ps2box_usa_org_001boxart_160w.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\2\2f\Metalgearsolid2sol_ps2box_usa_org_001boxart_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/4/4b/Mgs2_4-249697_640w.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\4\4b\Mgs2_4-249697_640w.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/5/58/10.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\5\58\10.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/6/60/8.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\6\60\8.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/7/75/22.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\7\75\22.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/7/7a/9.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\7\7a\9.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/8/82/5.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\8\82\5.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/9/9e/7.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\9\9e\7.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/f/f1/6.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\f\f1\6.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/f/fb/2.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\f\fb\2.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/thumb/6/63/Mgs2_14-249707_640w.jpg/228px-Mgs2_14-249707_640w.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\thumb\6\63\Mgs2_14-249707_640w.jpg\228px-Mgs2_14-249707_640w.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/thumb/b/b8/Mgs2_12-249705_640w.jpg/228px-Mgs2_12-249705_640w.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\thumb\b\b8\Mgs2_12-249705_640w.jpg\228px-Mgs2_12-249705_640w.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/metal-gear-solid-2-sons-of-liberty/thumb/c/c6/Mgs2final_5-255220_640w.jpg/228px-Mgs2final_5-255220_640w.jpg?width=300&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\mediawiki\apis.ign.com\metal-gear-solid-2-sons-of-liberty\thumb\c\c6\Mgs2final_5-255220_640w.jpg\228px-Mgs2final_5-255220_640w.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\js\chartbeat_mab.js
+Content Type: application/x-javascript
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/allpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Basics
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Basics.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Characters
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Characters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/deadendpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\deadendpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:10.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File10.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:2.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File2.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:22.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File22.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:3.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File3.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:4.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File4.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:5.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File5.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:6.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File6.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:7.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File7.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:8.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File8.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:9.png
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\File9.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/File:Metalgearsolid2sol_ps2box_usa_org_001boxart_160w.jpg
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\FileMetalgearsolid2sol_ps2box_usa_org_001boxart_160w.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/How_To_Make_Metal_Gear_Solid_2:_Substance_Look_Better_on_PC
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\How_To_Make_Metal_Gear_Solid_2_Substance_Look_Better_on_PC.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/longpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\longpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/orphanedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\orphanedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Plant,_Part_1
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Plant,_Part_1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Plant,_Part_2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Plant,_Part_2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Plant,_Part_3
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Plant,_Part_3.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Plant,_Part_4
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Plant,_Part_4.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Plant,_Part_5
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Plant,_Part_5.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Plant,_Part_6
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Plant,_Part_6.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/PS2_Cheats
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\PS2_Cheats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/recentchanges
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\recentchanges.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/shortpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\shortpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Tanker,_Part_1
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Tanker,_Part_1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Tanker,_Part_2
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Tanker,_Part_2.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/topcontributors
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Walkthrough
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/wantedpages
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\wantedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/metal-gear-solid-2-sons-of-liberty/Weapons/Equipment
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\wikis\metal-gear-solid-2-sons-of-liberty\Weapons\Equipment.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\IGN Wikis\Metal Gear Solid 2_sons of liberty\js\zddmp\1.1\zddmp.min.js
+Content Type: application/javascript
+
