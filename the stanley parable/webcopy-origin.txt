@@ -1,420 +1,1012 @@
 Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\video-player\fonts\ars400normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\video-player\fonts\ars400normal-1.woff
 Content Type: application/font-woff
 
 Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\video-player\fonts\ars700italic.woff
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\video-player\fonts\ars700italic-1.woff
 Content Type: application/font-woff
 
 Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\video-player\fonts\ars700normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\video-player\fonts\ars700normal-1.woff
 Content Type: application/font-woff
 
 Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\video-player\fonts\ars900normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\video-player\fonts\ars900normal-1.woff
 Content Type: application/font-woff
 
 Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\video-player\fonts\VisbyRoundCF-Heavy.woff2
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\video-player\fonts\VisbyRoundCF-Heavy-1.woff2
 Content Type: application/font-woff2
 
-Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\02\25\elden-ring-1645785760542.jpg
+Uri: https://assets-prd.ignimgs.com/2021/07/13/company-of-heroes-3-button-1626200456387.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\2021\07\13\company-of-heroes-3-button-1626200456387.jpg
 Content Type: image/jpeg
 
-Uri: https://assets-prd.ignimgs.com/2022/03/28/asusrtx3080-1648491872976.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\03\28\asusrtx3080-1648491872976.jpg
+Uri: https://assets-prd.ignimgs.com/2022/05/20/sog22-blogroll2-1653071210460.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\2022\05\20\sog22-blogroll2-1653071210460.jpeg
 Content Type: image/jpeg
 
-Uri: https://assets-prd.ignimgs.com/2022/03/29/psplus-1588176048487-160w-1648556797738.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\03\29\psplus-1588176048487-160w-1648556797738.jpg
+Uri: https://assets-prd.ignimgs.com/2022/05/20/stranger-things-s4-blogroll-1653068736721.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\2022\05\20\stranger-things-s4-blogroll-1653068736721.jpg
 Content Type: image/jpeg
 
-Uri: https://assets-prd.ignimgs.com/2022/03/30/tb-unit-1681-1648658092915.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\03\30\tb-unit-1681-1648658092915.jpg
-Content Type: image/jpeg
+Uri: https://assets-prd.ignimgs.com/2022/05/26/indy-1653593425583.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\2022\05\26\indy-1653593425583.png
+Content Type: image/png
 
-Uri: https://assets-prd.ignimgs.com/2022/03/30/weirdwest-blogroll-01-1648676759327.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\03\30\weirdwest-blogroll-01-1648676759327.jpg
-Content Type: image/jpeg
-
-Uri: https://assets-prd.ignimgs.com/2022/04/03/sonic2-blogroll-1648947445256.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\04\03\sonic2-blogroll-1648947445256.jpg
-Content Type: image/jpeg
-
-Uri: https://assets-prd.ignimgs.com/2022/04/05/houseofthedeadremake-review-blogroll-1649185073762.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\04\05\houseofthedeadremake-review-blogroll-1649185073762.jpg
-Content Type: image/jpeg
-
-Uri: https://assets-prd.ignimgs.com/2022/04/05/tokyo-vice-key-art-2-1649180090089.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\04\05\tokyo-vice-key-art-2-1649180090089.jpg
-Content Type: image/jpeg
-
-Uri: https://assets-prd.ignimgs.com/2022/04/06/blogroll-1649282446476.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\04\06\blogroll-1649282446476.jpg
-Content Type: image/jpeg
-
-Uri: https://assets-prd.ignimgs.com/2022/04/07/screenshot-14-1639107851341-1649305485365.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\04\07\screenshot-14-1639107851341-1649305485365.jpg
-Content Type: image/jpeg
-
-Uri: https://assets-prd.ignimgs.com/2022/04/08/playlist-thumbnail-1649379750708.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\04\08\playlist-thumbnail-1649379750708.jpg
-Content Type: image/jpeg
-
-Uri: https://assets-prd.ignimgs.com/2022/04/13/northman-blogroll-1649879151278.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2022\04\13\northman-blogroll-1649879151278.jpg
+Uri: https://assets-prd.ignimgs.com/2022/05/26/winnie-1653563378128.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\2022\05\26\winnie-1653563378128.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/2013/10/10/stanley-parable-buttonjpg-88412a.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2013\10\10\stanley-parable-buttonjpg-88412a.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\2013\10\10\stanley-parable-buttonjpg-88412a-2.jpg
 Content Type: image/jpeg
 
-Uri: https://assets1.ignimgs.com/2020/03/31/ign-persona5-royal-review-blogroll-1585687770590_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\2020\03\31\ign-persona5-royal-review-blogroll-1585687770590_160w.jpg
+Uri: https://assets1.ignimgs.com/2013/10/10/stanley-parable-buttonjpg-88412a.jpg?width=64
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\2013\10\10\stanley-parable-buttonjpg-88412a-1.jpg
 Content Type: image/jpeg
 
-Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2018/10/24/gameofthronesthumb-1540400606246.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\thumbs\userUploaded\2018\10\24\gameofthronesthumb-1540400606246.jpg
-Content Type: image/jpeg
-
-Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2021/12/9/eldenring-br-1639108399440.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\thumbs\userUploaded\2021\12\9\eldenring-br-1639108399440.jpg
+Uri: https://assets1.ignimgs.com/2013/10/10/stanley-parable-buttonjpg-88412a.jpg?width=64&dpr=2
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\2013\10\10\stanley-parable-buttonjpg-88412a-3.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384-1.jpg
 Content Type: image/jpeg
 
 Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311-1.jpg
 Content Type: image/jpeg
 
-Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
 Content Type: image/jpeg
 
-Uri: https://assets1.ignimgs.com/vid/thumbnails/user/2014/05/09/20823568_godzilla_031314_1280.jpg?width=282&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\vid\thumbnails\user\2014\05\09\20823568_godzilla_031314_1280.jpg
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
 Content Type: image/jpeg
 
-Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
-Content Type: application/javascript
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
 
-Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\adchoices\adchoices.png
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/29/metaverse-blogrollthumbnail-1651244627800.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800.png
 Content Type: image/png
 
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/13/cinefixmcucosmicenoughblogroll-1652485024776.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\13\cinefixmcucosmicenoughblogroll-1652485024776.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/16/36190303sniperelite5blogroll-03-1652747666842.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\16\36190303sniperelite5blogroll-03-1652747666842.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/17/shehulkofficialtrailerignblogroll-1652825140341.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\17\shehulkofficialtrailerignblogroll-1652825140341.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/codenamewanderingswordannouncementtrailerignblogroll-1653424616098.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\24\codenamewanderingswordannouncementtrailerignblogroll-1653424616098.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/thor-1653357743054.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\24\thor-1653357743054.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/starwarsandorofficialteasertrailerignblogroll-1653590825063.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\26\starwarsandorofficialteasertrailerignblogroll-1653590825063.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/willowofficialteasertrailerignblogroll-1653592052121.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\26\willowofficialteasertrailerignblogroll-1653592052121.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/3/ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\3\ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/4/re4v2inventoryblog-1651681534410.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg
+Content Type: image/jpeg
+
 Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\jst\zdconsent.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\jst\zdconsent-1.js
 Content Type: application/javascript
 
 Uri: https://cdn.ziffstatic.com/pg/ign.css
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\pg\ign.css
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\pg\ign-1.css
 Content Type: text/css
 
 Uri: https://cdn.ziffstatic.com/pg/ign.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\pg\ign.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\pg\ign-1.js
 Content Type: application/javascript
 
 Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\pg\ign.prebid.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\pg\ign.prebid-1.js
 Content Type: application/javascript
-
-Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\js\sdkloader\ima3.js
-Content Type: text/javascript
 
 Uri: https://kraken.ignimgs.com/favicon.ico
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\favicon.ico
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\favicon-1.ico
 Content Type: image/x-icon
 
-Uri: https://kraken.ignimgs.com/_next/static/a_0vnWz8LlSO6Q4cdWvl-/_buildManifest.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\a_0vnWz8LlSO6Q4cdWvl-\_buildManifest.js
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_buildManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\Ac5PqxVnCv95yJDEPvCuT\_buildManifest.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/a_0vnWz8LlSO6Q4cdWvl-/_ssgManifest.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\a_0vnWz8LlSO6Q4cdWvl-\_ssgManifest.js
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_ssgManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\Ac5PqxVnCv95yJDEPvCuT\_ssgManifest.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.5ea7ba20ca1d3b62507c.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.5ea7ba20ca1d3b62507c.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\1250-f0984fbfea24438c25b2.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/0f48d101345468e96c1d4740bba8a3b102d3023e.d0d14ddcf0642f995ef6.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\0f48d101345468e96c1d4740bba8a3b102d3023e.d0d14ddcf0642f995ef6.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\105a62701a4032bfc83b62d3ad7f33db45476600.6c8223db74187dc9b2d8.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\1297a8c96ad130930d09d9cad3398adfc21ab893.7d380bf4644678386758.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-6b54ca5b43dced3dfd84.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\3325-6b54ca5b43dced3dfd84.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.931562542c9db6207646.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.931562542c9db6207646.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\3335-f37f50935d90c36de450.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\4735-fecddd9e4f12282111ed.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/191b5b66cffd575272ee78199c4b8633555febbd.77dd1a616579494c2aef.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\191b5b66cffd575272ee78199c4b8633555febbd.77dd1a616579494c2aef.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\571-147baf2d4176498805a1.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.9662c2110a9233559581.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.9662c2110a9233559581.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\5914-92029dbf8de4df9727cf.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.06d32fd5cf996484a527.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.06d32fd5cf996484a527.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\6306-9add02503bb69c398284.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\33c1301df6caa1c5e8afc13474c9681e1ebfa161.a8ef55a0ca50958af0e3.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.f767b85f48420e9847bf.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.f767b85f48420e9847bf.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.937de50b78206525ce33.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.937de50b78206525ce33.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\7263-3326c3898eef7a8228d5.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.9d9a3db0a6d6e16c4f72.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.9d9a3db0a6d6e16c4f72.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7356-d3d0a5d0c668804b718d.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\7356-d3d0a5d0c668804b718d.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.dc2b48065d02ff5412a2.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.dc2b48065d02ff5412a2.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/771d95d40614ae00dcdb57521e3cd516ce3f8efd.63666b38bc7a5d42c980.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\771d95d40614ae00dcdb57521e3cd516ce3f8efd.63666b38bc7a5d42c980.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\8740-ed818a038011c2bf8df5.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/82329f15c14cdacfe195b49b056c93a43576dc7d.7f7e56ea59dc30dd7f62.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\82329f15c14cdacfe195b49b056c93a43576dc7d.7f7e56ea59dc30dd7f62.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.306cdcaa0c0e1ff3d59b.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.306cdcaa0c0e1ff3d59b.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-26bb82cec46c98c7c416.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\9456-26bb82cec46c98c7c416.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.ecb97c2dd2dd61f0701b.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\8a5d8a5daa1708cb42b3b4b0cf6351bda3320631.ecb97c2dd2dd61f0701b.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\framework-57ad11da4426b1404226.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/92ca89d6b546287f65b93ff9dfa3c2e490757e49.b0835cbf9c80cdd54c0c.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\92ca89d6b546287f65b93ff9dfa3c2e490757e49.b0835cbf9c80cdd54c0c.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\main-b87df09e7fc063b37f88.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/9e40cabb2622fd49c7fd077d5b26e9b3c912880f.53904fb5b2d9ecd376c2.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\9e40cabb2622fd49c7fd077d5b26e9b3c912880f.53904fb5b2d9ecd376c2.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-62d6e732263dc299c64b.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\pages\wikis\show-62d6e732263dc299c64b.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/b763887d672575cce9cac09474ee43bdfa6cd510.0b91187fa9d1bb77e344.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\b763887d672575cce9cac09474ee43bdfa6cd510.0b91187fa9d1bb77e344.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-46603cdd1397616efa55.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\pages\wikis\topcontributors-46603cdd1397616efa55.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\b8ffb7164b135228c75183424d1c31f93abd68aa.543db25523488aae9478.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\d7d7a460e10e3a41212c8e315c60b89705fa8731.c78a1944119a75ab03a9.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/f3e929a2d88efb432f8092ec5cb6dd83c150842a.8f5fbe4a685197ea84fd.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\f3e929a2d88efb432f8092ec5cb6dd83c150842a.8f5fbe4a685197ea84fd.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/main-312764896630019146ce.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\main-312764896630019146ce.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-42a47953f4fc84cb8c7a.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\pages\wikis\listpages-42a47953f4fc84cb8c7a.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-aba00af85b0577e32ece.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\pages\wikis\recentchanges-aba00af85b0577e32ece.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-f71eb61a65db01c4082e.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\pages\wikis\show-f71eb61a65db01c4082e.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-3876b3d3f3405983876f.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\pages\wikis\topcontributors-3876b3d3f3405983876f.js
-Content Type: application/javascript
-
-Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-4f4ae798d7695ac6855a.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\pages\_app-4f4ae798d7695ac6855a.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-439942a60aba69371431.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\pages\_app-439942a60aba69371431.js
 Content Type: application/javascript
 
 Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70-1.js
 Content Type: application/javascript
 
-Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-1c4d60025f0b9427061a.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\_next\static\chunks\webpack-1c4d60025f0b9427061a.js
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-3d921bab65429e4b587f.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\_next\static\chunks\webpack-3d921bab65429e4b587f.js
 Content Type: application/javascript
 
 Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\src\core\img\social\avatars\ign.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\src\core\img\social\avatars\ign-1.jpg
 Content Type: image/jpeg
 
 Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\src\core\img\social\avatars\male1.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\src\core\img\social\avatars\male1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/01/DeluxeEnding2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\01\DeluxeEnding2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/01/NewNew8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\01\NewNew8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/01/StanleyFig4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\01\StanleyFig4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/04/MuseumEnding1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\04\MuseumEnding1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/04/TapeRecorder3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\04\TapeRecorder3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/05/OtherGames4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\05\OtherGames4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/06/ManagerOffice.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\06\ManagerOffice.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/09/OtherGames3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\09\OtherGames3.jpg
 Content Type: image/jpeg
 
 Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/0a/Stanley-parable-buttonjpg-88412a.jpg?width=200&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\mediawiki\apis.ign.com\the-stanley-parable\0\0a\Stanley-parable-buttonjpg-88412a.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\0a\Stanley-parable-buttonjpg-88412a-1.jpg
 Content Type: image/jpeg
 
-Uri: https://oyster.ignimgs.com/mediawiki/images/Wikis_Achievements.jpg?width=300&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\mediawiki\images\Wikis_Achievements.jpg
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/0e/ImposterStanley.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\0e\ImposterStanley.jpg
 Content Type: image/jpeg
 
-Uri: https://oyster.ignimgs.com/mediawiki/images/Wikis_CheatsSecrets.jpg?width=300&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\mediawiki\images\Wikis_CheatsSecrets.jpg
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/0/0f/StanleyFig3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\0\0f\StanleyFig3.jpg
 Content Type: image/jpeg
 
-Uri: https://oyster.ignimgs.com/mediawiki/images/Wikis_Collectables.jpg?width=300&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\mediawiki\images\Wikis_Collectables.jpg
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/11/Countdown2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\11\Countdown2.jpg
 Content Type: image/jpeg
 
-Uri: https://oyster.ignimgs.com/mediawiki/images/Wikis_Walkthrough.jpg?width=300&crop=16:9&quality=20&dpr=0.05
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\mediawiki\images\Wikis_Walkthrough.jpg
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/13/DeluxeEnding10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\13\DeluxeEnding10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/15/Hole1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\15\Hole1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/16/Confusion11.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\16\Confusion11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/16/Storyteller2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\16\Storyteller2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/18/BucketMadness2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\18\BucketMadness2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/18/OtherGames7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\18\OtherGames7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/19/IsBucket4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\19\IsBucket4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/19/OttherGames1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\19\OttherGames1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/1a/Hole3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\1a\Hole3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/1/1c/SillyBirds.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\1\1c\SillyBirds.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/25/Confusion1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\25\Confusion1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/26/PaperFloors.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\26\PaperFloors.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/29/Intervention3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\29\Intervention3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/2a/EscapePod2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\2a\EscapePod2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/2a/Whiteboard.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\2a\Whiteboard.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/2c/SurveillanceRoom.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\2c\SurveillanceRoom.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/2d/Apartmen2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\2d\Apartmen2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/2d/Confusion4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\2d\Confusion4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/2/2e/MuseumEnding2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\2\2e\MuseumEnding2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/30/BucketMuseum1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\30\BucketMuseum1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/30/FreedomEnding.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\30\FreedomEnding.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/31/BucketDefeat1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\31\BucketDefeat1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/31/NewNew13.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\31\NewNew13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/36/WindowEnd2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\36\WindowEnd2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/39/Comedic3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\39\Comedic3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/3a/EscapePod3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\3a\EscapePod3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/3f/Confusion2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\3f\Confusion2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/3/3f/NewNew6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\3\3f\NewNew6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/4/40/Hole5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\4\40\Hole5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/4/43/NewNew10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\4\43\NewNew10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/4/43/Zending5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\4\43\Zending5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/4/44/TapeRecorder1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\4\44\TapeRecorder1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/4/45/NewNew7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\4\45\NewNew7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/4/48/DeluxeEnding3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\4\48\DeluxeEnding3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/4/4b/NewNew11.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\4\4b\NewNew11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/50/DeluxeEnding12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\50\DeluxeEnding12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/53/CowardEnding.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\53\CowardEnding.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/55/3Ending1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\55\3Ending1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/55/FallDeath2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\55\FallDeath2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/57/Apartment3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\57\Apartment3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/59/Zending4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\59\Zending4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/5b/NewNew9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\5b\NewNew9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/5e/Confusion9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\5e\Confusion9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/5e/MeetingRoom.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\5e\MeetingRoom.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/5/5f/Confusion10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\5\5f\Confusion10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/6/63/Fig2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\6\63\Fig2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/6/63/Fig5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\6\63\Fig5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/6/63/HeavenEnding1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\6\63\HeavenEnding1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/6/69/OfficeSecret.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\6\69\OfficeSecret.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/6/6d/Stranger2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\6\6d\Stranger2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/70/Choices1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\70\Choices1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/70/EscapePod1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\70\EscapePod1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/74/MadnessEnding1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\74\MadnessEnding1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/78/NewNew4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\78\NewNew4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/78/StanleyButton.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\78\StanleyButton.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/79/Countdown1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\79\Countdown1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/7b/BucketDefeat2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\7b\BucketDefeat2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/7c/BucketMadness1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\7c\BucketMadness1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/7c/HeavenEnding3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\7c\HeavenEnding3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/7c/NewNew3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\7c\NewNew3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/7e/Confusion7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\7e\Confusion7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/7/7e/DeluxeEnding11.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\7\7e\DeluxeEnding11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/81/WindowEnd1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\81\WindowEnd1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/83/StanleyFig2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\83\StanleyFig2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/84/EscapePod4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\84\EscapePod4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/88/TapeRecorder2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\88\TapeRecorder2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/89/NewNew12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\89\NewNew12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/8a/Imaginary2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\8a\Imaginary2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/8e/20220429114305_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\8e\20220429114305_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/8e/NewNew1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\8e\NewNew1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/8/8f/Imaginary1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\8\8f\Imaginary1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/93/Hole4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\93\Hole4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/95/DeluxeEnding1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\95\DeluxeEnding1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/96/BroomCloset.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\96\BroomCloset.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/96/MuseumEnding3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\96\MuseumEnding3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/99/DeluxeEnding4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\99\DeluxeEnding4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/99/Stairs.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\99\Stairs.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/9b/FallDeath1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\9b\FallDeath1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/9c/BroomCloset1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\9c\BroomCloset1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/9c/Zending3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\9c\Zending3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/9d/BucketMuseum2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\9d\BucketMuseum2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/9d/Confusion8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\9d\Confusion8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/9/9f/IsBucket3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\9\9f\IsBucket3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/a1/HeavenEnding2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\a1\HeavenEnding2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/a6/DiscoSecret.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\a6\DiscoSecret.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/a7/DeluxeEnding5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\a7\DeluxeEnding5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/a8/MadnessEnding3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\a8\MadnessEnding3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/aa/OfficeCode.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\aa\OfficeCode.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/ab/Stranger1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\ab\Stranger1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/ac/Confusion3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\ac\Confusion3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/ad/HeavenEnding5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\ad\HeavenEnding5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/a/ae/TwoDoors.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\a\ae\TwoDoors.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/b/b2/Intervention1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\b\b2\Intervention1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/b/b2/MadnessEnding2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\b\b2\MadnessEnding2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/b/b5/BucketEscape1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\b\b5\BucketEscape1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/b/b7/Zending6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\b\b7\Zending6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/b/b9/NewNew2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\b\b9\NewNew2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/b/bc/Fig1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\b\bc\Fig1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/b/bc/MindControlEntrance.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\b\bc\MindControlEntrance.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/b/bc/OtherGames8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\b\bc\OtherGames8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/c/c1/Storyteller1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\c\c1\Storyteller1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/c/c2/SystemPowerOff.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\c\c2\SystemPowerOff.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/c/c6/FacilityPower.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\c\c6\FacilityPower.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/c/ca/DeluxeEnding8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\c\ca\DeluxeEnding8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/c/ca/HeavenEnding4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\c\ca\HeavenEnding4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/c/cc/IsBucket1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\c\cc\IsBucket1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/d/d0/Hole2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\d\d0\Hole2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/d/d0/MuseumEnding4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\d\d0\MuseumEnding4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/d/d4/Zending1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\d\d4\Zending1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/d/d5/OtherGames5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\d\d5\OtherGames5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/d/d9/Confusion6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\d\d9\Confusion6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/d/da/BucketEscape.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\d\da\BucketEscape.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/d/dc/3Ending2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\d\dc\3Ending2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/e/e1/DeluxeEnding7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\e\e1\DeluxeEnding7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/e/e2/HeavenEnding6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\e\e2\HeavenEnding6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/e/e6/Confusion5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\e\e6\Confusion5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/e/ee/Zending2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\e\ee\Zending2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/e/ef/DeluxeEnding9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\e\ef\DeluxeEnding9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/f/f0/NewNew5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\f\f0\NewNew5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/f/f2/Comedic1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\f\f2\Comedic1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/f/f4/Intervention2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\f\f4\Intervention2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/f/f4/IsBucket2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\f\f4\IsBucket2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/f/f6/Apartmen1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\f\f6\Apartmen1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/f/f6/Comedic2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\f\f6\Comedic2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-stanley-parable/f/fa/DeluxeEnding6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\mediawiki\apis.ign.com\the-stanley-parable\f\fa\DeluxeEnding6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/78/5039825-1420848487.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\social\avatars\users2\78\5039825-1420848487.jpg
 Content Type: image/jpeg
 
 Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\tag\js\gpt.js
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\tag\js\gpt-1.js
 Content Type: text/javascript
 
-Uri: https://starsmedia.ign.com/stars/image/object/059/059113/sbsp_boating_bash_ds.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\stars\image\object\059\059113\sbsp_boating_bash_ds.jpg
-Content Type: image/jpeg
-
-Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\vans-adapter-google-ima.js
-Content Type: application/javascript
-
-Uri: https://static.chartbeat.com/js/chartbeat_mab.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\js\chartbeat_mab.js
-Content Type: application/x-javascript
-
 Uri: https://www.ign.com/wikis/the-stanley-parable
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable.html
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable-1.html
 Content Type: text/html
 
 Uri: https://www.ign.com/wikis/the-stanley-parable/
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\index.htm
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\index-1.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/3_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\3_Ending.html
 Content Type: text/html
 
 Uri: https://www.ign.com/wikis/the-stanley-parable/Achievements_and_Trophies
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\Achievements_and_Trophies.html
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Achievements_and_Trophies-1.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/allpages
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\allpages.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Apartment_(Phone_Call)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Apartment_(Phone_Call)_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Broom_Closet_Easter_Egg_Non_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Broom_Closet_Easter_Egg_Non_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Bucket_Broom_Closet_Easter_Egg_Non_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Bucket_Broom_Closet_Easter_Egg_Non_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Bucket_Escape_Pod_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Bucket_Escape_Pod_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Bucket_Freedom_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Bucket_Freedom_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Bucket_Mariella_(Madness)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Bucket_Mariella_(Madness)_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Bucket_Museum_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Bucket_Museum_Ending.html
 Content Type: text/html
 
 Uri: https://www.ign.com/wikis/the-stanley-parable/Cheats_and_Secrets
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\Cheats_and_Secrets.html
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Cheats_and_Secrets-1.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Collectibles
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\Collectibles.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Choices_(Phone_Unplugged)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Choices_(Phone_Unplugged)_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/deadendpages
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\deadendpages.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Click_on_door_430_five_times
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Click_on_door_430_five_times.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/File:Stanley-parable-buttonjpg-88412a.jpg
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\FileStanley-parable-buttonjpg-88412a.jpg.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Collectibles_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Collectibles_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Ign:Main_Page
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\IgnMain_Page.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Comedic_Timing_(Phone_Unplugged)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Comedic_Timing_(Phone_Unplugged)_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Ign:Navigation
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\IgnNavigation.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Confusion_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Confusion_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/longpages
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\longpages.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Countdown_(Bomb)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Countdown_(Bomb)_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/orphanedpages
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\orphanedpages.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Coward_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Coward_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Defeating_the_Bucket_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Defeating_the_Bucket_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Epilogue_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Epilogue_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Escape_Pod_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Escape_Pod_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Essence_of_Divine_Art_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Essence_of_Divine_Art_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Freedom_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Freedom_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Heaven_(Computer_Input)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Heaven_(Computer_Input)_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/How_to_Access_The_Stanley_Parable_Ulta_Deluxe_Content
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\How_to_Access_The_Stanley_Parable_Ulta_Deluxe_Content.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Imaginary_Friend_(Phone_Call)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Imaginary_Friend_(Phone_Call)_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Intervention_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Intervention_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Is_This_a_Bucket_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Is_This_a_Bucket_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Mariella_(Madness)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Mariella_(Madness)_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Museum_(Escape)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Museum_(Escape)_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/New_Content_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\New_Content_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Other_Games_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Other_Games_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Out_of_Bounds_(Window)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Out_of_Bounds_(Window)_Ending.html
 Content Type: text/html
 
 Uri: https://www.ign.com/wikis/the-stanley-parable/PC_Cheats
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\PC_Cheats.html
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\PC_Cheats-1.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/recentchanges
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\recentchanges.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Powerful,_Cold_Feet_(Fall_Death)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Powerful,_Cold_Feet_(Fall_Death)_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/shortpages
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\shortpages.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Serious_(Cheats)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Serious_(Cheats)_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Template:Achievement
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\TemplateAchievement.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Settings_World_Champion
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Settings_World_Champion.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Template:Home-directory-section-0
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\TemplateHome-directory-section-0.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Silly_Bird_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Silly_Bird_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Template:Home-directory-section-1
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\TemplateHome-directory-section-1.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Storyteller_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Storyteller_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Template:Home-directory-section-2
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\TemplateHome-directory-section-2.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Tape_Recorder_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Tape_Recorder_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Template:Home-directory-section-3
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\TemplateHome-directory-section-3.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Test_achievement_please_ignore
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Test_achievement_please_ignore.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Template:Trophy
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\TemplateTrophy.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/The_Infinite_Hole_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\The_Infinite_Hole_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Template:Trophy-achievement
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\TemplateTrophy-achievement.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/The_Sequel_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\The_Sequel_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/The_Stanley_Parable_Original_Endings
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\The_Stanley_Parable_Original_Endings.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/The_Stanley_Parable_Ultra_Deluxe_Endings
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\The_Stanley_Parable_Ultra_Deluxe_Endings.html
 Content Type: text/html
 
 Uri: https://www.ign.com/wikis/the-stanley-parable/topcontributors
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\topcontributors.html
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\topcontributors-1.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/Walkthrough
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\Walkthrough.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Touching,_Cold_Feet_(Fall_Death)_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Touching,_Cold_Feet_(Fall_Death)_Ending.html
 Content Type: text/html
 
-Uri: https://www.ign.com/wikis/the-stanley-parable/wantedpages
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\wikis\the-stanley-parable\wantedpages.html
+Uri: https://www.ign.com/wikis/the-stanley-parable/Walkthrough_-_Endings_Guide
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Walkthrough_-_Endings_Guide.html
 Content Type: text/html
 
-Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
-File Name: C:\Users\ls356\Desktop\IGN Wikis\the stanley parable\js\zddmp\1.1\zddmp.min.js
-Content Type: application/javascript
+Uri: https://www.ign.com/wikis/the-stanley-parable/Whiteboard_Non_Ending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Whiteboard_Non_Ending.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/the-stanley-parable/Zending
+File Name: D:\IGN Wikis\IGN-Wikis\The Stanley Parable\wikis\the-stanley-parable\Zending.html
+Content Type: text/html
 
