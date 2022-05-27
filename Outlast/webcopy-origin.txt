@@ -1,0 +1,828 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2022/04/12/kingsfieldancient-1649782017413.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\2022\04\12\kingsfieldancient-1649782017413.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/20/stranger-things-s4-blogroll-1653068736721.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\2022\05\20\stranger-things-s4-blogroll-1653068736721.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/26/indy-1653593425583.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\2022\05\26\indy-1653593425583.png
+Content Type: image/png
+
+Uri: https://assets-prd.ignimgs.com/2022/05/26/winnie-1653563378128.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\2022\05\26\winnie-1653563378128.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2017/12/07/outlast-1---button-ff-1512680409162.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\2017\12\07\outlast-1---button-ff-1512680409162-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2017/12/07/outlast-1---button-ff-1512680409162.jpg?width=64
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\2017\12\07\outlast-1---button-ff-1512680409162.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2017/12/07/outlast-1---button-ff-1512680409162.jpg?width=64&dpr=2
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\2017\12\07\outlast-1---button-ff-1512680409162-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/29/metaverse-blogrollthumbnail-1651244627800.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/13/cinefixmcucosmicenoughblogroll-1652485024776.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\13\cinefixmcucosmicenoughblogroll-1652485024776.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/16/36190303sniperelite5blogroll-03-1652747666842.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\16\36190303sniperelite5blogroll-03-1652747666842.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/17/shehulkofficialtrailerignblogroll-1652825140341.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\17\shehulkofficialtrailerignblogroll-1652825140341.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/codenamewanderingswordannouncementtrailerignblogroll-1653424616098.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\24\codenamewanderingswordannouncementtrailerignblogroll-1653424616098.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/thor-1653357743054.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\24\thor-1653357743054.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/starwarsandorofficialteasertrailerignblogroll-1653590825063.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\26\starwarsandorofficialteasertrailerignblogroll-1653590825063.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/willowofficialteasertrailerignblogroll-1653592052121.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\26\willowofficialteasertrailerignblogroll-1653592052121.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/3/ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\3\ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/4/re4v2inventoryblog-1651681534410.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_buildManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\Ac5PqxVnCv95yJDEPvCuT\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_ssgManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\Ac5PqxVnCv95yJDEPvCuT\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\1250-f0984fbfea24438c25b2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-6b54ca5b43dced3dfd84.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\3325-6b54ca5b43dced3dfd84.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\3335-f37f50935d90c36de450.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\4735-fecddd9e4f12282111ed.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\571-147baf2d4176498805a1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\5914-92029dbf8de4df9727cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\6306-9add02503bb69c398284.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\7263-3326c3898eef7a8228d5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7356-d3d0a5d0c668804b718d.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\7356-d3d0a5d0c668804b718d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\8740-ed818a038011c2bf8df5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-26bb82cec46c98c7c416.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\9456-26bb82cec46c98c7c416.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\framework-57ad11da4426b1404226.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\main-b87df09e7fc063b37f88.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-62d6e732263dc299c64b.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\pages\wikis\show-62d6e732263dc299c64b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-46603cdd1397616efa55.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\pages\wikis\topcontributors-46603cdd1397616efa55.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-439942a60aba69371431.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\pages\_app-439942a60aba69371431.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-3d921bab65429e4b587f.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\_next\static\chunks\webpack-3d921bab65429e4b587f.js
+Content Type: application/javascript
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/00/11th_part_of_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\00\11th_part_of_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/00/21st_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\00\21st_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/01/16th_death_part_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\01\16th_death_part_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/07/8th_document-_chapter_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\07\8th_document-_chapter_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/08/20th_note-_chapter_6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\08\20th_note-_chapter_6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/09/OLGame_2013-09-10_22-55-39-50.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\09\OLGame_2013-09-10_22-55-39-50.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/0a/20th_document-_chapter_6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\0a\20th_document-_chapter_6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/0a/Death_8_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\0a\Death_8_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/0/0e/OLGame_2013-09-14_00-19-24-72.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\0\0e\OLGame_2013-09-14_00-19-24-72.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/1/14/13th_potential_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\1\14\13th_potential_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/1/15/10th_note-_chapter_3_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\1\15\10th_note-_chapter_3_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/1/16/10th_part_of_death_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\1\16\10th_part_of_death_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/1/1a/18th_note-_chapter_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\1\1a\18th_note-_chapter_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/2/20/15th_part_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\2\20\15th_part_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/2/26/11th_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\2\26\11th_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/2/28/7th_note-_chapter_2_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\2\28\7th_note-_chapter_2_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/2/29/12_part_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\2\29\12_part_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/2/29/29th_note-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\2\29\29th_note-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/2/2b/19th_note-_chapter_6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\2\2b\19th_note-_chapter_6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/3/32/30th_document-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\3\32\30th_document-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/3/33/14th_part_3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\3\33\14th_part_3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/3/33/6th_document-_chapter_1_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\3\33\6th_document-_chapter_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/3/34/26th_note-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\3\34\26th_note-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/3/3c/5th_document-_chapter_1_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\3\3c\5th_document-_chapter_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/3/3d/OLGame_2013-09-13_20-05-48-20.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\3\3d\OLGame_2013-09-13_20-05-48-20.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/3/3f/31st_note-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\3\3f\31st_note-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/4/40/OLGame_2013-09-14_00-22-07-36.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\4\40\OLGame_2013-09-14_00-22-07-36.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/4/41/4th_part_of_death_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\4\41\4th_part_of_death_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/4/42/13th_document-_chapter_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\4\42\13th_document-_chapter_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/4/44/16th_death_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\4\44\16th_death_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/50/16th_document-_chapter_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\50\16th_document-_chapter_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/52/22nd_document-_chapter_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\52\22nd_document-_chapter_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/52/Death_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\52\Death_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/54/11th_note-_chapter_3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\54\11th_note-_chapter_3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/54/2nd_document-_chapter_1_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\54\2nd_document-_chapter_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/56/25th_document-chapter_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\56\25th_document-chapter_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/57/15th_note-_chapter_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\57\15th_note-_chapter_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/5a/10th_part_of_death_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\5a\10th_part_of_death_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/5/5b/1st_part_of_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\5\5b\1st_part_of_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/6/65/16th_note-_chapter_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\6\65\16th_note-_chapter_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/6/67/14th_note-_chapter_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\6\67\14th_note-_chapter_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/6/6a/17th_death_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\6\6a\17th_death_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/6/6b/7th_document-_chapter_2_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\6\6b\7th_document-_chapter_2_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/6/6b/Prison_block-_chapter_2_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\6\6b\Prison_block-_chapter_2_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/6/6c/28th_note-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\6\6c\28th_note-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/7/73/4th_note-_chapter_1_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\7\73\4th_note-_chapter_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/7/74/17th_note-_chapter_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\7\74\17th_note-_chapter_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/7/75/14th_document-_chapter_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\7\75\14th_document-_chapter_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/7/78/12_part_pf_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\7\78\12_part_pf_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/7/7a/10th_document-_chapter_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\7\7a\10th_document-_chapter_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/7/7b/3rd_part_of_death_part_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\7\7b\3rd_part_of_death_part_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/7/7d/3rd_document-_chapter_1_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\7\7d\3rd_document-_chapter_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/7/7e/Real_27th_note-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\7\7e\Real_27th_note-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/8/83/32nd_note-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\8\83\32nd_note-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/8/84/12th_document-_chapter_3_real.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\8\84\12th_document-_chapter_3_real.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/8/87/Death_part_6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\8\87\Death_part_6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/8/88/10th_part_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\8\88\10th_part_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/8/89/4th_document-_chapter_1_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\8\89\4th_document-_chapter_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/8/8b/Courtyard-_chapter_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\8\8b\Courtyard-_chapter_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/8/8e/18th_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\8\8e\18th_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/9/90/26th_note-_chapter_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\9\90\26th_note-_chapter_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/9/91/24th_note-_chapter_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\9\91\24th_note-_chapter_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/9/93/1st_document.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\9\93\1st_document.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/9/95/25th_note-_chapter_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\9\95\25th_note-_chapter_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/9/97/Death_part_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\9\97\Death_part_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/9/9a/19th_document-_chapter_6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\9\9a\19th_document-_chapter_6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/9/9b/31st_document-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\9\9b\31st_document-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a0/13th_note-_chapter_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a0\13th_note-_chapter_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a0/5th_part_of_death_part_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a0\5th_part_of_death_part_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a3/5th_part_of_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a3\5th_part_of_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a6/24th_document-_chapter_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a6\24th_document-_chapter_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a7/2nd_note-_chapter_2_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a7\2nd_note-_chapter_2_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a7/Admin_block-_chapter_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a7\Admin_block-_chapter_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a7/Underground_lab-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a7\Underground_lab-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a8/15th_part_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a8\15th_part_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a8/20th_death_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a8\20th_death_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/a8/23rd_document-_chapter_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\a8\23rd_document-_chapter_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/aa/Male_ward-_chapter_4_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\aa\Male_ward-_chapter_4_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/ab/30th_note-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\ab\30th_note-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/ac/14th_part_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\ac\14th_part_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/ac/18th_document-_chapter_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\ac\18th_document-_chapter_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/ad/OLGame_2013-09-11_00-28-59-80.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\ad\OLGame_2013-09-11_00-28-59-80.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/af/29th_document-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\af\29th_document-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/a/af/3rd_note-_chapter_1_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\a\af\3rd_note-_chapter_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/b/b6/11th_document-_chapter_3_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\b\b6\11th_document-_chapter_3_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/b/b6/OLGame_2013-09-12_21-47-54-56.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\b\b6\OLGame_2013-09-12_21-47-54-56.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/b/b7/15th_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\b\b7\15th_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/b/b7/3rd_part_of_death_3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\b\b7\3rd_part_of_death_3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/b/b7/4th_part_of_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\b\b7\4th_part_of_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/b/b7/8th_note-_chapter_2_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\b\b7\8th_note-_chapter_2_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/b/bb/OLGame_2013-09-13_20-06-16-01.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\b\bb\OLGame_2013-09-13_20-06-16-01.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/b/be/28th_document-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\b\be\28th_document-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/c/c0/17th_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\c\c0\17th_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/c/c1/Return_to_the_admin_block-_chapter_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\c\c1\Return_to_the_admin_block-_chapter_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/c/c2/3rd_part_of_death_part_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\c\c2\3rd_part_of_death_part_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/c/c3/Outlast-title.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\c\c3\Outlast-title.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/c/c7/Death_part_6_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\c\c7\Death_part_6_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/c/ca/9th_note-_chapter_2_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\c\ca\9th_note-_chapter_2_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/c/cd/15th_part_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\c\cd\15th_part_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/c/cf/3rd_part_of_death_part_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\c\cf\3rd_part_of_death_part_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/d/d0/11_part_3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\d\d0\11_part_3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/d/d1/17th_document-_chapter_5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\d\d1\17th_document-_chapter_5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/d/d3/13th_part_2_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\d\d3\13th_part_2_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/d/dc/1st_note-_chapter_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\d\dc\1st_note-_chapter_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/d/de/10th_death_part_3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\d\de\10th_death_part_3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/e/e0/27th_note-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\e\e0\27th_note-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/e/e2/6th_note-_chapter_2_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\e\e2\6th_note-_chapter_2_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/e/e4/9_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\e\e4\9_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/e/e5/27th_document-_chapter_8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\e\e5\27th_document-_chapter_8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/e/e5/9th_document-_chapter_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\e\e5\9th_document-_chapter_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/e/e6/5th_note-_chapter_1_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\e\e6\5th_note-_chapter_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/e/e9/Death_part_7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\e\e9\Death_part_7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/e/ed/21st_note_real-_chapter_6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\e\ed\21st_note_real-_chapter_6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/f/f0/15th_document-_chapter_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\f\f0\15th_document-_chapter_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/f/f1/21st_note-_chapter_6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\f\f1\21st_note-_chapter_6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/f/f3/Sewer-_chapter_3_.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\f\f3\Sewer-_chapter_3_.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/f/f7/3rd_part_of_death_final.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\f\f7\3rd_part_of_death_final.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/f/fd/2nd_part_of_death.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\f\fd\2nd_part_of_death.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/f/fe/12th_note-_chapter_4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\f\fe\12th_note-_chapter_4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/outlast/f/ff/2nd_part_of_death_2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\mediawiki\apis.ign.com\outlast\f\ff\2nd_part_of_death_2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/00/1612203-1528239300.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\social\avatars\users2\00\1612203-1528239300.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/23/6097348-1430233332.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\social\avatars\users2\23\6097348-1430233332.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/33/5142643-1346111933.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\social\avatars\users2\33\5142643-1346111933.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/44/5453382-1356928844.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\social\avatars\users2\44\5453382-1356928844.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://www.ign.com/wikis/outlast
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Administration_Block
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Administration_Block.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Chris_Walker
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Chris_Walker.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Father_Martin_Archimbaud
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Father_Martin_Archimbaud.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Female_Ward
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Female_Ward.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/File:10th_part_of_death_2.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\File10th_part_of_death_2.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Miles_Upshur
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Miles_Upshur.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Mount_Massive_Asylum
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Mount_Massive_Asylum.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Outlast-_Know_All_Guide
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Outlast-_Know_All_Guide.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Outlast:Insane_Difficulty_Help
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\OutlastInsane_Difficulty_Help.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Outlast_-_Easter_eggs
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Outlast_-_Easter_eggs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/PC_Cheats
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\PC_Cheats.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Richard_Trager
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Richard_Trager.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Rudolf_Wernicke
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Rudolf_Wernicke.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Sewer
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Sewer.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/The_Brothers
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\The_Brothers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/The_Variants
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\The_Variants.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/The_Walrider
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\The_Walrider.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/topcontributors
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/outlast/Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Outlast\wikis\outlast\Walkthrough.html
+Content Type: text/html
+
