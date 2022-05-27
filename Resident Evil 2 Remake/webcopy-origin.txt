@@ -1,0 +1,2668 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2022/01/05/superluigiu-1641347176447.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2022\01\05\superluigiu-1641347176447.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/01/05/superluigiu-1641347176447.jpg?width=300&saturation=80&blur=14
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2022\01\05\superluigiu-1641347176447-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/04/sonic-prime-button-2-1651707399883.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2022\05\04\sonic-prime-button-2-1651707399883.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/20/stranger-things-s4-blogroll-1653068736721.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2022\05\20\stranger-things-s4-blogroll-1653068736721.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/26/indy-1653593425583.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2022\05\26\indy-1653593425583.png
+Content Type: image/png
+
+Uri: https://assets-prd.ignimgs.com/2022/05/26/winnie-1653563378128.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2022\05\26\winnie-1653563378128.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/11/30/resident-evil-2-remake---button-fin-1543614996402.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2018\11\30\resident-evil-2-remake---button-fin-1543614996402-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/11/30/resident-evil-2-remake---button-fin-1543614996402.jpg?width=64
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2018\11\30\resident-evil-2-remake---button-fin-1543614996402.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/11/30/resident-evil-2-remake---button-fin-1543614996402.jpg?width=64&dpr=2
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2018\11\30\resident-evil-2-remake---button-fin-1543614996402-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2020/03/11/joe-skrebels-1583932680575.jpg?height=156&crop=1200:331
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2020\03\11\joe-skrebels-1583932680575.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2020/03/11/joe-skrebels-1583932680575.jpg?height=331&crop=1200:331
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\2020\03\11\joe-skrebels-1583932680575-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/crimesofthefutureblog-1649930816067.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\4\14\crimesofthefutureblog-1649930816067.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/14/roguejamepisode1blogroll-1649969755364.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\4\14\roguejamepisode1blogroll-1649969755364.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/20/sonicoriginsofficialtrailerignblogroll-1650460571636.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\4\20\sonicoriginsofficialtrailerignblogroll-1650460571636.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/29/metaverse-blogrollthumbnail-1651244627800.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/13/cinefixmcucosmicenoughblogroll-1652485024776.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\13\cinefixmcucosmicenoughblogroll-1652485024776.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/16/36190303sniperelite5blogroll-03-1652747666842.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\16\36190303sniperelite5blogroll-03-1652747666842.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/17/shehulkofficialtrailerignblogroll-1652825140341.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\17\shehulkofficialtrailerignblogroll-1652825140341.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/codenamewanderingswordannouncementtrailerignblogroll-1653424616098.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\24\codenamewanderingswordannouncementtrailerignblogroll-1653424616098.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/thor-1653357743054.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\24\thor-1653357743054.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/starwarsandorofficialteasertrailerignblogroll-1653590825063.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\26\starwarsandorofficialteasertrailerignblogroll-1653590825063.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/willowofficialteasertrailerignblogroll-1653592052121.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\26\willowofficialteasertrailerignblogroll-1653592052121.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/3/ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\3\ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/4/re4v2inventoryblog-1651681534410.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll1-1652106421552.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_buildManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\Ac5PqxVnCv95yJDEPvCuT\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_ssgManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\Ac5PqxVnCv95yJDEPvCuT\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\1250-f0984fbfea24438c25b2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-6b54ca5b43dced3dfd84.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\3325-6b54ca5b43dced3dfd84.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\3335-f37f50935d90c36de450.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\4735-fecddd9e4f12282111ed.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\571-147baf2d4176498805a1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\5914-92029dbf8de4df9727cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\6306-9add02503bb69c398284.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\7263-3326c3898eef7a8228d5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\8740-ed818a038011c2bf8df5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-26bb82cec46c98c7c416.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\9456-26bb82cec46c98c7c416.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\framework-57ad11da4426b1404226.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\main-b87df09e7fc063b37f88.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-62d6e732263dc299c64b.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\pages\wikis\show-62d6e732263dc299c64b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-439942a60aba69371431.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\pages\_app-439942a60aba69371431.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-3d921bab65429e4b587f.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\_next\static\chunks\webpack-3d921bab65429e4b587f.js
+Content Type: application/javascript
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/00/LeonLab45.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\00\LeonLab45.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/00/LeonLab52.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\00\LeonLab52.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/00/LeonParking35.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\00\LeonParking35.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/00/LeonPolice33.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\00\LeonPolice33.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/01/883710_20190131162949_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\01\883710_20190131162949_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/02/LeonParking27.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\02\LeonParking27.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/02/LeonPolice40.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\02\LeonPolice40.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/02/LeonSewer47.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\02\LeonSewer47.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/03/LeonIntro2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\03\LeonIntro2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/03/LeonUpperLab.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\03\LeonUpperLab.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/05/LeonLab33.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\05\LeonLab33.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/07/883710_20190131182712_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\07\883710_20190131182712_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/07/ClaireCircuitPuzzle2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\07\ClaireCircuitPuzzle2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/07/LeonLab20.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\07\LeonLab20.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/07/LeonLab76.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\07\LeonLab76.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/07/LeonPolice4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\07\LeonPolice4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/08/20190128191708_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\08\20190128191708_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/08/LeonPolice1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\08\LeonPolice1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/08/LeonPolice45.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\08\LeonPolice45.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/08/Toy3Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\08\Toy3Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/09/LeonParking69.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\09\LeonParking69.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0b/Toy11Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0b\Toy11Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0b/Toy9Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0b\Toy9Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0d/LeonLab54.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0d\LeonLab54.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0d/LeonUnderground7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0d\LeonUnderground7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0d/Resident-evil-2-dog.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0d\Resident-evil-2-dog.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0e/GrenadeLauncher.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0e\GrenadeLauncher.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0e/MaidenPuzzle.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0e\MaidenPuzzle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0f/Claire_Police1F.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0f\Claire_Police1F.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/0/0f/LeonParking62.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\0\0f\LeonParking62.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/10/RocketLauncher.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\10\RocketLauncher.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/11/LeonParking22.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\11\LeonParking22.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/11/LeonPolice48.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\11\LeonPolice48.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/12/LeonLab72.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\12\LeonLab72.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/12/LeonParking31.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\12\LeonParking31.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/13/GreenhouseLadder.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\13\GreenhouseLadder.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/13/LeonParking41.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\13\LeonParking41.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/15/883710_20190129175607_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\15\883710_20190129175607_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/15/LeonLab21.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\15\LeonLab21.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/15/Toy15Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\15\Toy15Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/18/883710_20190129162505_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\18\883710_20190129162505_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/18/LeonIntro6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\18\LeonIntro6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/18/LeonLab48.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\18\LeonLab48.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/19/LeonSewer25.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\19\LeonSewer25.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/19/LeonSewer45.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\19\LeonSewer45.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1a/AdaSewer12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1a\AdaSewer12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1a/LeonLab68.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1a\LeonLab68.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1a/LeonSewer29.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1a\LeonSewer29.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1b/LeonLab16.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1b\LeonLab16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1b/LeonSewer22.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1b\LeonSewer22.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1c/LeonLab43.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1c\LeonLab43.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1c/LeonParking16.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1c\LeonParking16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1d/LeonLab26.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1d\LeonLab26.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1d/LeonPolice5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1d\LeonPolice5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1e/LeonUnderground8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1e\LeonUnderground8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1f/LeonCircuitPuzzle2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1f\LeonCircuitPuzzle2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1f/LeonParking49.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1f\LeonParking49.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1f/LeonPolice29.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1f\LeonPolice29.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1f/LeonPowerPuzzle2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1f\LeonPowerPuzzle2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/1/1f/Toy5Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\1\1f\Toy5Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/21/LeonSewer17.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\21\LeonSewer17.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/22/AdaSewer2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\22\AdaSewer2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/25/AdaSewer16.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\25\AdaSewer16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/25/LeonParking42.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\25\LeonParking42.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/25/Toy14Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\25\Toy14Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/26/LeonLab36.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\26\LeonLab36.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/26/LeonLab9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\26\LeonLab9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/27/Toy1Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\27\Toy1Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/28/LeonParking7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\28\LeonParking7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/29/LeonEntrance3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\29\LeonEntrance3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/29/LeonParking5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\29\LeonParking5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/29/STarsSafe.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\29\STarsSafe.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2b/LeonLab73.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2b\LeonLab73.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2c/LeonLab38.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2c\LeonLab38.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2c/LeonLab64.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2c\LeonLab64.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2c/LeonParking48.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2c\LeonParking48.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2c/LeonPolice54.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2c\LeonPolice54.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2e/LeonLab28.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2e\LeonLab28.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2e/LeonLab71.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2e\LeonLab71.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2e/LeonSewer26.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2e\LeonSewer26.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2e/Resident-evil-2-sewer-monster.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2e\Resident-evil-2-sewer-monster.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2e/Toy13Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2e\Toy13Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2f/20190126221000_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2f\20190126221000_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/2/2f/Claire_Police3F.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\2\2f\Claire_Police3F.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/30/LeonLab10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\30\LeonLab10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/30/LeonPolice51.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\30\LeonPolice51.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/30/LeonSewer9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\30\LeonSewer9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/32/LeonLab40.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\32\LeonLab40.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/32/LeonPolice18.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\32\LeonPolice18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/34/LeonEntrance8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\34\LeonEntrance8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/34/LeonParking64.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\34\LeonParking64.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/34/LeonPolice60.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\34\LeonPolice60.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/36/MrXMagnum.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\36\MrXMagnum.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/36/Re2-claire-oct8-screen6-1539010442807.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\36\Re2-claire-oct8-screen6-1539010442807.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/37/LeonSewer28.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\37\LeonSewer28.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/38/LeonLab12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\38\LeonLab12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/38/LeonSewer30.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\38\LeonSewer30.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/38/Toy12Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\38\Toy12Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/39/2898973707869911.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\39\2898973707869911.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/39/883710_20190129193638_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\39\883710_20190129193638_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3a/LeonIntro3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3a\LeonIntro3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3a/LeonLab19.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3a\LeonLab19.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3a/LeonParking63.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3a\LeonParking63.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3a/LeonPolice11.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3a\LeonPolice11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3b/LeonPolice10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3b\LeonPolice10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3d/LeonPolice36.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3d\LeonPolice36.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3e/HJBHandgun.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3e\HJBHandgun.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3e/RE2_SewerEntranceMapLeon.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3e\RE2_SewerEntranceMapLeon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3e/RE2_SewerEntranceMapLeon.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3e\RE2_SewerEntranceMapLeon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3e/Resident-evil-2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3e\Resident-evil-2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3e/Toy4Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3e\Toy4Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3f/LeonParking46.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3f\LeonParking46.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/3/3f/LeonSewer1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\3\3f\LeonSewer1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/40/LeonParking68.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\40\LeonParking68.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/40/LeonPolice42.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\40\LeonPolice42.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/40/Toy6Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\40\Toy6Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/41/883710_20190129171508_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\41\883710_20190129171508_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/41/LeonIntro7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\41\LeonIntro7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/41/LeonParking38.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\41\LeonParking38.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/42/LeonLab50.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\42\LeonLab50.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/43/LeonSewer19.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\43\LeonSewer19.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/43/LeonUnderground2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\43\LeonUnderground2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/43/LightningHawkMagnum.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\43\LightningHawkMagnum.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/43/Toy13Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\43\Toy13Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/44/AdaSewer24.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\44\AdaSewer24.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/44/LeonLab1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\44\LeonLab1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/44/RE2_SewersMiddleMap_Leon.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\44\RE2_SewersMiddleMap_Leon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/44/RE2_SewersMiddleMap_Leon.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\44\RE2_SewersMiddleMap_Leon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/45/LeonPolice58.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\45\LeonPolice58.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/45/LeonWestLab.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\45\LeonWestLab.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/46/883710_20190131175215_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\46\883710_20190131175215_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/46/LeonLab46.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\46\LeonLab46.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/47/Toy4Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\47\Toy4Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/48/LeonLab58.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\48\LeonLab58.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/48/LeonSewer38.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\48\LeonSewer38.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4b/LeonSewer21.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4b\LeonSewer21.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4c/LeonParking10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4c\LeonParking10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4d/Ghost.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4d\Ghost.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4d/LeonLab25.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4d\LeonLab25.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4d/LeonPolice7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4d\LeonPolice7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4d/Toy9Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4d\Toy9Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4e/LeonParking6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4e\LeonParking6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4e/LeonSewer54.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4e\LeonSewer54.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4e/LeonSewer6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4e\LeonSewer6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4f/LeonLab47.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4f\LeonLab47.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4f/LeonLab5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4f\LeonLab5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4f/LeonPolice13.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4f\LeonPolice13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4f/RE2_RPDMapLeon_2F.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4f\RE2_RPDMapLeon_2F.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/4/4f/RE2_RPDMapLeon_2F.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\4\4f\RE2_RPDMapLeon_2F-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/50/LeonLab15.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\50\LeonLab15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/51/LeonParking21.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\51\LeonParking21.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/52/LeonLab30.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\52\LeonLab30.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/53/LeonParking24.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\53\LeonParking24.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/53/SecondRunSignal3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\53\SecondRunSignal3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/55/LeonPolice17.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\55\LeonPolice17.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/56/LeonPolice25.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\56\LeonPolice25.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/56/LeonPolice28.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\56\LeonPolice28.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/56/LeonPolice3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\56\LeonPolice3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/56/LeonSewer13.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\56\LeonSewer13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/56/LeonSewer42.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\56\LeonSewer42.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/57/LeonParking51.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\57\LeonParking51.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/57/LeonPolice35.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\57\LeonPolice35.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/57/MrXHat.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\57\MrXHat.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/58/LeonEntrance5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\58\LeonEntrance5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/59/LeonLab34.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\59\LeonLab34.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/59/LeonLab65.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\59\LeonLab65.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/59/Toy10Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\59\Toy10Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5a/AdaSewer8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5a\AdaSewer8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5a/GhostToy4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5a\GhostToy4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5b/LeonParking50.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5b\LeonParking50.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5b/LeonUnderground6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5b\LeonUnderground6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5c/LeonLab66.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5c\LeonLab66.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5c/LEonParking47.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5c\LEonParking47.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5c/LeonSewer36.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5c\LeonSewer36.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5d/883710_20190131190946_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5d\883710_20190131190946_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5d/LeonSewer57.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5d\LeonSewer57.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5e/883710_20190129171523_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5e\883710_20190129171523_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5e/LeonSewer34.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5e\LeonSewer34.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5e/LeonSewer37.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5e\LeonSewer37.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/5/5e/Toy11Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\5\5e\Toy11Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/60/20190125005720_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\60\20190125005720_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/60/LeonLab32.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\60\LeonLab32.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/60/LeonParking17.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\60\LeonParking17.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/60/LeonPolice12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\60\LeonPolice12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/62/LeonPolice24.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\62\LeonPolice24.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/62/LeonPolice49.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\62\LeonPolice49.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/63/LeonEntrance12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\63\LeonEntrance12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/63/LeonLab7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\63\LeonLab7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/64/20190119221604_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\64\20190119221604_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/65/LeonLab61.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\65\LeonLab61.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/66/AdaSewer14.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\66\AdaSewer14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/67/LeonParking2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\67\LeonParking2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/69/AdaSewer19.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\69\AdaSewer19.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/69/LeonLab27.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\69\LeonLab27.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/69/LeonParking3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\69\LeonParking3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6a/LeonEntrance6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6a\LeonEntrance6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6a/LeonParking34.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6a\LeonParking34.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6a/LeonPolice44.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6a\LeonPolice44.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6a/LeonUnderground13.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6a\LeonUnderground13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6b/AdaSewer3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6b\AdaSewer3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6b/LeonIntro1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6b\LeonIntro1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6b/MrXHiding.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6b\MrXHiding.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6c/GhostToy3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6c\GhostToy3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6c/LeonSewer46.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6c\LeonSewer46.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6d/883710_20190129185700_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6d\883710_20190129185700_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6d/LeonSewer39.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6d\LeonSewer39.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6d/Revolver.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6d\Revolver.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6e/GreenhouseTrophy.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6e\GreenhouseTrophy.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6e/LeonParking23.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6e\LeonParking23.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6e/LeonSewer44.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6e\LeonSewer44.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/6/6f/AdaSewer5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\6\6f\AdaSewer5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/70/LeonEntrance11.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\70\LeonEntrance11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/70/LeonParking57.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\70\LeonParking57.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/70/LeonSewer53.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\70\LeonSewer53.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/71/LeonPolice16.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\71\LeonPolice16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/72/883710_20190131162938_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\72\883710_20190131162938_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/73/LeonSewer50.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\73\LeonSewer50.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/73/LeonSewer51.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\73\LeonSewer51.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/74/LeonPolice26.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\74\LeonPolice26.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/74/LeonPolice32.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\74\LeonPolice32.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/75/LeonParking52.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\75\LeonParking52.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/75/LeonParking66.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\75\LeonParking66.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/75/LeonParking67.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\75\LeonParking67.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/75/LeonPolice15.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\75\LeonPolice15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/75/ResidentEvil2Remake_Header.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\75\ResidentEvil2Remake_Header.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/76/20190128172539_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\76\20190128172539_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/76/SewerSafe.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\76\SewerSafe.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/77/LeonParking29.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\77\LeonParking29.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/77/SecondRunSignal2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\77\SecondRunSignal2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/78/LeonEntrance9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\78\LeonEntrance9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7a/LeonWestLabB2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7a\LeonWestLabB2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7b/883710_20190131162522_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7b\883710_20190131162522_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7c/Claire_Orphanage.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7c\Claire_Orphanage.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7c/LeonSewer31.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7c\LeonSewer31.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7c/LeonSewer60.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7c\LeonSewer60.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7d/LeonEntrance4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7d\LeonEntrance4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7e/LeonSewer40.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7e\LeonSewer40.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7f/LeonParking54.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7f\LeonParking54.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/7/7f/LeonPolice21.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\7\7f\LeonPolice21.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/80/LeonParking20.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\80\LeonParking20.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/81/GhostToy10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\81\GhostToy10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/81/LeonSewer58.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\81\LeonSewer58.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/81/SEcondRunTrophyCode.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\81\SEcondRunTrophyCode.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/82/883710_20190129192704_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\82\883710_20190129192704_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/82/LeonLab31.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\82\LeonLab31.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/82/LeonPolice46.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\82\LeonPolice46.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/82/LeonSewerRaccoon.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\82\LeonSewerRaccoon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/82/RE2_RPDMapLeon_1FUpdate.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\82\RE2_RPDMapLeon_1FUpdate.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/82/RE2_RPDMapLeon_1FUpdate.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\82\RE2_RPDMapLeon_1FUpdate-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/83/GhostToy8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\83\GhostToy8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/83/LeonPolice34.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\83\LeonPolice34.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/83/LeonUnderground9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\83\LeonUnderground9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/85/LeonLab77.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\85\LeonLab77.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/85/LeonPolice19.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\85\LeonPolice19.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/85/LeonPolice30.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\85\LeonPolice30.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/85/LeonPoliceMap1New.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\85\LeonPoliceMap1New.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/87/LeonParking36.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\87\LeonParking36.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/87/LeonPolice31.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\87\LeonPolice31.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/87/LeonSewer52.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\87\LeonSewer52.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/88/883710_20190129193623_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\88\883710_20190129193623_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/89/LeonUnderground10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\89\LeonUnderground10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/8a/LeonUnderground3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\8a\LeonUnderground3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/8a/SecondRunLadderCode.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\8a\SecondRunLadderCode.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/8d/Toy14Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\8d\Toy14Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/8e/LeonLab62.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\8e\LeonLab62.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/8e/LeonParking33.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\8e\LeonParking33.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/8f/LeonParking65.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\8f\LeonParking65.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/8f/LeonPolice39.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\8f\LeonPolice39.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/8/8f/LeonPolice47.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\8\8f\LeonPolice47.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/90/LeonPolice61.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\90\LeonPolice61.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/91/LeonLab59.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\91\LeonLab59.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/93/LeonEntrance10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\93\LeonEntrance10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/93/LeonLabB1B2.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\93\LeonLabB1B2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/93/LeonLabB1B2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\93\LeonLabB1B2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/93/LeonPolice27.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\93\LeonPolice27.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/93/LeonPolice57.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\93\LeonPolice57.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/94/GhostToy6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\94\GhostToy6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/95/LeonParking1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\95\LeonParking1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/95/LeonUnderground12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\95\LeonUnderground12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/96/LeonPolice59.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\96\LeonPolice59.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/97/AdaSewer22.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\97\AdaSewer22.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/97/LeonEastLab.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\97\LeonEastLab.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/97/LEonLab3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\97\LEonLab3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/97/LeonParking55.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\97\LeonParking55.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/98/883710_20190131190940_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\98\883710_20190131190940_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/98/LeonSewer12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\98\LeonSewer12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/99/LeonSewer56.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\99\LeonSewer56.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9a/Toy2Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9a\Toy2Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9b/AdaSewer4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9b\AdaSewer4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9d/LeonLab41.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9d\LeonLab41.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9d/RE2_SewersUpperMap_Leon.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9d\RE2_SewersUpperMap_Leon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9d/RE2_SewersUpperMap_Leon.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9d\RE2_SewersUpperMap_Leon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9e/LeonParking15.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9e\LeonParking15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9e/LeonPolice56.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9e\LeonPolice56.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9f/LeonLab13.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9f\LeonLab13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9f/LeonSewer3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9f\LeonSewer3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/9/9f/LeonSewer4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\9\9f\LeonSewer4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a0/LeonParking40.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a0\LeonParking40.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a1/LeonSewer11.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a1\LeonSewer11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a2/LeonPolice6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a2\LeonPolice6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a2/RE2_UndergroundMapLeon.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a2\RE2_UndergroundMapLeon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a2/RE2_UndergroundMapLeon.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a2\RE2_UndergroundMapLeon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a2/Screen_Shot_2019-01-30_at_4.57.54_PM.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a2\Screen_Shot_2019-01-30_at_4.57.54_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a3/LeonSewer24.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a3\LeonSewer24.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a3/MatildaGun.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a3\MatildaGun.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a4/LeonPolice37.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a4\LeonPolice37.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a4/PanelPuzzle.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a4\PanelPuzzle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a5/LeonPolice55.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a5\LeonPolice55.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a5/LeonUnderground4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a5\LeonUnderground4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a6/AdaSewer10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a6\AdaSewer10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a6/LeonLab67.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a6\LeonLab67.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a7/LeonSewer33.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a7\LeonSewer33.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a8/LeonLab23.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a8\LeonLab23.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a8/SecondRunSignal1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a8\SecondRunSignal1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a9/883710_20190201111804_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a9\883710_20190201111804_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/a9/LeonParking25.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\a9\LeonParking25.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/ab/LeonLab53.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\ab\LeonLab53.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/ab/LeonParking14.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\ab\LeonParking14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/ac/LeonEntrance2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\ac\LeonEntrance2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/ad/883710_20190129174655_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\ad\883710_20190129174655_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/ad/LeonSewer18.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\ad\LeonSewer18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/a/ae/LeonEntrance14.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\a\ae\LeonEntrance14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b0/AdaSewer20.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b0\AdaSewer20.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b1/20190128174438_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b1\20190128174438_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b1/LeonPolice20.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b1\LeonPolice20.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b1/Toy5Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b1\Toy5Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b2/GhostToy5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b2\GhostToy5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b4/GhostToy1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b4\GhostToy1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b4/LeonParking60.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b4\LeonParking60.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b5/LeonSewer7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b5\LeonSewer7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b6/Claire_PoliceB1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b6\Claire_PoliceB1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b8/LeonParking18.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b8\LeonParking18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b8/MRXdown.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b8\MRXdown.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b9/AdaSewer7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b9\AdaSewer7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/b9/LeonSewer27.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\b9\LeonSewer27.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/ba/LeonLab70.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\ba\LeonLab70.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/ba/RE2_RPDMapLeon_B1.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\ba\RE2_RPDMapLeon_B1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/ba/RE2_RPDMapLeon_B1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\ba\RE2_RPDMapLeon_B1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/bc/LeonLab42.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\bc\LeonLab42.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/bc/LeonParking56.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\bc\LeonParking56.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/bc/Re2R_-_Irons.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\bc\Re2R_-_Irons.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/be/LeonParking53.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\be\LeonParking53.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/b/bf/LeonParking32.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\b\bf\LeonParking32.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c1/LeonLab44.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c1\LeonLab44.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c1/LeonSewer15.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c1\LeonSewer15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c3/2019011617185208.mp4_snapshot_01.22.000-640x360.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c3\2019011617185208.mp4_snapshot_01.22.000-640x360.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c3/LeonUnderground5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c3\LeonUnderground5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c4/LeonPolice52.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c4\LeonPolice52.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c4/RE2_SewersBottomMap_Leon.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c4\RE2_SewersBottomMap_Leon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c4/RE2_SewersBottomMap_Leon.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c4\RE2_SewersBottomMap_Leon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c6/883710_20190131163016_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c6\883710_20190131163016_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c6/Claire_BehindRPD.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c6\Claire_BehindRPD.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c6/LeonLab4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c6\LeonLab4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c6/LeonPolice2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c6\LeonPolice2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c7/LeonParking19.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c7\LeonParking19.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c8/LeonSewer49.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c8\LeonSewer49.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/c8/Toy6Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\c8\Toy6Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/ca/LeonLab51.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\ca\LeonLab51.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/ca/SecondRunTrophyLoc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\ca\SecondRunTrophyLoc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/cb/AdaSewer13.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\cb\AdaSewer13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/cb/LeonParking26.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\cb\LeonParking26.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/cd/LeonSewer23.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\cd\LeonSewer23.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/cd/LeonUnderground1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\cd\LeonUnderground1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/ce/883710_20190129174707_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\ce\883710_20190129174707_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/ce/LeonLab63.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\ce\LeonLab63.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/ce/LeonLab69.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\ce\LeonLab69.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/c/cf/Toy3Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\c\cf\Toy3Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d0/Toy15Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d0\Toy15Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d1/883710_20190129185919_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d1\883710_20190129185919_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d1/LeonLab24.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d1\LeonLab24.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d1/LeonPoliceMap3.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d1\LeonPoliceMap3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d2/AdaSewer23.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d2\AdaSewer23.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d2/LeonSewer48.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d2\LeonSewer48.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d3/Toy1Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d3\Toy1Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d6/LeonLab75.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d6\LeonLab75.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d6/SecondRunDrugPuzzle.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d6\SecondRunDrugPuzzle.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d7/Claire_Police2F.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d7\Claire_Police2F.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d7/LeonSewer14.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d7\LeonSewer14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d8/LeonPolice50.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d8\LeonPolice50.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d9/20190125195110_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d9\20190125195110_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d9/AdaSewer9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d9\AdaSewer9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d9/LeonLab18.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d9\LeonLab18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d9/LeonParking45.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d9\LeonParking45.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/d9/LeonPolice8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\d9\LeonPolice8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/da/Shotgun.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\da\Shotgun.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/db/883710_20190129171505_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\db\883710_20190129171505_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/db/LeonSewer55.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\db\LeonSewer55.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/dc/AdaSewer11.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\dc\AdaSewer11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/dc/LeonLab49.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\dc\LeonLab49.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/dc/LeonPolice23.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\dc\LeonPolice23.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/dd/LeonLab17.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\dd\LeonLab17.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/dd/LeonLab2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\dd\LeonLab2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/dd/LeonParking4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\dd\LeonParking4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/dd/LockerCap.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\dd\LockerCap.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/dd/SubmachineGun.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\dd\SubmachineGun.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/df/LEonPolice38.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\df\LEonPolice38.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/df/LeonPolice43.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\df\LeonPolice43.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/df/LeonSewer20.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\df\LeonSewer20.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/d/df/Toy10Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\d\df\Toy10Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e0/LeonSewer16.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e0\LeonSewer16.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e1/LeonLab60.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e1\LeonLab60.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e1/LeonPolice9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e1\LeonPolice9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e2/LeonLab35.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e2\LeonLab35.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e2/LeonParking37.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e2\LeonParking37.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e4/LeonParking28.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e4\LeonParking28.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e4/LeonSewer8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e4\LeonSewer8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e5/883710_20190131182737_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e5\883710_20190131182737_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e6/LeonLab11.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e6\LeonLab11.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e6/LeonParking44.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e6\LeonParking44.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e6/LeonSewer10.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e6\LeonSewer10.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e7/AdaSewer15.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e7\AdaSewer15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e7/LeonEastLabB2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e7\LeonEastLabB2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e7/LeonLab39.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e7\LeonLab39.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e7/Toy2Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e7\Toy2Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e8/AdaSewer17.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e8\AdaSewer17.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e8/AdaSewer6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e8\AdaSewer6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e8/RE2_RPDStreetsLeon.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e8\RE2_RPDStreetsLeon.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e8/RE2_RPDStreetsLeon.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e8\RE2_RPDStreetsLeon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e9/20190129161226_1.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e9\20190129161226_1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/e9/LeonSewer2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\e9\LeonSewer2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/ea/GhostToy9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\ea\GhostToy9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/eb/LeonIntro4.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\eb\LeonIntro4.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/eb/LeonLab6.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\eb\LeonLab6.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/eb/LeonPoliceMap2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\eb\LeonPoliceMap2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/eb/LeonSewer32.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\eb\LeonSewer32.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/ee/883710_20190129171129_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\ee\883710_20190129171129_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/e/ef/AdaSewer18.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\e\ef\AdaSewer18.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f0/LeonEntrance7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f0\LeonEntrance7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f0/LeonParking39.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f0\LeonParking39.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f0/LeonPolice14.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f0\LeonPolice14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f2/LeonParking61.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f2\LeonParking61.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f2/LeonPolice22.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f2\LeonPolice22.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f2/LeonSewer5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f2\LeonSewer5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f3/AdaSewer21.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f3\AdaSewer21.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f4/LEonParking43.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f4\LEonParking43.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f4/Re2-claire-oct8-screen7-1539010442790.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f4\Re2-claire-oct8-screen7-1539010442790.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f6/LeonParking9.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f6\LeonParking9.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f7/ChemicalFlamethrower.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f7\ChemicalFlamethrower.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f7/RE2_RPFMapLeon3FUpdate.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f7\RE2_RPFMapLeon3FUpdate.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f7/RE2_RPFMapLeon3FUpdate.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f7\RE2_RPFMapLeon3FUpdate-1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f7/Toy8Map.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f7\Toy8Map.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f8/LeonIntro5.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f8\LeonIntro5.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f8/LEonPolice53.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f8\LEonPolice53.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f8/Toy12Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f8\Toy12Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f8/Toy8Loc.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f8\Toy8Loc.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/f9/GhostToy7.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\f9\GhostToy7.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fb/LeonLab14.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fb\LeonLab14.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fb/LeonParking8.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fb\LeonParking8.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fc/LeonParking13.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fc\LeonParking13.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fc/LeonParking59.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fc\LeonParking59.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fc/LeonSewer43.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fc\LeonSewer43.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fd/883710_20190129185933_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fd\883710_20190129185933_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fd/883710_20190131175219_1.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fd\883710_20190131175219_1.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fd/GhostToy2.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fd\GhostToy2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fd/LeonParking12.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fd\LeonParking12.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fd/LeonParking58.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fd\LeonParking58.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/fe/LeonSewer35.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\fe\LeonSewer35.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/re2-remake/f/ff/LeonLab74.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\mediawiki\apis.ign.com\re2-remake\f\ff\LeonLab74.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://www.ign.com/wikis/re2-remake
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Achievements_and_Trophies
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Achievements_and_Trophies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Ada_Wong
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Ada_Wong.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/All_Safe_and_Lock_Combinations,_Codes,_and_Solutions
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\All_Safe_and_Lock_Combinations,_Codes,_and_Solutions.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Annette_Birkin
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Annette_Birkin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Battery_(for_Detonator,_C4)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Battery_(for_Detonator,_C4)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Bolt_Cutter_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Bolt_Cutter_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Broom_Hc
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Broom_Hc.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Car_Key_(Tin_Storage_Box)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Car_Key_(Tin_Storage_Box)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Characters
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Characters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Cheats,_Secrets,_Unlockable_Modes_and_Weapons
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Cheats,_Secrets,_Unlockable_Modes_and_Weapons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Chemical_Flamethrower
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Chemical_Flamethrower.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Chief_Irons
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Chief_Irons.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Claire's_Story_-_All_Item_Locations,_Puzzle_Solutions,_and_Complete_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Claire's_Story_-_All_Item_Locations,_Puzzle_Solutions,_and_Complete_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Claire's_Story_-_Second_Run_Complete_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Claire's_Story_-_Second_Run_Complete_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Claire's_Story_-_All_Item_Locations,_Puzzle_Solutions,_and_Complete_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Claire's_Story_-_All_Item_Locations,_Puzzle_Solutions,_and_Complete_Walkthrough-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Claire's_Story_-_Second_Run_Complete_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Claire's_Story_-_Second_Run_Complete_Walkthrough-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Club_Key_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Club_Key_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Combat_Knife
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Combat_Knife.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Detonator
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Detonator.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Detonator_(Electronic_Gadget,_for_C4)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Detonator_(Electronic_Gadget,_for_C4)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Diamond_Key_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Diamond_Key_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Dispersal_Cartridge_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Dispersal_Cartridge_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Dogs
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Dogs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Enemies
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Enemies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/File:20190128174438_1.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\File20190128174438_1.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/File:2898973707869911.png
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\File2898973707869911.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/File:883710_20190129185700_1.png
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\File883710_20190129185700_1.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/File:883710_20190131162522_1.png
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\File883710_20190131162522_1.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/File:883710_20190131182737_1.png
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\File883710_20190131182737_1.png.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/File:LeonParking69.jpg
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\FileLeonParking69.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Film_Roll:_Hiding_Places_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Film_Roll_Hiding_Places_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Forgotten_Soldier_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Forgotten_Soldier_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Fourth_Survivor_Mode_Tips_and_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Fourth_Survivor_Mode_Tips_and_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Fuse
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Fuse.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Fuse_(for_Break_Room_Hallway)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Fuse_(for_Break_Room_Hallway)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Fuse_(for_Main_Hall_Shutter)
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Fuse_(for_Main_Hall_Shutter).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Gas_Station_(Prologue)_-_Claire
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Gas_Station_(Prologue)_-_Claire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Gas_Station_(Prologue)_-_Leon
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Gas_Station_(Prologue)_-_Leon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Giant_Crocodile
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Giant_Crocodile.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/GM_79_Grenade_Launcher
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\GM_79_Grenade_Launcher.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Heart_Key_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Heart_Key_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Hip_Pouch_Locations
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Hip_Pouch_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Hunk
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Hunk.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/ID_Wristband_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\ID_Wristband_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Ivy_Zombies
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Ivy_Zombies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/JMB_Hp3_Handgun
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\JMB_Hp3_Handgun.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Key_Item_Locations_for_Leon_and_Claire_-_Main_Story
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Key_Item_Locations_for_Leon_and_Claire_-_Main_Story.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Key_Item_Locations_for_Leon_and_Claire_-_Second_Story
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Key_Item_Locations_for_Leon_and_Claire_-_Second_Story.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Knight_Plug,_Pawn_Plug,_and_Bishop_Plug_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Knight_Plug,_Pawn_Plug,_and_Bishop_Plug_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Konjac_Survivor_Mode_Tips,_Walkthrough,_and_How_to_Unlock
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Konjac_Survivor_Mode_Tips,_Walkthrough,_and_How_to_Unlock.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Laboratory_-_Claire
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Laboratory_-_Claire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Laboratory_-_Claire_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Laboratory_-_Claire_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Laboratory_-_Leon
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Laboratory_-_Leon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Laboratory_-_Leon_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Laboratory_-_Leon_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Large_Gear_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Large_Gear_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Leon's_Desk_Code_for_(Rookie's_First_Assignment)_Dial_Locks_in_West_Office
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Leon's_Desk_Code_for_(Rookie's_First_Assignment)_Dial_Locks_in_West_Office.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Leon's_Story_-_All_Item_Locations,_Puzzle_Solutions,_and_Complete_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Leon's_Story_-_All_Item_Locations,_Puzzle_Solutions,_and_Complete_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Leon's_Story_-_Second_Run_Complete_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Leon's_Story_-_Second_Run_Complete_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Leon's_Desk_Code_for_(Rookie's_First_Assignment)_Dial_Locks_in_West_Office
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Leon's_Desk_Code_for_(Rookie's_First_Assignment)_Dial_Locks_in_West_Office-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Leon's_Story_-_All_Item_Locations,_Puzzle_Solutions,_and_Complete_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Leon's_Story_-_All_Item_Locations,_Puzzle_Solutions,_and_Complete_Walkthrough-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Leon's_Story_-_Second_Run_Complete_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Leon's_Story_-_Second_Run_Complete_Walkthrough-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Leon_Kennedy
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Leon_Kennedy.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Lesser_G_Monsters
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Lesser_G_Monsters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/LE_5_Submachine_Gun
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\LE_5_Submachine_Gun.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Lickers
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Lickers.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Lightning_Hawk_Magnum
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Lightning_Hawk_Magnum.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Lion_Medallion_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Lion_Medallion_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/M19_Handgun
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\M19_Handgun.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Maps_and_Item_Locations
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Maps_and_Item_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Marvin_Branagh
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Marvin_Branagh.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Matilda_Handgun
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Matilda_Handgun.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Mechanic_Jack_Handle_Location_(for_Library_Bookshelf)
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Mechanic_Jack_Handle_Location_(for_Library_Bookshelf).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Minigun
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Minigun.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/MQ_11_Submachine_Gune
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\MQ_11_Submachine_Gune.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Mr._Raccoon_Toy_Locations
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Mr._Raccoon_Toy_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Mr._X_(Tyrant)_Hiding_Places_and_Tips
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Mr._X_(Tyrant)_Hiding_Places_and_Tips.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/No_Time_to_Mourn_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\No_Time_to_Mourn_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/No_Way_Out
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\No_Way_Out.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Orphanage
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Orphanage.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Orphanage_-_Claire
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Orphanage_-_Claire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Orphanage_-_Claire_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Orphanage_-_Claire_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Parking_Garage_-_Claire
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Parking_Garage_-_Claire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Parking_Garage_-_Claire_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Parking_Garage_-_Claire_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Parking_Garage_-_Leon
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Parking_Garage_-_Leon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Parking_Garage_-_Leon_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Parking_Garage_-_Leon_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Parking_Pass_Key_Card_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Parking_Pass_Key_Card_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Police_Station_-_Claire
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Police_Station_-_Claire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Police_Station_-_Claire_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Police_Station_-_Claire_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Police_Station_-_Leon
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Police_Station_-_Leon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Police_Station_-_Leon_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Police_Station_-_Leon_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Police_Station_Map_Locations
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Police_Station_Map_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Power_Panel_Part_1_(Boxed_Electronic_Part)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Power_Panel_Part_1_(Boxed_Electronic_Part)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Power_Panel_Part_2_(Boxed_Electronic_Part)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Power_Panel_Part_2_(Boxed_Electronic_Part)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Puzzle_Solutions_for_Leon_and_Claire
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Puzzle_Solutions_for_Leon_and_Claire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Queen_Plug_and_King_Plug_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Queen_Plug_and_King_Plug_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Quickdraw_Army
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Quickdraw_Army.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Red_Book_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Red_Book_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Red_Jewel_(Scepter)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Red_Jewel_(Scepter)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Research_Lab_East_Area_Map_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Research_Lab_East_Area_Map_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Rocket_Launcher
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Rocket_Launcher.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Rook_Plug_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Rook_Plug_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Runaway_Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Runaway_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/S.T.A.R.S._Badge_(Bejeweled_Box)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\S.T.A.R.S._Badge_(Bejeweled_Box)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sewers_-_Claire
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sewers_-_Claire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sewers_-_Claire_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sewers_-_Claire_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sewers_-_Leon
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sewers_-_Leon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sewers_-_Leon_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sewers_-_Leon_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sewers_Key_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sewers_Key_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sewer_Entrance_-_Leon
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sewer_Entrance_-_Leon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sewer_Entrance_-_Leon_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sewer_Entrance_-_Leon_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sewer_Locker_Control_Room_Dial_Lock_(Letters)_Code
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sewer_Locker_Control_Room_Dial_Lock_(Letters)_Code.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Sherry_Birkin
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Sherry_Birkin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Signal_Modulator_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Signal_Modulator_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/SLS_60_Handgun
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\SLS_60_Handgun.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Small_Gear_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Small_Gear_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Spade_Key_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Spade_Key_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Spare_Key_1_(Spare_Part)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Spare_Key_1_(Spare_Part)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Spare_Key_2_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Spare_Key_2_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Spark_Shot
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Spark_Shot.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Square_Crank_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Square_Crank_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/T-Bar_Valve_Handle_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\T-Bar_Valve_Handle_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/The_Ghost_Survivors_Accessory_Unlockables
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\The_Ghost_Survivors_Accessory_Unlockables.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/The_Ghost_Survivors_DLC
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\The_Ghost_Survivors_DLC.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/The_Ghost_Survivors_Mr._Raccoon_Toy_Locations
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\The_Ghost_Survivors_Mr._Raccoon_Toy_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Tin_Storage_Box
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Tin_Storage_Box.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Tofu_Survivor_Mode_Tips,_Walkthrough,_and_How_to_Unlock
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Tofu_Survivor_Mode_Tips,_Walkthrough,_and_How_to_Unlock.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Trophy_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Trophy_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Tyrant_(Mr_X)
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Tyrant_(Mr_X).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Uiro-Mochi_Survivor_Mode_Tips,_Walkthrough,_and_How_to_Unlock
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Uiro-Mochi_Survivor_Mode_Tips,_Walkthrough,_and_How_to_Unlock.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Underground_Facility_-_Claire
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Underground_Facility_-_Claire.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Underground_Facility_-_Claire_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Underground_Facility_-_Claire_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Underground_Facility_-_Leon
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Underground_Facility_-_Leon.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Underground_Facility_-_Leon_Second_Run
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Underground_Facility_-_Leon_Second_Run.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Upgrade_Chip_(General_Staff)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Upgrade_Chip_(General_Staff)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Upgrade_Chip_(Senior_Staff)_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Upgrade_Chip_(Senior_Staff)_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Upgrade_Chip_Locations
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Upgrade_Chip_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Valve_Handle_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Valve_Handle_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/W-870_Shotgun
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\W-870_Shotgun.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Walkthrough
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Weapons_and_Weapon_Mod_Locations
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Weapons_and_Weapon_Mod_Locations.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Weapons_Locker_Key_Card_Location
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Weapons_Locker_Key_Card_Location.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/West_Office_Safe_Code
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\West_Office_Safe_Code.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/William_Birkin_(G)
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\William_Birkin_(G).html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/re2-remake/Zombies
+File Name: D:\IGN Wikis\IGN-Wikis\Resident Evil 2 Remake\wikis\re2-remake\Zombies.html
+Content Type: text/html
+
