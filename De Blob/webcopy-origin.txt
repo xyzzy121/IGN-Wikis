@@ -1,0 +1,216 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2022/03/07/deblobds-1646673681897.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\2022\03\07\deblobds-1646673681897-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/07/deblobds-1646673681897.jpg?width=64
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\2022\03\07\deblobds-1646673681897.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/07/deblobds-1646673681897.jpg?width=64&dpr=2
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\2022\03\07\deblobds-1646673681897-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/20/stranger-things-s4-blogroll-1653068736721.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\2022\05\20\stranger-things-s4-blogroll-1653068736721.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/26/indy-1653593425583.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\2022\05\26\indy-1653593425583.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/18/thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\thumbs\userUploaded\2022\4\18\thorloveandthunderofficialteasertrailerignblogroll-1650291046616.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/29/metaverse-blogrollthumbnail-1651244627800.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/13/cinefixmcucosmicenoughblogroll-1652485024776.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\thumbs\userUploaded\2022\5\13\cinefixmcucosmicenoughblogroll-1652485024776.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/17/shehulkofficialtrailerignblogroll-1652825140341.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\thumbs\userUploaded\2022\5\17\shehulkofficialtrailerignblogroll-1652825140341.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/willowofficialteasertrailerignblogroll-1653592052121.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\thumbs\userUploaded\2022\5\26\willowofficialteasertrailerignblogroll-1653592052121.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_buildManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\Ac5PqxVnCv95yJDEPvCuT\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_ssgManifest.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\Ac5PqxVnCv95yJDEPvCuT\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\1250-f0984fbfea24438c25b2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-6b54ca5b43dced3dfd84.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\3325-6b54ca5b43dced3dfd84.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\3335-f37f50935d90c36de450.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\4735-fecddd9e4f12282111ed.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\571-147baf2d4176498805a1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\5914-92029dbf8de4df9727cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\6306-9add02503bb69c398284.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\7263-3326c3898eef7a8228d5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\8740-ed818a038011c2bf8df5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-26bb82cec46c98c7c416.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\9456-26bb82cec46c98c7c416.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\framework-57ad11da4426b1404226.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\main-b87df09e7fc063b37f88.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-62d6e732263dc299c64b.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\pages\wikis\show-62d6e732263dc299c64b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-439942a60aba69371431.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\pages\_app-439942a60aba69371431.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-3d921bab65429e4b587f.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\_next\static\chunks\webpack-3d921bab65429e4b587f.js
+Content Type: application/javascript
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/de-blob/4/41/52258_Characters_Zip.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\mediawiki\apis.ign.com\de-blob\4\41\52258_Characters_Zip.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/de-blob/8/8a/Prof.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\mediawiki\apis.ign.com\de-blob\8\8a\Prof.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/de-blob/a/a1/Untitled.png?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\mediawiki\apis.ign.com\de-blob\a\a1\Untitled.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/de-blob/f/f1/52259_Characters_Blob.jpg?width=200&quality=20&dpr=0.05
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\mediawiki\apis.ign.com\de-blob\f\f1\52259_Characters_Blob.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://www.ign.com/wikis/de-blob/
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\wikis\de-blob\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/de-blob/Characters
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\wikis\de-blob\Characters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/de-blob/Character_bios
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\wikis\de-blob\Character_bios.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/de-blob/Game_guide
+File Name: D:\IGN Wikis\IGN-Wikis\De Blob\wikis\de-blob\Game_guide.html
+Content Type: text/html
+
