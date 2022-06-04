@@ -1,0 +1,32 @@
+/* Pogo */
+div[data-pogo] iframe { margin-left: auto; margin-right: auto; }
+div[data-pogo="main"], div[data-pogo="incontent"], div[data-pogo="sidebar"]  { min-height: 250px; text-align: center; }
+div[data-mix-name="bigAd"] { min-height: 250px; }
+div[data-pogo="top"] { min-height: 50px; }
+article[data-autopogo] { position: relative; }
+div.bobble-0, div.bobble-0.5, div.bobble-1 { min-height: 250px; }
+/*main > .adunit-wrapper > .bobble-0.pg-front_page { min-height: 600px; }*/
+main > .adunit-wrapper:first-child > div.pg-front_page.bobble-0 { display: none; }
+main > .adunit-wrapper:first-child > div.fixed-on-mobile.bobble-0 { display: block; }
+div.adunit-wrapper > div.mobileOnly { display: flex; }
+div.adunit-wrapper > div.deskOnly { display: none; }
+div.pogo-slot { display: flex; }
+div.bobble-0.pg-wiki div[data-mix-name="leaderboardOnly"] { display: none; }
+section.right-rail .pogocnt.pg-front_page, section.right-rail .pogocnt.pg-index { display: none; }
+
+
+@media (min-width: 860px) {
+  div.bobble-0.pg-wiki #main-1 { display: flex; }
+  div.adunit-wrapper > div.deskOnly { display: flex; }
+  div.adunit-wrapper > div.mobileOnly { display: none; }
+  main > .adunit-wrapper > .bobble-0.pg-front_page { min-height: 250px; }
+  main > .adunit-wrapper:first-child > div.pg-front_page.bobble-0 { display: flex; }
+  div.bobble.fixed-on-mobile { display: none; }
+  div[data-pogo="main"], div[data-pogo="incontent"], div[data-pogo="top"], div[data-pogo="sidebar"]  { min-height: 250px; }
+  div[data-mix-name="tallAd"] { min-height: 600px; }
+  [data-autopogo] blockquote.twitter-tweet { min-height: 550px; }
+  main > .adunit-wrapper:first-child > div.fixed-on-mobile.bobble-0 { display: block; }
+  div.bobble-0.pg-wiki div[data-mix-name="leaderboardOnly"] { display: block; }
+  section.right-rail .pogocnt.pg-front_page, section.right-rail .pogocnt.pg-index { display: block; }
+  .content-wrapper > .adunit-wrapper:last-child .bobble-1.pg-wiki div[data-mix-name="mrecAd"] { display: none; }
+}
