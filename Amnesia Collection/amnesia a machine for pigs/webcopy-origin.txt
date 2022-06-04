@@ -1,0 +1,368 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2020/06/15/cartel-tycoon-button-01-1592257502971.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2020\06\15\cartel-tycoon-button-01-1592257502971.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2021/12/21/no-way-home-1640118858028.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2021\12\21\no-way-home-1640118858028.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/01/20/amnesia-a-machine-for-pigs-button-1642663552078.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2022\01\20\amnesia-a-machine-for-pigs-button-1642663552078.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/06/spider-man-no-way-home-nicholas-hammond-1636558468048-1637149344823-1644126688119.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2022\02\06\spider-man-no-way-home-nicholas-hammond-1636558468048-1637149344823-1644126688119.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/14/delorean-ev-1644864863232.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2022\02\14\delorean-ev-1644864863232.png
+Content Type: image/png
+
+Uri: https://assets-prd.ignimgs.com/2022/02/25/elden-ring-1645785760542.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2022\02\25\elden-ring-1645785760542.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/04/turningred-blogroll-02-1646433174282.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2022\03\04\turningred-blogroll-02-1646433174282.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/18/legostarwarsskywalkersaga-blogroll-1647642064197.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2022\03\18\legostarwarsskywalkersaga-blogroll-1647642064197.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/21/ghosttokyo-blogroll2-1647860622935.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2022\03\21\ghosttokyo-blogroll2-1647860622935.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/avatars/4ec74818e4b03724f85b51e3/1516499706455-1647308479243.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\avatars\4ec74818e4b03724f85b51e3\1516499706455-1647308479243.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2018/04/30/motherboards-blogroll-1-1525113855554_160w.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\2018\04\30\motherboards-blogroll-1-1525113855554_160w.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2018/10/24/gameofthronesthumb-1540400606246.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\thumbs\userUploaded\2018\10\24\gameofthronesthumb-1540400606246.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/1/19/lotrblog-1642603006057.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\thumbs\userUploaded\2022\1\19\lotrblog-1642603006057.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/14/moonknightsecretagenttrailerignblogroll-1647274462527.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\thumbs\userUploaded\2022\3\14\moonknightsecretagenttrailerignblogroll-1647274462527.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/9/obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\thumbs\userUploaded\2022\3\9\obiwankenobiofficialtrailerignblogroll1-1646852362503.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.static.zdbb.net/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\js\z0WVjCBSEeGLoxIxOQVEwQ.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\adchoices\adchoices.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/05b8b8eda21aae960665275c76e6ea83006ef8c2.07cade1fa77a772f5d53.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\05b8b8eda21aae960665275c76e6ea83006ef8c2.07cade1fa77a772f5d53.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/0aa1760278ae849f75ed3810298a7d92269f9cf5.77882bdee32194a00e35.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\0aa1760278ae849f75ed3810298a7d92269f9cf5.77882bdee32194a00e35.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.ff41c4c2270138df33ec.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\14635c1fcf7fbd6ddfcf4d86d04c666c1f833c03.ff41c4c2270138df33ec.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2b0344bb1fa0f759dd6cae53a704437c294cec36.26417118d80a6eedc45d.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\2b0344bb1fa0f759dd6cae53a704437c294cec36.26417118d80a6eedc45d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/32ce32b1aef922f84cc1d4933280720912ff7f17.4abe715029ab274bb3d7.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\32ce32b1aef922f84cc1d4933280720912ff7f17.4abe715029ab274bb3d7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/463bedef4a2be3385a560a7b0423d6709da06b14.c02c2b477356e73a56bd.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\463bedef4a2be3385a560a7b0423d6709da06b14.c02c2b477356e73a56bd.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4a98c2517dac092519cd459a8bd879e1876ea7af.f9e52c62be07ba06d520.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\4a98c2517dac092519cd459a8bd879e1876ea7af.f9e52c62be07ba06d520.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5569e024662e8ab1091f86a5dcd6de0494aa1cee.13a4b02264d11d17b46b.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\5569e024662e8ab1091f86a5dcd6de0494aa1cee.13a4b02264d11d17b46b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/57be0f245f112f5dd0a712a111d4963b41261074.547f6cfb659a96e910dd.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\57be0f245f112f5dd0a712a111d4963b41261074.547f6cfb659a96e910dd.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5facdc751625a593924b94090f6fe0de170e7890.2848f8e893dd95f30f7a.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\5facdc751625a593924b94090f6fe0de170e7890.2848f8e893dd95f30f7a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6f19df686e02c63565930ea1a54715b563f209b6.378ebed4a7381b0a9ca2.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\6f19df686e02c63565930ea1a54715b563f209b6.378ebed4a7381b0a9ca2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/751353ff9f61736aae69c965e8fea78f74367ee7.2fe3258accd39e9b0a1e.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\751353ff9f61736aae69c965e8fea78f74367ee7.2fe3258accd39e9b0a1e.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/77e3123af3ecd8296cc9483512dd8fbae8c9c270.19ed278cc50696e093d8.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\77e3123af3ecd8296cc9483512dd8fbae8c9c270.19ed278cc50696e093d8.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7a2d490e1a11b05a89d0b9eed706ed2b2f2ba94e.1a7355e302d3d80e498a.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\7a2d490e1a11b05a89d0b9eed706ed2b2f2ba94e.1a7355e302d3d80e498a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8322eb4bb4a426de1f974e280f74cdb83365a3a4.15a537e3ce37d14113fa.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\8322eb4bb4a426de1f974e280f74cdb83365a3a4.15a537e3ce37d14113fa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8d07584261b9123b4960359b6b411c2961a16001.82c83f899f6fc697059d.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\8d07584261b9123b4960359b6b411c2961a16001.82c83f899f6fc697059d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8fba3901cf0f05d92fd101a882802976e1357077.24a8ce28ddbba55a4be5.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\8fba3901cf0f05d92fd101a882802976e1357077.24a8ce28ddbba55a4be5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/993f31f8998386dfc732239dfb5fa3312810ec01.5c95088166b46e5fe2dc.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\993f31f8998386dfc732239dfb5fa3312810ec01.5c95088166b46e5fe2dc.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/a4484dc61b538c12f0a274f40253b640eed4d12d.a2cda83a28afcbf80749.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\a4484dc61b538c12f0a274f40253b640eed4d12d.a2cda83a28afcbf80749.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/ac0c0058e8c7e18df781f96ba7312b13daccf087.4b01d678d58931886a40.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\ac0c0058e8c7e18df781f96ba7312b13daccf087.4b01d678d58931886a40.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/bf77bf09558506050637076e2ac2d47deaee66e3.b78a165b0a4071a2d7c5.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\bf77bf09558506050637076e2ac2d47deaee66e3.b78a165b0a4071a2d7c5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/d86784ae7e471ed1322f1c778eae0f6cba66952a.543db25523488aae9478.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\d86784ae7e471ed1322f1c778eae0f6cba66952a.543db25523488aae9478.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/db862ffc2c24e01510a167f8673aaa47cf52e898.190b3fdcd8b21d5766b8.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\db862ffc2c24e01510a167f8673aaa47cf52e898.190b3fdcd8b21d5766b8.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/e2a98b1039a5d6515942b00b27fd91f1c29717b7.da39bcd9565b01559f55.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\e2a98b1039a5d6515942b00b27fd91f1c29717b7.da39bcd9565b01559f55.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework.b8f98ae0cabfbf8d6dda.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\framework.b8f98ae0cabfbf8d6dda.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-55c316d68f47749a0130.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\main-55c316d68f47749a0130.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-80c92d6580a5380a7271.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\pages\wikis\listpages-80c92d6580a5380a7271.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/recentchanges-3223a4628b8bc06e574a.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\pages\wikis\recentchanges-3223a4628b8bc06e574a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-11a466d122eb7041162b.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\pages\wikis\show-11a466d122eb7041162b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-032227c5f901f049833e.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\pages\wikis\topcontributors-032227c5f901f049833e.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-9e3869a1982e0e875891.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\pages\_app-9e3869a1982e0e875891.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-7f093e34ce3551cfd698.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\chunks\webpack-7f093e34ce3551cfd698.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/HpIkgy-V7WMVVfqERFH4C/_buildManifest.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\HpIkgy-V7WMVVfqERFH4C\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/HpIkgy-V7WMVVfqERFH4C/_ssgManifest.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\_next\static\HpIkgy-V7WMVVfqERFH4C\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\src\core\img\social\avatars\ign.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/amnesia-a-machine-for-pigs/e/ed/Amnesia_A_Machine_for_Pigs_Banner.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\mediawiki\apis.ign.com\amnesia-a-machine-for-pigs\e\ed\Amnesia_A_Machine_for_Pigs_Banner.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/41/4940289-1560272714.png?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\social\avatars\users2\41\4940289-1560272714.png
+Content Type: image/png
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://static.chartbeat.com/js/chartbeat_mab.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\js\chartbeat_mab.js
+Content Type: application/x-javascript
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/allpages
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/deadendpages
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\deadendpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/File:Amnesia_A_Machine_for_Pigs_Banner.jpg
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\FileAmnesia_A_Machine_for_Pigs_Banner.jpg.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/Ign:Navigation
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\IgnNavigation.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/longpages
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\longpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/orphanedpages
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\orphanedpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/recentchanges
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\recentchanges.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/shortpages
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\shortpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/Template:Achievement
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\TemplateAchievement.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/Template:Home-directory-section-0
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\TemplateHome-directory-section-0.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/Template:Home-directory-section-1
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\TemplateHome-directory-section-1.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/Template:Trophy
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\TemplateTrophy.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/Template:Trophy-achievement
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\TemplateTrophy-achievement.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/The_Basement
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\The_Basement.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/The_Mansion
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\The_Mansion.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/topcontributors
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/Walkthrough
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/amnesia-a-machine-for-pigs/wantedpages
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\wikis\amnesia-a-machine-for-pigs\wantedpages.html
+Content Type: text/html
+
+Uri: https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js
+File Name: C:\Users\ls356\Desktop\Amnesia Collection\amnesia a machine for pigs\js\zddmp\1.1\zddmp.min.js
+Content Type: application/javascript
+
