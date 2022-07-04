@@ -1,0 +1,336 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2020/08/06/screenshot-12-1596745269915.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\2020\08\06\screenshot-12-1596745269915.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/03/29/d06f2ea58af14c3828a688d7e0625fe7d6f5170d-1648555491970.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\2022\03\29\d06f2ea58af14c3828a688d7e0625fe7d6f5170d-1648555491970.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/03/doctorstrange-multiverse-blogroll-01-1651562345431.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\2022\05\03\doctorstrange-multiverse-blogroll-01-1651562345431.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/06/28/harvestrella-1656422348151.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\2022\06\28\harvestrella-1656422348151.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/01/18/sniper-elite-4---button-fin-1547849980019.jpg?width=120&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\2019\01\18\sniper-elite-4---button-fin-1547849980019-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/01/18/sniper-elite-4---button-fin-1547849980019.jpg?width=64&crop=1:1%2Csmart
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\2019\01\18\sniper-elite-4---button-fin-1547849980019.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/2019/01/18/sniper-elite-4---button-fin-1547849980019.jpg?width=64&crop=1:1%2Csmart&dpr=2
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\2019\01\18\sniper-elite-4---button-fin-1547849980019-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll-1652106384393.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll-1652106384393.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/13/agent64thumb-1655151392158.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\13\agent64thumb-1655151392158.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/16/cookiecutterofficialannouncementtrailer36190303cookiecutterblogroll01-1655404903242.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\16\cookiecutterofficialannouncementtrailer36190303cookiecutterblogroll01-1655404903242.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/17/neonwhitelaunchtrailerignblogroll-1655484155044.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\17\neonwhitelaunchtrailerignblogroll-1655484155044.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/2/image-1654209232175.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\2\image-1654209232175.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/21/36190303top10a24moviesblogroll-1655859837908.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\21\36190303top10a24moviesblogroll-1655859837908.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/24/36190303wildwestdynastyblogroll-1656095346917.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\24\36190303wildwestdynastyblogroll-1656095346917.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/27/eldenringliveactionblog-1656339559603.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\27\eldenringliveactionblog-1656339559603.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/28/hocuspocus2teaserblog-1656418231971.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\28\hocuspocus2teaserblog-1656418231971.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/3/re4-remake-1654207743431.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\3\re4-remake-1654207743431.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/7/preyofficialtrailerignblogroll2-1654616825153.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\7\preyofficialtrailerignblogroll2-1654616825153.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/9/nopetrailerblog-1654767678140.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\thumbs\userUploaded\2022\6\9\nopetrailerblog-1654767678140.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.ziffstatic.com/adchoices/adchoices.png
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\adchoices\adchoices.png
+Content Type: image/png
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://dsmedia.ign.com/ds/image/object/959/959144/Shrek-Ogres-and-Dronkeys---.jpg?width=1440&saturation=80&crop=4:1%2Csmart&blur=14
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\ds\image\object\959\959144\Shrek-Ogres-and-Dronkeys---.jpg
+Content Type: image/jpeg
+
+Uri: https://imasdk.googleapis.com/js/sdkloader/ima3.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\js\sdkloader\ima3.js
+Content Type: text/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1032-23f86d64ce626cf85fb3.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\1032-23f86d64ce626cf85fb3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-fbca80e084625af88f1a.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\1250-fbca80e084625af88f1a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1323-49e178099baa4b8b90eb.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\1323-49e178099baa4b8b90eb.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2786-c65fdfa5c46c9457bc0a.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\2786-c65fdfa5c46c9457bc0a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2842-a8d68a0338c68292795c.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\2842-a8d68a0338c68292795c.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3168-418c71d115c008f8af9b.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\3168-418c71d115c008f8af9b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3776-4c3cde4b8a00f3e6198f.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\3776-4c3cde4b8a00f3e6198f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-61e9c5367c2c903e77b7.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\571-61e9c5367c2c903e77b7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5854-b9f5ed828c087fac69a1.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\5854-b9f5ed828c087fac69a1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\6306-9add02503bb69c398284.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-5ec206972d03391648ed.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\7263-5ec206972d03391648ed.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7268-94903734bf5104f7f45b.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\7268-94903734bf5104f7f45b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7356-1835f6cf95b720b43188.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\7356-1835f6cf95b720b43188.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8646-15373f069679c8052252.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\8646-15373f069679c8052252.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-31c6ab3c955731a4fbee.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\8740-31c6ab3c955731a4fbee.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-75c3c3d1333c8e036edc.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\9456-75c3c3d1333c8e036edc.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\framework-57ad11da4426b1404226.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\main-b87df09e7fc063b37f88.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-105751faa45544be70c7.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\pages\wikis\show-105751faa45544be70c7.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-deb61b5def98c47daf4d.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\pages\wikis\topcontributors-deb61b5def98c47daf4d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-3b089d69fdf59fa9543d.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\pages\_app-3b089d69fdf59fa9543d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-8b79e55fd2313ddd6f6a.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\chunks\webpack-8b79e55fd2313ddd6f6a.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/_lfkHg3821pkuqndhUfeA/_buildManifest.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\_lfkHg3821pkuqndhUfeA\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/_lfkHg3821pkuqndhUfeA/_ssgManifest.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\_next\static\_lfkHg3821pkuqndhUfeA\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\src\core\img\social\avatars\ign.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/sniper-elite-4/2/2f/Se44jpgjpg-da821d.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\mediawiki\apis.ign.com\sniper-elite-4\2\2f\Se44jpgjpg-da821d.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/sniper-elite-4/8/85/SE4_Map_DLC1_TargetFuhrer.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\mediawiki\apis.ign.com\sniper-elite-4\8\85\SE4_Map_DLC1_TargetFuhrer.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/sniper-elite-4/8/8f/SE4_Map_DLC3_Deathstorm2.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\mediawiki\apis.ign.com\sniper-elite-4\8\8f\SE4_Map_DLC3_Deathstorm2.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/sniper-elite-4/d/d0/SE4_Map_DLC3_Deathstorm3.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\mediawiki\apis.ign.com\sniper-elite-4\d\d0\SE4_Map_DLC3_Deathstorm3.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/sniper-elite-4/d/d1/SE4_Map_DLC2_Deathstorm1.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\mediawiki\apis.ign.com\sniper-elite-4\d\d1\SE4_Map_DLC2_Deathstorm1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/sniper-elite-4/d/d2/SE4_Rifles_Overview_v15.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\mediawiki\apis.ign.com\sniper-elite-4\d\d2\SE4_Rifles_Overview_v15.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/94/6460407-1393773549.png?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\social\avatars\users2\94\6460407-1393773549.png
+Content Type: image/png
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://static.adsafeprotected.com/vans-adapter-google-ima.js
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\vans-adapter-google-ima.js
+Content Type: application/javascript
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/Achievements_and_Trophies
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\Achievements_and_Trophies.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/Cheats_and_Secrets
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\Cheats_and_Secrets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/Collectibles
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\Collectibles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/DLC_Deathstorm_III_~_Map
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\DLC_Deathstorm_III_~_Map.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/DLC_Deathstorm_II_~_Map
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\DLC_Deathstorm_II_~_Map.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/DLC_Deathstorm_I_~_Map
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\DLC_Deathstorm_I_~_Map.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/DLC_Target_Fuhrer_~_Map
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\DLC_Target_Fuhrer_~_Map.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/Rifles_Overview
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\Rifles_Overview.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/Stone_Eagles
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\Stone_Eagles.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/topcontributors
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/sniper-elite-4/Walkthrough
+File Name: C:\Users\ls356\Downloads\Sniper Elite 4\wikis\sniper-elite-4\Walkthrough.html
+Content Type: text/html
+
